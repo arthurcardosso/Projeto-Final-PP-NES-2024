@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Funcionalidades</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 flex items-center justify-center h-screen">
+
+    <div class="max-w-lg w-full bg-white p-6 rounded-lg shadow-lg" data-aos="fade-up">
+        <header class="bg-white text-green-600 p-6 mb-8" data-aos="fade-down">
+            <h1 class="text-4xl font-bold text-center">Escolha uma Funcionalidade</h1>
+        </header>
+        
+        <main>
+            <section>
+                <ul class="space-y-4">
+                    <li data-aos="fade-left" data-aos-delay="100">
+                        <a href="/funcionalidade_leitos" class="block bg-gradient-to-r from-green-600 to-green-400 text-white p-4 rounded shadow hover:bg-green-500 transform hover:scale-105 transition duration-300 ease-in-out">
+                            Análise de Leitos
+                        </a>
+                    </li>
+                    <li data-aos="fade-left" data-aos-delay="200">
+                        <a href="/funcionalidade_profissionais" class="block bg-gradient-to-r from-green-600 to-green-400 text-white p-4 rounded shadow hover:bg-green-500 transform hover:scale-105 transition duration-300 ease-in-out">
+                            Análise de Profissionais da Saúde
+                        </a>
+                    </li>
+                    <li data-aos="fade-left" data-aos-delay="300">
+                        <a href="/funcionalidade_estabelecimentos" class="block bg-gradient-to-r from-green-600 to-green-400 text-white p-4 rounded shadow hover:bg-green-500 transform hover:scale-105 transition duration-300 ease-in-out">
+                            Análise de Estabelecimentos
+                        </a>
+                    </li>
+                    <li data-aos="fade-left" data-aos-delay="400">
+                        <a href="/funcionalidade_mortalidade" class="block bg-gradient-to-r from-green-600 to-green-400 text-white p-4 rounded shadow hover:bg-green-500 transform hover:scale-105 transition duration-300 ease-in-out">
+                            Taxa de Mortalidade
+                        </a>
+                    </li>
+                    <li data-aos="fade-left" data-aos-delay="500">
+                        <a href="/funcionalidade_dengue" class="block bg-gradient-to-r from-green-600 to-green-400 text-white p-4 rounded shadow hover:bg-green-500 transform hover:scale-105 transition duration-300 ease-in-out">
+                            Casos de Dengue
+                        </a>
+                    </li>
+                </ul>
+            </section>
+            <nav class="mt-10 flex justify-center">
+                <a href="/" class="bg-green-600 text-white px-6 py-3 rounded shadow hover:bg-green-500 transform hover:scale-105 transition duration-300 ease-in-out">
+                    Voltar para a Home
+                </a>
+            </nav>
+        </main>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+    <script>
+        AOS.init({
+            duration: 1000, 
+            easing: 'ease-in-out', 
+            once: true, 
+        });
+    </script>
+
+</body>
+</html>

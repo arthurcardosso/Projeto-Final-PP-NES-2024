@@ -1,0 +1,1616 @@
+_id,co_reg_geo,no_reg_geo,ano,variavel,saude_categoria,saude_subcategoria,valor
+1,1.0,Norte,2007,Profissionais de Saúde,Anestesista,Total,474.0
+2,1.0,Norte,2007,Profissionais de Saúde,Assistente Social,Total,1043.0
+3,1.0,Norte,2007,Profissionais de Saúde,Bioquímico/farmacêutico,Total,1835.0
+4,1.0,Norte,2007,Profissionais de Saúde,Cirurgião Geral,Total,907.0
+5,1.0,Norte,2007,Profissionais de Saúde,Clínico Geral,Total,3276.0
+6,1.0,Norte,2007,Profissionais de Saúde,Enfermeiro,Total,6015.0
+7,1.0,Norte,2007,Profissionais de Saúde,Fisioterapeuta,Total,1001.0
+8,1.0,Norte,2007,Profissionais de Saúde,Fonoaudiólogo,Total,339.0
+9,1.0,Norte,2007,Profissionais de Saúde,Gineco Obstetra,Total,714.0
+10,1.0,Norte,2007,Profissionais de Saúde,Médico de Família,Total,1325.0
+11,1.0,Norte,2007,Profissionais de Saúde,Nutricionista,Total,450.0
+12,1.0,Norte,2007,Profissionais de Saúde,Odontólogo,Total,3552.0
+13,1.0,Norte,2007,Profissionais de Saúde,Outras especialidades médicas,Total,2510.0
+14,1.0,Norte,2007,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,960.0
+15,1.0,Norte,2007,Profissionais de Saúde,Pediatra,Total,804.0
+16,1.0,Norte,2007,Profissionais de Saúde,Psicólogo,Total,833.0
+17,1.0,Norte,2007,Profissionais de Saúde,Psiquiatra,Total,91.0
+18,1.0,Norte,2007,Profissionais de Saúde,Radiologista,Total,325.0
+19,1.0,Norte,2007,Profissionais de Saúde,Sanitarista,Total,19.0
+20,1.0,Norte,2008,Profissionais de Saúde,Anestesista,Total,637.0
+21,1.0,Norte,2008,Profissionais de Saúde,Assistente Social,Total,1138.0
+22,1.0,Norte,2008,Profissionais de Saúde,Bioquímico/farmacêutico,Total,2040.0
+23,1.0,Norte,2008,Profissionais de Saúde,Cirurgião Geral,Total,1064.0
+24,1.0,Norte,2008,Profissionais de Saúde,Clínico Geral,Total,3681.0
+25,1.0,Norte,2008,Profissionais de Saúde,Enfermeiro,Total,6809.0
+26,1.0,Norte,2008,Profissionais de Saúde,Fisioterapeuta,Total,1319.0
+27,1.0,Norte,2008,Profissionais de Saúde,Fonoaudiólogo,Total,441.0
+28,1.0,Norte,2008,Profissionais de Saúde,Gineco Obstetra,Total,732.0
+29,1.0,Norte,2008,Profissionais de Saúde,Médico de Família,Total,1238.0
+30,1.0,Norte,2008,Profissionais de Saúde,Nutricionista,Total,577.0
+31,1.0,Norte,2008,Profissionais de Saúde,Odontólogo,Total,4079.0
+32,1.0,Norte,2008,Profissionais de Saúde,Outras especialidades médicas,Total,2806.0
+33,1.0,Norte,2008,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,1141.0
+34,1.0,Norte,2008,Profissionais de Saúde,Pediatra,Total,859.0
+35,1.0,Norte,2008,Profissionais de Saúde,Psicólogo,Total,971.0
+36,1.0,Norte,2008,Profissionais de Saúde,Psiquiatra,Total,97.0
+37,1.0,Norte,2008,Profissionais de Saúde,Radiologista,Total,321.0
+38,1.0,Norte,2008,Profissionais de Saúde,Sanitarista,Total,15.0
+39,1.0,Norte,2009,Profissionais de Saúde,Anestesista,Total,718.0
+40,1.0,Norte,2009,Profissionais de Saúde,Assistente Social,Total,1215.0
+41,1.0,Norte,2009,Profissionais de Saúde,Bioquímico/farmacêutico,Total,2250.0
+42,1.0,Norte,2009,Profissionais de Saúde,Cirurgião Geral,Total,1236.0
+43,1.0,Norte,2009,Profissionais de Saúde,Clínico Geral,Total,3873.0
+44,1.0,Norte,2009,Profissionais de Saúde,Enfermeiro,Total,7338.0
+45,1.0,Norte,2009,Profissionais de Saúde,Fisioterapeuta,Total,1551.0
+46,1.0,Norte,2009,Profissionais de Saúde,Fonoaudiólogo,Total,518.0
+47,1.0,Norte,2009,Profissionais de Saúde,Gineco Obstetra,Total,710.0
+48,1.0,Norte,2009,Profissionais de Saúde,Médico de Família,Total,1254.0
+49,1.0,Norte,2009,Profissionais de Saúde,Nutricionista,Total,660.0
+50,1.0,Norte,2009,Profissionais de Saúde,Odontólogo,Total,4508.0
+51,1.0,Norte,2009,Profissionais de Saúde,Outras especialidades médicas,Total,2951.0
+52,1.0,Norte,2009,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,1228.0
+53,1.0,Norte,2009,Profissionais de Saúde,Pediatra,Total,904.0
+54,1.0,Norte,2009,Profissionais de Saúde,Psicólogo,Total,1086.0
+55,1.0,Norte,2009,Profissionais de Saúde,Psiquiatra,Total,103.0
+56,1.0,Norte,2009,Profissionais de Saúde,Radiologista,Total,316.0
+57,1.0,Norte,2009,Profissionais de Saúde,Sanitarista,Total,10.0
+58,1.0,Norte,2010,Profissionais de Saúde,Anestesista,Total,761.0
+59,1.0,Norte,2010,Profissionais de Saúde,Assistente Social,Total,1360.0
+60,1.0,Norte,2010,Profissionais de Saúde,Bioquímico/farmacêutico,Total,2409.0
+61,1.0,Norte,2010,Profissionais de Saúde,Cirurgião Geral,Total,1250.0
+62,1.0,Norte,2010,Profissionais de Saúde,Clínico Geral,Total,4079.0
+63,1.0,Norte,2010,Profissionais de Saúde,Enfermeiro,Total,8158.0
+64,1.0,Norte,2010,Profissionais de Saúde,Fisioterapeuta,Total,1802.0
+65,1.0,Norte,2010,Profissionais de Saúde,Fonoaudiólogo,Total,606.0
+66,1.0,Norte,2010,Profissionais de Saúde,Gineco Obstetra,Total,745.0
+67,1.0,Norte,2010,Profissionais de Saúde,Médico de Família,Total,1301.0
+68,1.0,Norte,2010,Profissionais de Saúde,Nutricionista,Total,761.0
+69,1.0,Norte,2010,Profissionais de Saúde,Odontólogo,Total,4827.0
+70,1.0,Norte,2010,Profissionais de Saúde,Outras especialidades médicas,Total,3129.0
+71,1.0,Norte,2010,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,1413.0
+72,1.0,Norte,2010,Profissionais de Saúde,Pediatra,Total,904.0
+73,1.0,Norte,2010,Profissionais de Saúde,Psicólogo,Total,1259.0
+74,1.0,Norte,2010,Profissionais de Saúde,Psiquiatra,Total,110.0
+75,1.0,Norte,2010,Profissionais de Saúde,Radiologista,Total,340.0
+76,1.0,Norte,2010,Profissionais de Saúde,Sanitarista,Total,11.0
+77,1.0,Norte,2011,Profissionais de Saúde,Anestesista,Total,0.0
+78,1.0,Norte,2011,Profissionais de Saúde,Assistente Social,Total,1505.0
+79,1.0,Norte,2011,Profissionais de Saúde,Bioquímico/farmacêutico,Total,2491.0
+80,1.0,Norte,2011,Profissionais de Saúde,Cirurgião Geral,Total,455.0
+81,1.0,Norte,2011,Profissionais de Saúde,Clínico Geral,Total,4004.0
+82,1.0,Norte,2011,Profissionais de Saúde,Enfermeiro,Total,8779.0
+83,1.0,Norte,2011,Profissionais de Saúde,Fisioterapeuta,Total,2026.0
+84,1.0,Norte,2011,Profissionais de Saúde,Fonoaudiólogo,Total,663.0
+85,1.0,Norte,2011,Profissionais de Saúde,Gineco Obstetra,Total,791.0
+86,1.0,Norte,2011,Profissionais de Saúde,Médico de Família,Total,1221.0
+87,1.0,Norte,2011,Profissionais de Saúde,Nutricionista,Total,831.0
+88,1.0,Norte,2011,Profissionais de Saúde,Odontólogo,Total,5158.0
+89,1.0,Norte,2011,Profissionais de Saúde,Outras especialidades médicas,Total,3544.0
+90,1.0,Norte,2011,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,1591.0
+91,1.0,Norte,2011,Profissionais de Saúde,Pediatra,Total,1606.0
+92,1.0,Norte,2011,Profissionais de Saúde,Psicólogo,Total,1385.0
+93,1.0,Norte,2011,Profissionais de Saúde,Psiquiatra,Total,125.0
+94,1.0,Norte,2011,Profissionais de Saúde,Radiologista,Total,280.0
+95,1.0,Norte,2011,Profissionais de Saúde,Sanitarista,Total,10.0
+96,1.0,Norte,2012,Profissionais de Saúde,Anestesista,Total,0.0
+97,1.0,Norte,2012,Profissionais de Saúde,Assistente Social,Total,1653.0
+98,1.0,Norte,2012,Profissionais de Saúde,Bioquímico/farmacêutico,Total,2676.0
+99,1.0,Norte,2012,Profissionais de Saúde,Cirurgião Geral,Total,452.0
+100,1.0,Norte,2012,Profissionais de Saúde,Clínico Geral,Total,4311.0
+101,1.0,Norte,2012,Profissionais de Saúde,Enfermeiro,Total,9775.0
+102,1.0,Norte,2012,Profissionais de Saúde,Fisioterapeuta,Total,2296.0
+103,1.0,Norte,2012,Profissionais de Saúde,Fonoaudiólogo,Total,728.0
+104,1.0,Norte,2012,Profissionais de Saúde,Gineco Obstetra,Total,795.0
+105,1.0,Norte,2012,Profissionais de Saúde,Médico de Família,Total,1194.0
+106,1.0,Norte,2012,Profissionais de Saúde,Nutricionista,Total,922.0
+107,1.0,Norte,2012,Profissionais de Saúde,Odontólogo,Total,5485.0
+108,1.0,Norte,2012,Profissionais de Saúde,Outras especialidades médicas,Total,3691.0
+109,1.0,Norte,2012,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,1687.0
+110,1.0,Norte,2012,Profissionais de Saúde,Pediatra,Total,1662.0
+111,1.0,Norte,2012,Profissionais de Saúde,Psicólogo,Total,1531.0
+112,1.0,Norte,2012,Profissionais de Saúde,Psiquiatra,Total,137.0
+113,1.0,Norte,2012,Profissionais de Saúde,Radiologista,Total,298.0
+114,1.0,Norte,2012,Profissionais de Saúde,Sanitarista,Total,11.0
+115,1.0,Norte,2013,Profissionais de Saúde,Anestesista,Total,0.0
+116,1.0,Norte,2013,Profissionais de Saúde,Assistente Social,Total,1946.0
+117,1.0,Norte,2013,Profissionais de Saúde,Bioquímico/farmacêutico,Total,1296.0
+118,1.0,Norte,2013,Profissionais de Saúde,Cirurgião Geral,Total,482.0
+119,1.0,Norte,2013,Profissionais de Saúde,Clínico Geral,Total,4678.0
+120,1.0,Norte,2013,Profissionais de Saúde,Enfermeiro,Total,10992.0
+121,1.0,Norte,2013,Profissionais de Saúde,Fisioterapeuta,Total,2607.0
+122,1.0,Norte,2013,Profissionais de Saúde,Fonoaudiólogo,Total,787.0
+123,1.0,Norte,2013,Profissionais de Saúde,Gineco Obstetra,Total,808.0
+124,1.0,Norte,2013,Profissionais de Saúde,Médico de Família,Total,1733.0
+125,1.0,Norte,2013,Profissionais de Saúde,Nutricionista,Total,1056.0
+126,1.0,Norte,2013,Profissionais de Saúde,Odontólogo,Total,5869.0
+127,1.0,Norte,2013,Profissionais de Saúde,Outras especialidades médicas,Total,4020.0
+128,1.0,Norte,2013,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,1825.0
+129,1.0,Norte,2013,Profissionais de Saúde,Pediatra,Total,1679.0
+130,1.0,Norte,2013,Profissionais de Saúde,Psicólogo,Total,1736.0
+131,1.0,Norte,2013,Profissionais de Saúde,Psiquiatra,Total,148.0
+132,1.0,Norte,2013,Profissionais de Saúde,Radiologista,Total,328.0
+133,1.0,Norte,2013,Profissionais de Saúde,Sanitarista,Total,10.0
+134,1.0,Norte,2014,Profissionais de Saúde,Anestesista,Total,0.0
+135,1.0,Norte,2014,Profissionais de Saúde,Assistente Social,Total,2215.0
+136,1.0,Norte,2014,Profissionais de Saúde,Bioquímico/farmacêutico,Total,1593.0
+137,1.0,Norte,2014,Profissionais de Saúde,Cirurgião Geral,Total,506.0
+138,1.0,Norte,2014,Profissionais de Saúde,Clínico Geral,Total,5023.0
+139,1.0,Norte,2014,Profissionais de Saúde,Enfermeiro,Total,12661.0
+140,1.0,Norte,2014,Profissionais de Saúde,Fisioterapeuta,Total,2898.0
+141,1.0,Norte,2014,Profissionais de Saúde,Fonoaudiólogo,Total,852.0
+142,1.0,Norte,2014,Profissionais de Saúde,Gineco Obstetra,Total,829.0
+143,1.0,Norte,2014,Profissionais de Saúde,Médico de Família,Total,2474.0
+144,1.0,Norte,2014,Profissionais de Saúde,Nutricionista,Total,1167.0
+145,1.0,Norte,2014,Profissionais de Saúde,Odontólogo,Total,6239.0
+146,1.0,Norte,2014,Profissionais de Saúde,Outras especialidades médicas,Total,4419.0
+147,1.0,Norte,2014,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,2036.0
+148,1.0,Norte,2014,Profissionais de Saúde,Pediatra,Total,1737.0
+149,1.0,Norte,2014,Profissionais de Saúde,Psicólogo,Total,1959.0
+150,1.0,Norte,2014,Profissionais de Saúde,Psiquiatra,Total,149.0
+151,1.0,Norte,2014,Profissionais de Saúde,Radiologista,Total,345.0
+152,1.0,Norte,2014,Profissionais de Saúde,Sanitarista,Total,9.0
+153,1.0,Norte,2015,Profissionais de Saúde,Anestesista,Total,0.0
+154,1.0,Norte,2015,Profissionais de Saúde,Assistente Social,Total,2355.0
+155,1.0,Norte,2015,Profissionais de Saúde,Bioquímico/farmacêutico,Total,1813.0
+156,1.0,Norte,2015,Profissionais de Saúde,Cirurgião Geral,Total,520.0
+157,1.0,Norte,2015,Profissionais de Saúde,Clínico Geral,Total,5162.0
+158,1.0,Norte,2015,Profissionais de Saúde,Enfermeiro,Total,13519.0
+159,1.0,Norte,2015,Profissionais de Saúde,Fisioterapeuta,Total,3164.0
+160,1.0,Norte,2015,Profissionais de Saúde,Fonoaudiólogo,Total,897.0
+161,1.0,Norte,2015,Profissionais de Saúde,Gineco Obstetra,Total,866.0
+162,1.0,Norte,2015,Profissionais de Saúde,Médico de Família,Total,2572.0
+163,1.0,Norte,2015,Profissionais de Saúde,Nutricionista,Total,1249.0
+164,1.0,Norte,2015,Profissionais de Saúde,Odontólogo,Total,6454.0
+165,1.0,Norte,2015,Profissionais de Saúde,Outras especialidades médicas,Total,4739.0
+166,1.0,Norte,2015,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,2217.0
+167,1.0,Norte,2015,Profissionais de Saúde,Pediatra,Total,1736.0
+168,1.0,Norte,2015,Profissionais de Saúde,Psicólogo,Total,2100.0
+169,1.0,Norte,2015,Profissionais de Saúde,Psiquiatra,Total,144.0
+170,1.0,Norte,2015,Profissionais de Saúde,Radiologista,Total,376.0
+171,1.0,Norte,2015,Profissionais de Saúde,Sanitarista,Total,8.0
+172,1.0,Norte,2016,Profissionais de Saúde,Anestesista,Total,0.0
+173,1.0,Norte,2016,Profissionais de Saúde,Assistente Social,Total,2517.0
+174,1.0,Norte,2016,Profissionais de Saúde,Bioquímico/farmacêutico,Total,1966.0
+175,1.0,Norte,2016,Profissionais de Saúde,Cirurgião Geral,Total,531.0
+176,1.0,Norte,2016,Profissionais de Saúde,Clínico Geral,Total,5350.0
+177,1.0,Norte,2016,Profissionais de Saúde,Enfermeiro,Total,14416.0
+178,1.0,Norte,2016,Profissionais de Saúde,Fisioterapeuta,Total,3363.0
+179,1.0,Norte,2016,Profissionais de Saúde,Fonoaudiólogo,Total,939.0
+180,1.0,Norte,2016,Profissionais de Saúde,Gineco Obstetra,Total,906.0
+181,1.0,Norte,2016,Profissionais de Saúde,Médico de Família,Total,2659.0
+182,1.0,Norte,2016,Profissionais de Saúde,Nutricionista,Total,1366.0
+183,1.0,Norte,2016,Profissionais de Saúde,Odontólogo,Total,6725.0
+184,1.0,Norte,2016,Profissionais de Saúde,Outras especialidades médicas,Total,5006.0
+185,1.0,Norte,2016,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,2297.0
+186,1.0,Norte,2016,Profissionais de Saúde,Pediatra,Total,1787.0
+187,1.0,Norte,2016,Profissionais de Saúde,Psicólogo,Total,2268.0
+188,1.0,Norte,2016,Profissionais de Saúde,Psiquiatra,Total,152.0
+189,1.0,Norte,2016,Profissionais de Saúde,Radiologista,Total,413.0
+190,1.0,Norte,2016,Profissionais de Saúde,Sanitarista,Total,7.0
+191,1.0,Norte,2017,Profissionais de Saúde,Anestesista,Total,0.0
+192,1.0,Norte,2017,Profissionais de Saúde,Assistente Social,Total,2718.0
+193,1.0,Norte,2017,Profissionais de Saúde,Bioquímico/farmacêutico,Total,2152.0
+194,1.0,Norte,2017,Profissionais de Saúde,Cirurgião Geral,Total,556.0
+195,1.0,Norte,2017,Profissionais de Saúde,Clínico Geral,Total,5620.0
+196,1.0,Norte,2017,Profissionais de Saúde,Enfermeiro,Total,15790.0
+197,1.0,Norte,2017,Profissionais de Saúde,Fisioterapeuta,Total,3531.0
+198,1.0,Norte,2017,Profissionais de Saúde,Fonoaudiólogo,Total,994.0
+199,1.0,Norte,2017,Profissionais de Saúde,Gineco Obstetra,Total,951.0
+200,1.0,Norte,2017,Profissionais de Saúde,Médico de Família,Total,2682.0
+201,1.0,Norte,2017,Profissionais de Saúde,Nutricionista,Total,1480.0
+202,1.0,Norte,2017,Profissionais de Saúde,Odontólogo,Total,7051.0
+203,1.0,Norte,2017,Profissionais de Saúde,Outras especialidades médicas,Total,5292.0
+204,1.0,Norte,2017,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,2449.0
+205,1.0,Norte,2017,Profissionais de Saúde,Pediatra,Total,1808.0
+206,1.0,Norte,2017,Profissionais de Saúde,Psicólogo,Total,2452.0
+207,1.0,Norte,2017,Profissionais de Saúde,Psiquiatra,Total,154.0
+208,1.0,Norte,2017,Profissionais de Saúde,Radiologista,Total,426.0
+209,1.0,Norte,2017,Profissionais de Saúde,Sanitarista,Total,5.0
+210,1.0,Norte,2018,Profissionais de Saúde,Anestesista,Total,0.0
+211,1.0,Norte,2018,Profissionais de Saúde,Assistente Social,Total,2988.0
+212,1.0,Norte,2018,Profissionais de Saúde,Bioquímico/farmacêutico,Total,2419.0
+213,1.0,Norte,2018,Profissionais de Saúde,Cirurgião Geral,Total,600.0
+214,1.0,Norte,2018,Profissionais de Saúde,Clínico Geral,Total,5819.0
+215,1.0,Norte,2018,Profissionais de Saúde,Enfermeiro,Total,17338.0
+216,1.0,Norte,2018,Profissionais de Saúde,Fisioterapeuta,Total,3962.0
+217,1.0,Norte,2018,Profissionais de Saúde,Fonoaudiólogo,Total,1116.0
+218,1.0,Norte,2018,Profissionais de Saúde,Gineco Obstetra,Total,980.0
+219,1.0,Norte,2018,Profissionais de Saúde,Médico de Família,Total,2331.0
+220,1.0,Norte,2018,Profissionais de Saúde,Nutricionista,Total,1628.0
+221,1.0,Norte,2018,Profissionais de Saúde,Odontólogo,Total,7648.0
+222,1.0,Norte,2018,Profissionais de Saúde,Outras especialidades médicas,Total,5580.0
+223,1.0,Norte,2018,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,2798.0
+224,1.0,Norte,2018,Profissionais de Saúde,Pediatra,Total,1860.0
+225,1.0,Norte,2018,Profissionais de Saúde,Psicólogo,Total,2792.0
+226,1.0,Norte,2018,Profissionais de Saúde,Psiquiatra,Total,155.0
+227,1.0,Norte,2018,Profissionais de Saúde,Radiologista,Total,452.0
+228,1.0,Norte,2018,Profissionais de Saúde,Sanitarista,Total,3.0
+229,1.0,Norte,2019,Profissionais de Saúde,Anestesista,Total,0.0
+230,1.0,Norte,2019,Profissionais de Saúde,Assistente Social,Total,3069.0
+231,1.0,Norte,2019,Profissionais de Saúde,Bioquímico/farmacêutico,Total,2656.0
+232,1.0,Norte,2019,Profissionais de Saúde,Cirurgião Geral,Total,641.0
+233,1.0,Norte,2019,Profissionais de Saúde,Clínico Geral,Total,6253.0
+234,1.0,Norte,2019,Profissionais de Saúde,Enfermeiro,Total,18222.0
+235,1.0,Norte,2019,Profissionais de Saúde,Fisioterapeuta,Total,4121.0
+236,1.0,Norte,2019,Profissionais de Saúde,Fonoaudiólogo,Total,1129.0
+237,1.0,Norte,2019,Profissionais de Saúde,Gineco Obstetra,Total,998.0
+238,1.0,Norte,2019,Profissionais de Saúde,Médico de Família,Total,2470.0
+239,1.0,Norte,2019,Profissionais de Saúde,Nutricionista,Total,1703.0
+240,1.0,Norte,2019,Profissionais de Saúde,Odontólogo,Total,8003.0
+241,1.0,Norte,2019,Profissionais de Saúde,Outras especialidades médicas,Total,5663.0
+242,1.0,Norte,2019,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,2938.0
+243,1.0,Norte,2019,Profissionais de Saúde,Pediatra,Total,1968.0
+244,1.0,Norte,2019,Profissionais de Saúde,Psicólogo,Total,3050.0
+245,1.0,Norte,2019,Profissionais de Saúde,Psiquiatra,Total,179.0
+246,1.0,Norte,2019,Profissionais de Saúde,Radiologista,Total,489.0
+247,1.0,Norte,2019,Profissionais de Saúde,Sanitarista,Total,5.0
+248,1.0,Norte,2020,Profissionais de Saúde,Anestesista,Total,0.0
+249,1.0,Norte,2020,Profissionais de Saúde,Assistente Social,Total,3266.0
+250,1.0,Norte,2020,Profissionais de Saúde,Bioquímico/farmacêutico,Total,3070.0
+251,1.0,Norte,2020,Profissionais de Saúde,Cirurgião Geral,Total,641.0
+252,1.0,Norte,2020,Profissionais de Saúde,Clínico Geral,Total,7269.0
+253,1.0,Norte,2020,Profissionais de Saúde,Enfermeiro,Total,21718.0
+254,1.0,Norte,2020,Profissionais de Saúde,Fisioterapeuta,Total,4717.0
+255,1.0,Norte,2020,Profissionais de Saúde,Fonoaudiólogo,Total,1190.0
+256,1.0,Norte,2020,Profissionais de Saúde,Gineco Obstetra,Total,997.0
+257,1.0,Norte,2020,Profissionais de Saúde,Médico de Família,Total,2440.0
+258,1.0,Norte,2020,Profissionais de Saúde,Nutricionista,Total,1815.0
+259,1.0,Norte,2020,Profissionais de Saúde,Odontólogo,Total,7902.0
+260,1.0,Norte,2020,Profissionais de Saúde,Outras especialidades médicas,Total,5832.0
+261,1.0,Norte,2020,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,3192.0
+262,1.0,Norte,2020,Profissionais de Saúde,Pediatra,Total,1973.0
+263,1.0,Norte,2020,Profissionais de Saúde,Psicólogo,Total,3129.0
+264,1.0,Norte,2020,Profissionais de Saúde,Psiquiatra,Total,193.0
+265,1.0,Norte,2020,Profissionais de Saúde,Radiologista,Total,535.0
+266,1.0,Norte,2020,Profissionais de Saúde,Sanitarista,Total,5.0
+267,1.0,Norte,2021,Profissionais de Saúde,Anestesista,Total,0.0
+268,1.0,Norte,2021,Profissionais de Saúde,Assistente Social,Total,3556.0
+269,1.0,Norte,2021,Profissionais de Saúde,Bioquímico/farmacêutico,Total,3676.0
+270,1.0,Norte,2021,Profissionais de Saúde,Cirurgião Geral,Total,640.0
+271,1.0,Norte,2021,Profissionais de Saúde,Clínico Geral,Total,7831.0
+272,1.0,Norte,2021,Profissionais de Saúde,Enfermeiro,Total,23990.0
+273,1.0,Norte,2021,Profissionais de Saúde,Fisioterapeuta,Total,5557.0
+274,1.0,Norte,2021,Profissionais de Saúde,Fonoaudiólogo,Total,1302.0
+275,1.0,Norte,2021,Profissionais de Saúde,Gineco Obstetra,Total,1012.0
+276,1.0,Norte,2021,Profissionais de Saúde,Médico de Família,Total,2634.0
+277,1.0,Norte,2021,Profissionais de Saúde,Nutricionista,Total,2054.0
+278,1.0,Norte,2021,Profissionais de Saúde,Odontólogo,Total,8538.0
+279,1.0,Norte,2021,Profissionais de Saúde,Outras especialidades médicas,Total,6264.0
+280,1.0,Norte,2021,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,3553.0
+281,1.0,Norte,2021,Profissionais de Saúde,Pediatra,Total,1918.0
+282,1.0,Norte,2021,Profissionais de Saúde,Psicólogo,Total,3571.0
+283,1.0,Norte,2021,Profissionais de Saúde,Psiquiatra,Total,203.0
+284,1.0,Norte,2021,Profissionais de Saúde,Radiologista,Total,531.0
+285,1.0,Norte,2021,Profissionais de Saúde,Sanitarista,Total,5.0
+286,1.0,Norte,2022,Profissionais de Saúde,Anestesista,Total,0.0
+287,1.0,Norte,2022,Profissionais de Saúde,Assistente Social,Total,3806.0
+288,1.0,Norte,2022,Profissionais de Saúde,Bioquímico/farmacêutico,Total,4127.0
+289,1.0,Norte,2022,Profissionais de Saúde,Cirurgião Geral,Total,678.0
+290,1.0,Norte,2022,Profissionais de Saúde,Clínico Geral,Total,8543.0
+291,1.0,Norte,2022,Profissionais de Saúde,Enfermeiro,Total,25255.0
+292,1.0,Norte,2022,Profissionais de Saúde,Fisioterapeuta,Total,6116.0
+293,1.0,Norte,2022,Profissionais de Saúde,Fonoaudiólogo,Total,1396.0
+294,1.0,Norte,2022,Profissionais de Saúde,Gineco Obstetra,Total,1097.0
+295,1.0,Norte,2022,Profissionais de Saúde,Médico de Família,Total,2478.0
+296,1.0,Norte,2022,Profissionais de Saúde,Nutricionista,Total,2284.0
+297,1.0,Norte,2022,Profissionais de Saúde,Odontólogo,Total,8944.0
+298,1.0,Norte,2022,Profissionais de Saúde,Outras especialidades médicas,Total,6682.0
+299,1.0,Norte,2022,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,3946.0
+300,1.0,Norte,2022,Profissionais de Saúde,Pediatra,Total,2049.0
+301,1.0,Norte,2022,Profissionais de Saúde,Psicólogo,Total,4022.0
+302,1.0,Norte,2022,Profissionais de Saúde,Psiquiatra,Total,230.0
+303,1.0,Norte,2022,Profissionais de Saúde,Radiologista,Total,577.0
+304,1.0,Norte,2022,Profissionais de Saúde,Sanitarista,Total,5.0
+305,2.0,Nordeste,2007,Profissionais de Saúde,Anestesista,Total,2268.0
+306,2.0,Nordeste,2007,Profissionais de Saúde,Assistente Social,Total,3875.0
+307,2.0,Nordeste,2007,Profissionais de Saúde,Bioquímico/farmacêutico,Total,6029.0
+308,2.0,Nordeste,2007,Profissionais de Saúde,Cirurgião Geral,Total,3645.0
+309,2.0,Nordeste,2007,Profissionais de Saúde,Clínico Geral,Total,12823.0
+310,2.0,Nordeste,2007,Profissionais de Saúde,Enfermeiro,Total,24290.0
+311,2.0,Nordeste,2007,Profissionais de Saúde,Fisioterapeuta,Total,5080.0
+312,2.0,Nordeste,2007,Profissionais de Saúde,Fonoaudiólogo,Total,1518.0
+313,2.0,Nordeste,2007,Profissionais de Saúde,Gineco Obstetra,Total,2321.0
+314,2.0,Nordeste,2007,Profissionais de Saúde,Médico de Família,Total,6462.0
+315,2.0,Nordeste,2007,Profissionais de Saúde,Nutricionista,Total,2223.0
+316,2.0,Nordeste,2007,Profissionais de Saúde,Odontólogo,Total,17462.0
+317,2.0,Nordeste,2007,Profissionais de Saúde,Outras especialidades médicas,Total,12606.0
+318,2.0,Nordeste,2007,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,3387.0
+319,2.0,Nordeste,2007,Profissionais de Saúde,Pediatra,Total,2636.0
+320,2.0,Nordeste,2007,Profissionais de Saúde,Psicólogo,Total,3698.0
+321,2.0,Nordeste,2007,Profissionais de Saúde,Psiquiatra,Total,719.0
+322,2.0,Nordeste,2007,Profissionais de Saúde,Radiologista,Total,1599.0
+323,2.0,Nordeste,2007,Profissionais de Saúde,Sanitarista,Total,48.0
+324,2.0,Nordeste,2008,Profissionais de Saúde,Anestesista,Total,2793.0
+325,2.0,Nordeste,2008,Profissionais de Saúde,Assistente Social,Total,4359.0
+326,2.0,Nordeste,2008,Profissionais de Saúde,Bioquímico/farmacêutico,Total,6569.0
+327,2.0,Nordeste,2008,Profissionais de Saúde,Cirurgião Geral,Total,4600.0
+328,2.0,Nordeste,2008,Profissionais de Saúde,Clínico Geral,Total,13644.0
+329,2.0,Nordeste,2008,Profissionais de Saúde,Enfermeiro,Total,26900.0
+330,2.0,Nordeste,2008,Profissionais de Saúde,Fisioterapeuta,Total,6416.0
+331,2.0,Nordeste,2008,Profissionais de Saúde,Fonoaudiólogo,Total,1871.0
+332,2.0,Nordeste,2008,Profissionais de Saúde,Gineco Obstetra,Total,2349.0
+333,2.0,Nordeste,2008,Profissionais de Saúde,Médico de Família,Total,6107.0
+334,2.0,Nordeste,2008,Profissionais de Saúde,Nutricionista,Total,2612.0
+335,2.0,Nordeste,2008,Profissionais de Saúde,Odontólogo,Total,18813.0
+336,2.0,Nordeste,2008,Profissionais de Saúde,Outras especialidades médicas,Total,13309.0
+337,2.0,Nordeste,2008,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,3988.0
+338,2.0,Nordeste,2008,Profissionais de Saúde,Pediatra,Total,2938.0
+339,2.0,Nordeste,2008,Profissionais de Saúde,Psicólogo,Total,4358.0
+340,2.0,Nordeste,2008,Profissionais de Saúde,Psiquiatra,Total,780.0
+341,2.0,Nordeste,2008,Profissionais de Saúde,Radiologista,Total,1626.0
+342,2.0,Nordeste,2008,Profissionais de Saúde,Sanitarista,Total,47.0
+343,2.0,Nordeste,2009,Profissionais de Saúde,Anestesista,Total,3270.0
+344,2.0,Nordeste,2009,Profissionais de Saúde,Assistente Social,Total,4789.0
+345,2.0,Nordeste,2009,Profissionais de Saúde,Bioquímico/farmacêutico,Total,7085.0
+346,2.0,Nordeste,2009,Profissionais de Saúde,Cirurgião Geral,Total,5215.0
+347,2.0,Nordeste,2009,Profissionais de Saúde,Clínico Geral,Total,14238.0
+348,2.0,Nordeste,2009,Profissionais de Saúde,Enfermeiro,Total,29548.0
+349,2.0,Nordeste,2009,Profissionais de Saúde,Fisioterapeuta,Total,7889.0
+350,2.0,Nordeste,2009,Profissionais de Saúde,Fonoaudiólogo,Total,2216.0
+351,2.0,Nordeste,2009,Profissionais de Saúde,Gineco Obstetra,Total,2376.0
+352,2.0,Nordeste,2009,Profissionais de Saúde,Médico de Família,Total,6031.0
+353,2.0,Nordeste,2009,Profissionais de Saúde,Nutricionista,Total,3078.0
+354,2.0,Nordeste,2009,Profissionais de Saúde,Odontólogo,Total,20197.0
+355,2.0,Nordeste,2009,Profissionais de Saúde,Outras especialidades médicas,Total,13713.0
+356,2.0,Nordeste,2009,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,4359.0
+357,2.0,Nordeste,2009,Profissionais de Saúde,Pediatra,Total,3061.0
+358,2.0,Nordeste,2009,Profissionais de Saúde,Psicólogo,Total,5052.0
+359,2.0,Nordeste,2009,Profissionais de Saúde,Psiquiatra,Total,838.0
+360,2.0,Nordeste,2009,Profissionais de Saúde,Radiologista,Total,1716.0
+361,2.0,Nordeste,2009,Profissionais de Saúde,Sanitarista,Total,47.0
+362,2.0,Nordeste,2010,Profissionais de Saúde,Anestesista,Total,3412.0
+363,2.0,Nordeste,2010,Profissionais de Saúde,Assistente Social,Total,5283.0
+364,2.0,Nordeste,2010,Profissionais de Saúde,Bioquímico/farmacêutico,Total,7521.0
+365,2.0,Nordeste,2010,Profissionais de Saúde,Cirurgião Geral,Total,5439.0
+366,2.0,Nordeste,2010,Profissionais de Saúde,Clínico Geral,Total,15116.0
+367,2.0,Nordeste,2010,Profissionais de Saúde,Enfermeiro,Total,32703.0
+368,2.0,Nordeste,2010,Profissionais de Saúde,Fisioterapeuta,Total,9040.0
+369,2.0,Nordeste,2010,Profissionais de Saúde,Fonoaudiólogo,Total,2517.0
+370,2.0,Nordeste,2010,Profissionais de Saúde,Gineco Obstetra,Total,2441.0
+371,2.0,Nordeste,2010,Profissionais de Saúde,Médico de Família,Total,6123.0
+372,2.0,Nordeste,2010,Profissionais de Saúde,Nutricionista,Total,3519.0
+373,2.0,Nordeste,2010,Profissionais de Saúde,Odontólogo,Total,21197.0
+374,2.0,Nordeste,2010,Profissionais de Saúde,Outras especialidades médicas,Total,14328.0
+375,2.0,Nordeste,2010,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,5040.0
+376,2.0,Nordeste,2010,Profissionais de Saúde,Pediatra,Total,3266.0
+377,2.0,Nordeste,2010,Profissionais de Saúde,Psicólogo,Total,5713.0
+378,2.0,Nordeste,2010,Profissionais de Saúde,Psiquiatra,Total,904.0
+379,2.0,Nordeste,2010,Profissionais de Saúde,Radiologista,Total,1836.0
+380,2.0,Nordeste,2010,Profissionais de Saúde,Sanitarista,Total,48.0
+381,2.0,Nordeste,2011,Profissionais de Saúde,Anestesista,Total,0.0
+382,2.0,Nordeste,2011,Profissionais de Saúde,Assistente Social,Total,5717.0
+383,2.0,Nordeste,2011,Profissionais de Saúde,Bioquímico/farmacêutico,Total,7887.0
+384,2.0,Nordeste,2011,Profissionais de Saúde,Cirurgião Geral,Total,1772.0
+385,2.0,Nordeste,2011,Profissionais de Saúde,Clínico Geral,Total,14992.0
+386,2.0,Nordeste,2011,Profissionais de Saúde,Enfermeiro,Total,35524.0
+387,2.0,Nordeste,2011,Profissionais de Saúde,Fisioterapeuta,Total,10193.0
+388,2.0,Nordeste,2011,Profissionais de Saúde,Fonoaudiólogo,Total,2737.0
+389,2.0,Nordeste,2011,Profissionais de Saúde,Gineco Obstetra,Total,3037.0
+390,2.0,Nordeste,2011,Profissionais de Saúde,Médico de Família,Total,5792.0
+391,2.0,Nordeste,2011,Profissionais de Saúde,Nutricionista,Total,3892.0
+392,2.0,Nordeste,2011,Profissionais de Saúde,Odontólogo,Total,22011.0
+393,2.0,Nordeste,2011,Profissionais de Saúde,Outras especialidades médicas,Total,16390.0
+394,2.0,Nordeste,2011,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,5455.0
+395,2.0,Nordeste,2011,Profissionais de Saúde,Pediatra,Total,6376.0
+396,2.0,Nordeste,2011,Profissionais de Saúde,Psicólogo,Total,6238.0
+397,2.0,Nordeste,2011,Profissionais de Saúde,Psiquiatra,Total,957.0
+398,2.0,Nordeste,2011,Profissionais de Saúde,Radiologista,Total,1480.0
+399,2.0,Nordeste,2011,Profissionais de Saúde,Sanitarista,Total,70.0
+400,2.0,Nordeste,2012,Profissionais de Saúde,Anestesista,Total,0.0
+401,2.0,Nordeste,2012,Profissionais de Saúde,Assistente Social,Total,6230.0
+402,2.0,Nordeste,2012,Profissionais de Saúde,Bioquímico/farmacêutico,Total,8170.0
+403,2.0,Nordeste,2012,Profissionais de Saúde,Cirurgião Geral,Total,1871.0
+404,2.0,Nordeste,2012,Profissionais de Saúde,Clínico Geral,Total,15687.0
+405,2.0,Nordeste,2012,Profissionais de Saúde,Enfermeiro,Total,38788.0
+406,2.0,Nordeste,2012,Profissionais de Saúde,Fisioterapeuta,Total,11305.0
+407,2.0,Nordeste,2012,Profissionais de Saúde,Fonoaudiólogo,Total,2941.0
+408,2.0,Nordeste,2012,Profissionais de Saúde,Gineco Obstetra,Total,3176.0
+409,2.0,Nordeste,2012,Profissionais de Saúde,Médico de Família,Total,5867.0
+410,2.0,Nordeste,2012,Profissionais de Saúde,Nutricionista,Total,4343.0
+411,2.0,Nordeste,2012,Profissionais de Saúde,Odontólogo,Total,22514.0
+412,2.0,Nordeste,2012,Profissionais de Saúde,Outras especialidades médicas,Total,17257.0
+413,2.0,Nordeste,2012,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,5919.0
+414,2.0,Nordeste,2012,Profissionais de Saúde,Pediatra,Total,6405.0
+415,2.0,Nordeste,2012,Profissionais de Saúde,Psicólogo,Total,6913.0
+416,2.0,Nordeste,2012,Profissionais de Saúde,Psiquiatra,Total,971.0
+417,2.0,Nordeste,2012,Profissionais de Saúde,Radiologista,Total,1558.0
+418,2.0,Nordeste,2012,Profissionais de Saúde,Sanitarista,Total,59.0
+419,2.0,Nordeste,2013,Profissionais de Saúde,Anestesista,Total,0.0
+420,2.0,Nordeste,2013,Profissionais de Saúde,Assistente Social,Total,7107.0
+421,2.0,Nordeste,2013,Profissionais de Saúde,Bioquímico/farmacêutico,Total,3792.0
+422,2.0,Nordeste,2013,Profissionais de Saúde,Cirurgião Geral,Total,1951.0
+423,2.0,Nordeste,2013,Profissionais de Saúde,Clínico Geral,Total,16495.0
+424,2.0,Nordeste,2013,Profissionais de Saúde,Enfermeiro,Total,43206.0
+425,2.0,Nordeste,2013,Profissionais de Saúde,Fisioterapeuta,Total,12733.0
+426,2.0,Nordeste,2013,Profissionais de Saúde,Fonoaudiólogo,Total,3238.0
+427,2.0,Nordeste,2013,Profissionais de Saúde,Gineco Obstetra,Total,3303.0
+428,2.0,Nordeste,2013,Profissionais de Saúde,Médico de Família,Total,7716.0
+429,2.0,Nordeste,2013,Profissionais de Saúde,Nutricionista,Total,5106.0
+430,2.0,Nordeste,2013,Profissionais de Saúde,Odontólogo,Total,23380.0
+431,2.0,Nordeste,2013,Profissionais de Saúde,Outras especialidades médicas,Total,18483.0
+432,2.0,Nordeste,2013,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,6242.0
+433,2.0,Nordeste,2013,Profissionais de Saúde,Pediatra,Total,6459.0
+434,2.0,Nordeste,2013,Profissionais de Saúde,Psicólogo,Total,7915.0
+435,2.0,Nordeste,2013,Profissionais de Saúde,Psiquiatra,Total,1072.0
+436,2.0,Nordeste,2013,Profissionais de Saúde,Radiologista,Total,1681.0
+437,2.0,Nordeste,2013,Profissionais de Saúde,Sanitarista,Total,52.0
+438,2.0,Nordeste,2014,Profissionais de Saúde,Anestesista,Total,0.0
+439,2.0,Nordeste,2014,Profissionais de Saúde,Assistente Social,Total,7791.0
+440,2.0,Nordeste,2014,Profissionais de Saúde,Bioquímico/farmacêutico,Total,4217.0
+441,2.0,Nordeste,2014,Profissionais de Saúde,Cirurgião Geral,Total,1978.0
+442,2.0,Nordeste,2014,Profissionais de Saúde,Clínico Geral,Total,17305.0
+443,2.0,Nordeste,2014,Profissionais de Saúde,Enfermeiro,Total,47362.0
+444,2.0,Nordeste,2014,Profissionais de Saúde,Fisioterapeuta,Total,13900.0
+445,2.0,Nordeste,2014,Profissionais de Saúde,Fonoaudiólogo,Total,3502.0
+446,2.0,Nordeste,2014,Profissionais de Saúde,Gineco Obstetra,Total,3440.0
+447,2.0,Nordeste,2014,Profissionais de Saúde,Médico de Família,Total,9340.0
+448,2.0,Nordeste,2014,Profissionais de Saúde,Nutricionista,Total,5629.0
+449,2.0,Nordeste,2014,Profissionais de Saúde,Odontólogo,Total,24452.0
+450,2.0,Nordeste,2014,Profissionais de Saúde,Outras especialidades médicas,Total,19812.0
+451,2.0,Nordeste,2014,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,6669.0
+452,2.0,Nordeste,2014,Profissionais de Saúde,Pediatra,Total,6503.0
+453,2.0,Nordeste,2014,Profissionais de Saúde,Psicólogo,Total,8699.0
+454,2.0,Nordeste,2014,Profissionais de Saúde,Psiquiatra,Total,1101.0
+455,2.0,Nordeste,2014,Profissionais de Saúde,Radiologista,Total,1825.0
+456,2.0,Nordeste,2014,Profissionais de Saúde,Sanitarista,Total,48.0
+457,2.0,Nordeste,2015,Profissionais de Saúde,Anestesista,Total,0.0
+458,2.0,Nordeste,2015,Profissionais de Saúde,Assistente Social,Total,8101.0
+459,2.0,Nordeste,2015,Profissionais de Saúde,Bioquímico/farmacêutico,Total,4560.0
+460,2.0,Nordeste,2015,Profissionais de Saúde,Cirurgião Geral,Total,2015.0
+461,2.0,Nordeste,2015,Profissionais de Saúde,Clínico Geral,Total,17111.0
+462,2.0,Nordeste,2015,Profissionais de Saúde,Enfermeiro,Total,50370.0
+463,2.0,Nordeste,2015,Profissionais de Saúde,Fisioterapeuta,Total,14644.0
+464,2.0,Nordeste,2015,Profissionais de Saúde,Fonoaudiólogo,Total,3590.0
+465,2.0,Nordeste,2015,Profissionais de Saúde,Gineco Obstetra,Total,3566.0
+466,2.0,Nordeste,2015,Profissionais de Saúde,Médico de Família,Total,9624.0
+467,2.0,Nordeste,2015,Profissionais de Saúde,Nutricionista,Total,6051.0
+468,2.0,Nordeste,2015,Profissionais de Saúde,Odontólogo,Total,24785.0
+469,2.0,Nordeste,2015,Profissionais de Saúde,Outras especialidades médicas,Total,20550.0
+470,2.0,Nordeste,2015,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,6803.0
+471,2.0,Nordeste,2015,Profissionais de Saúde,Pediatra,Total,6373.0
+472,2.0,Nordeste,2015,Profissionais de Saúde,Psicólogo,Total,9028.0
+473,2.0,Nordeste,2015,Profissionais de Saúde,Psiquiatra,Total,1144.0
+474,2.0,Nordeste,2015,Profissionais de Saúde,Radiologista,Total,1954.0
+475,2.0,Nordeste,2015,Profissionais de Saúde,Sanitarista,Total,42.0
+476,2.0,Nordeste,2016,Profissionais de Saúde,Anestesista,Total,0.0
+477,2.0,Nordeste,2016,Profissionais de Saúde,Assistente Social,Total,8467.0
+478,2.0,Nordeste,2016,Profissionais de Saúde,Bioquímico/farmacêutico,Total,4917.0
+479,2.0,Nordeste,2016,Profissionais de Saúde,Cirurgião Geral,Total,2095.0
+480,2.0,Nordeste,2016,Profissionais de Saúde,Clínico Geral,Total,17850.0
+481,2.0,Nordeste,2016,Profissionais de Saúde,Enfermeiro,Total,53140.0
+482,2.0,Nordeste,2016,Profissionais de Saúde,Fisioterapeuta,Total,15564.0
+483,2.0,Nordeste,2016,Profissionais de Saúde,Fonoaudiólogo,Total,3799.0
+484,2.0,Nordeste,2016,Profissionais de Saúde,Gineco Obstetra,Total,3649.0
+485,2.0,Nordeste,2016,Profissionais de Saúde,Médico de Família,Total,9566.0
+486,2.0,Nordeste,2016,Profissionais de Saúde,Nutricionista,Total,6527.0
+487,2.0,Nordeste,2016,Profissionais de Saúde,Odontólogo,Total,25181.0
+488,2.0,Nordeste,2016,Profissionais de Saúde,Outras especialidades médicas,Total,21723.0
+489,2.0,Nordeste,2016,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,7081.0
+490,2.0,Nordeste,2016,Profissionais de Saúde,Pediatra,Total,6665.0
+491,2.0,Nordeste,2016,Profissionais de Saúde,Psicólogo,Total,9631.0
+492,2.0,Nordeste,2016,Profissionais de Saúde,Psiquiatra,Total,1174.0
+493,2.0,Nordeste,2016,Profissionais de Saúde,Radiologista,Total,2058.0
+494,2.0,Nordeste,2016,Profissionais de Saúde,Sanitarista,Total,37.0
+495,2.0,Nordeste,2017,Profissionais de Saúde,Anestesista,Total,0.0
+496,2.0,Nordeste,2017,Profissionais de Saúde,Assistente Social,Total,9148.0
+497,2.0,Nordeste,2017,Profissionais de Saúde,Bioquímico/farmacêutico,Total,5523.0
+498,2.0,Nordeste,2017,Profissionais de Saúde,Cirurgião Geral,Total,2249.0
+499,2.0,Nordeste,2017,Profissionais de Saúde,Clínico Geral,Total,18717.0
+500,2.0,Nordeste,2017,Profissionais de Saúde,Enfermeiro,Total,57499.0
+501,2.0,Nordeste,2017,Profissionais de Saúde,Fisioterapeuta,Total,16850.0
+502,2.0,Nordeste,2017,Profissionais de Saúde,Fonoaudiólogo,Total,4133.0
+503,2.0,Nordeste,2017,Profissionais de Saúde,Gineco Obstetra,Total,3882.0
+504,2.0,Nordeste,2017,Profissionais de Saúde,Médico de Família,Total,9866.0
+505,2.0,Nordeste,2017,Profissionais de Saúde,Nutricionista,Total,7289.0
+506,2.0,Nordeste,2017,Profissionais de Saúde,Odontólogo,Total,26874.0
+507,2.0,Nordeste,2017,Profissionais de Saúde,Outras especialidades médicas,Total,23051.0
+508,2.0,Nordeste,2017,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,7680.0
+509,2.0,Nordeste,2017,Profissionais de Saúde,Pediatra,Total,6894.0
+510,2.0,Nordeste,2017,Profissionais de Saúde,Psicólogo,Total,10625.0
+511,2.0,Nordeste,2017,Profissionais de Saúde,Psiquiatra,Total,1234.0
+512,2.0,Nordeste,2017,Profissionais de Saúde,Radiologista,Total,2193.0
+513,2.0,Nordeste,2017,Profissionais de Saúde,Sanitarista,Total,38.0
+514,2.0,Nordeste,2018,Profissionais de Saúde,Anestesista,Total,0.0
+515,2.0,Nordeste,2018,Profissionais de Saúde,Assistente Social,Total,9797.0
+516,2.0,Nordeste,2018,Profissionais de Saúde,Bioquímico/farmacêutico,Total,6181.0
+517,2.0,Nordeste,2018,Profissionais de Saúde,Cirurgião Geral,Total,2292.0
+518,2.0,Nordeste,2018,Profissionais de Saúde,Clínico Geral,Total,19282.0
+519,2.0,Nordeste,2018,Profissionais de Saúde,Enfermeiro,Total,62063.0
+520,2.0,Nordeste,2018,Profissionais de Saúde,Fisioterapeuta,Total,18170.0
+521,2.0,Nordeste,2018,Profissionais de Saúde,Fonoaudiólogo,Total,4393.0
+522,2.0,Nordeste,2018,Profissionais de Saúde,Gineco Obstetra,Total,4094.0
+523,2.0,Nordeste,2018,Profissionais de Saúde,Médico de Família,Total,8466.0
+524,2.0,Nordeste,2018,Profissionais de Saúde,Nutricionista,Total,8014.0
+525,2.0,Nordeste,2018,Profissionais de Saúde,Odontólogo,Total,27998.0
+526,2.0,Nordeste,2018,Profissionais de Saúde,Outras especialidades médicas,Total,24084.0
+527,2.0,Nordeste,2018,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,8287.0
+528,2.0,Nordeste,2018,Profissionais de Saúde,Pediatra,Total,7078.0
+529,2.0,Nordeste,2018,Profissionais de Saúde,Psicólogo,Total,11725.0
+530,2.0,Nordeste,2018,Profissionais de Saúde,Psiquiatra,Total,1285.0
+531,2.0,Nordeste,2018,Profissionais de Saúde,Radiologista,Total,2404.0
+532,2.0,Nordeste,2018,Profissionais de Saúde,Sanitarista,Total,34.0
+533,2.0,Nordeste,2019,Profissionais de Saúde,Anestesista,Total,0.0
+534,2.0,Nordeste,2019,Profissionais de Saúde,Assistente Social,Total,10224.0
+535,2.0,Nordeste,2019,Profissionais de Saúde,Bioquímico/farmacêutico,Total,6718.0
+536,2.0,Nordeste,2019,Profissionais de Saúde,Cirurgião Geral,Total,2484.0
+537,2.0,Nordeste,2019,Profissionais de Saúde,Clínico Geral,Total,20004.0
+538,2.0,Nordeste,2019,Profissionais de Saúde,Enfermeiro,Total,66924.0
+539,2.0,Nordeste,2019,Profissionais de Saúde,Fisioterapeuta,Total,19558.0
+540,2.0,Nordeste,2019,Profissionais de Saúde,Fonoaudiólogo,Total,4634.0
+541,2.0,Nordeste,2019,Profissionais de Saúde,Gineco Obstetra,Total,4248.0
+542,2.0,Nordeste,2019,Profissionais de Saúde,Médico de Família,Total,9294.0
+543,2.0,Nordeste,2019,Profissionais de Saúde,Nutricionista,Total,8629.0
+544,2.0,Nordeste,2019,Profissionais de Saúde,Odontólogo,Total,29281.0
+545,2.0,Nordeste,2019,Profissionais de Saúde,Outras especialidades médicas,Total,25503.0
+546,2.0,Nordeste,2019,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,8690.0
+547,2.0,Nordeste,2019,Profissionais de Saúde,Pediatra,Total,7237.0
+548,2.0,Nordeste,2019,Profissionais de Saúde,Psicólogo,Total,12749.0
+549,2.0,Nordeste,2019,Profissionais de Saúde,Psiquiatra,Total,1350.0
+550,2.0,Nordeste,2019,Profissionais de Saúde,Radiologista,Total,2614.0
+551,2.0,Nordeste,2019,Profissionais de Saúde,Sanitarista,Total,26.0
+552,2.0,Nordeste,2020,Profissionais de Saúde,Anestesista,Total,0.0
+553,2.0,Nordeste,2020,Profissionais de Saúde,Assistente Social,Total,10744.0
+554,2.0,Nordeste,2020,Profissionais de Saúde,Bioquímico/farmacêutico,Total,7882.0
+555,2.0,Nordeste,2020,Profissionais de Saúde,Cirurgião Geral,Total,2459.0
+556,2.0,Nordeste,2020,Profissionais de Saúde,Clínico Geral,Total,23637.0
+557,2.0,Nordeste,2020,Profissionais de Saúde,Enfermeiro,Total,75800.0
+558,2.0,Nordeste,2020,Profissionais de Saúde,Fisioterapeuta,Total,21348.0
+559,2.0,Nordeste,2020,Profissionais de Saúde,Fonoaudiólogo,Total,4633.0
+560,2.0,Nordeste,2020,Profissionais de Saúde,Gineco Obstetra,Total,4241.0
+561,2.0,Nordeste,2020,Profissionais de Saúde,Médico de Família,Total,9071.0
+562,2.0,Nordeste,2020,Profissionais de Saúde,Nutricionista,Total,9047.0
+563,2.0,Nordeste,2020,Profissionais de Saúde,Odontólogo,Total,28754.0
+564,2.0,Nordeste,2020,Profissionais de Saúde,Outras especialidades médicas,Total,25988.0
+565,2.0,Nordeste,2020,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,9129.0
+566,2.0,Nordeste,2020,Profissionais de Saúde,Pediatra,Total,7304.0
+567,2.0,Nordeste,2020,Profissionais de Saúde,Psicólogo,Total,13196.0
+568,2.0,Nordeste,2020,Profissionais de Saúde,Psiquiatra,Total,1388.0
+569,2.0,Nordeste,2020,Profissionais de Saúde,Radiologista,Total,2697.0
+570,2.0,Nordeste,2020,Profissionais de Saúde,Sanitarista,Total,25.0
+571,2.0,Nordeste,2021,Profissionais de Saúde,Anestesista,Total,0.0
+572,2.0,Nordeste,2021,Profissionais de Saúde,Assistente Social,Total,11583.0
+573,2.0,Nordeste,2021,Profissionais de Saúde,Bioquímico/farmacêutico,Total,9373.0
+574,2.0,Nordeste,2021,Profissionais de Saúde,Cirurgião Geral,Total,2445.0
+575,2.0,Nordeste,2021,Profissionais de Saúde,Clínico Geral,Total,26349.0
+576,2.0,Nordeste,2021,Profissionais de Saúde,Enfermeiro,Total,83512.0
+577,2.0,Nordeste,2021,Profissionais de Saúde,Fisioterapeuta,Total,24239.0
+578,2.0,Nordeste,2021,Profissionais de Saúde,Fonoaudiólogo,Total,4987.0
+579,2.0,Nordeste,2021,Profissionais de Saúde,Gineco Obstetra,Total,4474.0
+580,2.0,Nordeste,2021,Profissionais de Saúde,Médico de Família,Total,9327.0
+581,2.0,Nordeste,2021,Profissionais de Saúde,Nutricionista,Total,10029.0
+582,2.0,Nordeste,2021,Profissionais de Saúde,Odontólogo,Total,30707.0
+583,2.0,Nordeste,2021,Profissionais de Saúde,Outras especialidades médicas,Total,27844.0
+584,2.0,Nordeste,2021,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,10105.0
+585,2.0,Nordeste,2021,Profissionais de Saúde,Pediatra,Total,7538.0
+586,2.0,Nordeste,2021,Profissionais de Saúde,Psicólogo,Total,15052.0
+587,2.0,Nordeste,2021,Profissionais de Saúde,Psiquiatra,Total,1501.0
+588,2.0,Nordeste,2021,Profissionais de Saúde,Radiologista,Total,2897.0
+589,2.0,Nordeste,2021,Profissionais de Saúde,Sanitarista,Total,27.0
+590,2.0,Nordeste,2022,Profissionais de Saúde,Anestesista,Total,0.0
+591,2.0,Nordeste,2022,Profissionais de Saúde,Assistente Social,Total,12296.0
+592,2.0,Nordeste,2022,Profissionais de Saúde,Bioquímico/farmacêutico,Total,10573.0
+593,2.0,Nordeste,2022,Profissionais de Saúde,Cirurgião Geral,Total,2704.0
+594,2.0,Nordeste,2022,Profissionais de Saúde,Clínico Geral,Total,28266.0
+595,2.0,Nordeste,2022,Profissionais de Saúde,Enfermeiro,Total,87822.0
+596,2.0,Nordeste,2022,Profissionais de Saúde,Fisioterapeuta,Total,26212.0
+597,2.0,Nordeste,2022,Profissionais de Saúde,Fonoaudiólogo,Total,5382.0
+598,2.0,Nordeste,2022,Profissionais de Saúde,Gineco Obstetra,Total,4710.0
+599,2.0,Nordeste,2022,Profissionais de Saúde,Médico de Família,Total,9478.0
+600,2.0,Nordeste,2022,Profissionais de Saúde,Nutricionista,Total,11003.0
+601,2.0,Nordeste,2022,Profissionais de Saúde,Odontólogo,Total,32627.0
+602,2.0,Nordeste,2022,Profissionais de Saúde,Outras especialidades médicas,Total,29264.0
+603,2.0,Nordeste,2022,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,10973.0
+604,2.0,Nordeste,2022,Profissionais de Saúde,Pediatra,Total,7996.0
+605,2.0,Nordeste,2022,Profissionais de Saúde,Psicólogo,Total,16782.0
+606,2.0,Nordeste,2022,Profissionais de Saúde,Psiquiatra,Total,1638.0
+607,2.0,Nordeste,2022,Profissionais de Saúde,Radiologista,Total,3114.0
+608,2.0,Nordeste,2022,Profissionais de Saúde,Sanitarista,Total,28.0
+609,3.0,Sudeste,2007,Profissionais de Saúde,Anestesista,Total,6349.0
+610,3.0,Sudeste,2007,Profissionais de Saúde,Assistente Social,Total,7445.0
+611,3.0,Sudeste,2007,Profissionais de Saúde,Bioquímico/farmacêutico,Total,8919.0
+612,3.0,Sudeste,2007,Profissionais de Saúde,Cirurgião Geral,Total,8395.0
+613,3.0,Sudeste,2007,Profissionais de Saúde,Clínico Geral,Total,34372.0
+614,3.0,Sudeste,2007,Profissionais de Saúde,Enfermeiro,Total,43239.0
+615,3.0,Sudeste,2007,Profissionais de Saúde,Fisioterapeuta,Total,14825.0
+616,3.0,Sudeste,2007,Profissionais de Saúde,Fonoaudiólogo,Total,5584.0
+617,3.0,Sudeste,2007,Profissionais de Saúde,Gineco Obstetra,Total,10602.0
+618,3.0,Sudeste,2007,Profissionais de Saúde,Médico de Família,Total,5617.0
+619,3.0,Sudeste,2007,Profissionais de Saúde,Nutricionista,Total,3984.0
+620,3.0,Sudeste,2007,Profissionais de Saúde,Odontólogo,Total,37407.0
+621,3.0,Sudeste,2007,Profissionais de Saúde,Outras especialidades médicas,Total,47355.0
+622,3.0,Sudeste,2007,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,9513.0
+623,3.0,Sudeste,2007,Profissionais de Saúde,Pediatra,Total,11621.0
+624,3.0,Sudeste,2007,Profissionais de Saúde,Psicólogo,Total,12306.0
+625,3.0,Sudeste,2007,Profissionais de Saúde,Psiquiatra,Total,3056.0
+626,3.0,Sudeste,2007,Profissionais de Saúde,Radiologista,Total,4820.0
+627,3.0,Sudeste,2007,Profissionais de Saúde,Sanitarista,Total,373.0
+628,3.0,Sudeste,2008,Profissionais de Saúde,Anestesista,Total,7644.0
+629,3.0,Sudeste,2008,Profissionais de Saúde,Assistente Social,Total,8420.0
+630,3.0,Sudeste,2008,Profissionais de Saúde,Bioquímico/farmacêutico,Total,10037.0
+631,3.0,Sudeste,2008,Profissionais de Saúde,Cirurgião Geral,Total,11863.0
+632,3.0,Sudeste,2008,Profissionais de Saúde,Clínico Geral,Total,37960.0
+633,3.0,Sudeste,2008,Profissionais de Saúde,Enfermeiro,Total,49599.0
+634,3.0,Sudeste,2008,Profissionais de Saúde,Fisioterapeuta,Total,18491.0
+635,3.0,Sudeste,2008,Profissionais de Saúde,Fonoaudiólogo,Total,6585.0
+636,3.0,Sudeste,2008,Profissionais de Saúde,Gineco Obstetra,Total,9821.0
+637,3.0,Sudeste,2008,Profissionais de Saúde,Médico de Família,Total,5544.0
+638,3.0,Sudeste,2008,Profissionais de Saúde,Nutricionista,Total,5076.0
+639,3.0,Sudeste,2008,Profissionais de Saúde,Odontólogo,Total,41813.0
+640,3.0,Sudeste,2008,Profissionais de Saúde,Outras especialidades médicas,Total,51788.0
+641,3.0,Sudeste,2008,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,11604.0
+642,3.0,Sudeste,2008,Profissionais de Saúde,Pediatra,Total,12547.0
+643,3.0,Sudeste,2008,Profissionais de Saúde,Psicólogo,Total,14453.0
+644,3.0,Sudeste,2008,Profissionais de Saúde,Psiquiatra,Total,3422.0
+645,3.0,Sudeste,2008,Profissionais de Saúde,Radiologista,Total,5024.0
+646,3.0,Sudeste,2008,Profissionais de Saúde,Sanitarista,Total,364.0
+647,3.0,Sudeste,2009,Profissionais de Saúde,Anestesista,Total,8562.0
+648,3.0,Sudeste,2009,Profissionais de Saúde,Assistente Social,Total,9347.0
+649,3.0,Sudeste,2009,Profissionais de Saúde,Bioquímico/farmacêutico,Total,10859.0
+650,3.0,Sudeste,2009,Profissionais de Saúde,Cirurgião Geral,Total,13270.0
+651,3.0,Sudeste,2009,Profissionais de Saúde,Clínico Geral,Total,40327.0
+652,3.0,Sudeste,2009,Profissionais de Saúde,Enfermeiro,Total,55141.0
+653,3.0,Sudeste,2009,Profissionais de Saúde,Fisioterapeuta,Total,20995.0
+654,3.0,Sudeste,2009,Profissionais de Saúde,Fonoaudiólogo,Total,7349.0
+655,3.0,Sudeste,2009,Profissionais de Saúde,Gineco Obstetra,Total,9567.0
+656,3.0,Sudeste,2009,Profissionais de Saúde,Médico de Família,Total,5659.0
+657,3.0,Sudeste,2009,Profissionais de Saúde,Nutricionista,Total,5987.0
+658,3.0,Sudeste,2009,Profissionais de Saúde,Odontólogo,Total,45930.0
+659,3.0,Sudeste,2009,Profissionais de Saúde,Outras especialidades médicas,Total,54299.0
+660,3.0,Sudeste,2009,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,12693.0
+661,3.0,Sudeste,2009,Profissionais de Saúde,Pediatra,Total,12792.0
+662,3.0,Sudeste,2009,Profissionais de Saúde,Psicólogo,Total,16497.0
+663,3.0,Sudeste,2009,Profissionais de Saúde,Psiquiatra,Total,3543.0
+664,3.0,Sudeste,2009,Profissionais de Saúde,Radiologista,Total,5312.0
+665,3.0,Sudeste,2009,Profissionais de Saúde,Sanitarista,Total,335.0
+666,3.0,Sudeste,2010,Profissionais de Saúde,Anestesista,Total,8948.0
+667,3.0,Sudeste,2010,Profissionais de Saúde,Assistente Social,Total,10050.0
+668,3.0,Sudeste,2010,Profissionais de Saúde,Bioquímico/farmacêutico,Total,11911.0
+669,3.0,Sudeste,2010,Profissionais de Saúde,Cirurgião Geral,Total,13647.0
+670,3.0,Sudeste,2010,Profissionais de Saúde,Clínico Geral,Total,42151.0
+671,3.0,Sudeste,2010,Profissionais de Saúde,Enfermeiro,Total,61811.0
+672,3.0,Sudeste,2010,Profissionais de Saúde,Fisioterapeuta,Total,23265.0
+673,3.0,Sudeste,2010,Profissionais de Saúde,Fonoaudiólogo,Total,7869.0
+674,3.0,Sudeste,2010,Profissionais de Saúde,Gineco Obstetra,Total,9854.0
+675,3.0,Sudeste,2010,Profissionais de Saúde,Médico de Família,Total,5908.0
+676,3.0,Sudeste,2010,Profissionais de Saúde,Nutricionista,Total,6738.0
+677,3.0,Sudeste,2010,Profissionais de Saúde,Odontólogo,Total,49053.0
+678,3.0,Sudeste,2010,Profissionais de Saúde,Outras especialidades médicas,Total,56571.0
+679,3.0,Sudeste,2010,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,14042.0
+680,3.0,Sudeste,2010,Profissionais de Saúde,Pediatra,Total,13263.0
+681,3.0,Sudeste,2010,Profissionais de Saúde,Psicólogo,Total,18132.0
+682,3.0,Sudeste,2010,Profissionais de Saúde,Psiquiatra,Total,3719.0
+683,3.0,Sudeste,2010,Profissionais de Saúde,Radiologista,Total,5681.0
+684,3.0,Sudeste,2010,Profissionais de Saúde,Sanitarista,Total,347.0
+685,3.0,Sudeste,2011,Profissionais de Saúde,Anestesista,Total,0.0
+686,3.0,Sudeste,2011,Profissionais de Saúde,Assistente Social,Total,10433.0
+687,3.0,Sudeste,2011,Profissionais de Saúde,Bioquímico/farmacêutico,Total,12627.0
+688,3.0,Sudeste,2011,Profissionais de Saúde,Cirurgião Geral,Total,4249.0
+689,3.0,Sudeste,2011,Profissionais de Saúde,Clínico Geral,Total,42444.0
+690,3.0,Sudeste,2011,Profissionais de Saúde,Enfermeiro,Total,67871.0
+691,3.0,Sudeste,2011,Profissionais de Saúde,Fisioterapeuta,Total,24983.0
+692,3.0,Sudeste,2011,Profissionais de Saúde,Fonoaudiólogo,Total,8370.0
+693,3.0,Sudeste,2011,Profissionais de Saúde,Gineco Obstetra,Total,9957.0
+694,3.0,Sudeste,2011,Profissionais de Saúde,Médico de Família,Total,5898.0
+695,3.0,Sudeste,2011,Profissionais de Saúde,Nutricionista,Total,7401.0
+696,3.0,Sudeste,2011,Profissionais de Saúde,Odontólogo,Total,51344.0
+697,3.0,Sudeste,2011,Profissionais de Saúde,Outras especialidades médicas,Total,65029.0
+698,3.0,Sudeste,2011,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,15180.0
+699,3.0,Sudeste,2011,Profissionais de Saúde,Pediatra,Total,19389.0
+700,3.0,Sudeste,2011,Profissionais de Saúde,Psicólogo,Total,19495.0
+701,3.0,Sudeste,2011,Profissionais de Saúde,Psiquiatra,Total,3837.0
+702,3.0,Sudeste,2011,Profissionais de Saúde,Radiologista,Total,4631.0
+703,3.0,Sudeste,2011,Profissionais de Saúde,Sanitarista,Total,389.0
+704,3.0,Sudeste,2012,Profissionais de Saúde,Anestesista,Total,0.0
+705,3.0,Sudeste,2012,Profissionais de Saúde,Assistente Social,Total,11028.0
+706,3.0,Sudeste,2012,Profissionais de Saúde,Bioquímico/farmacêutico,Total,13786.0
+707,3.0,Sudeste,2012,Profissionais de Saúde,Cirurgião Geral,Total,4129.0
+708,3.0,Sudeste,2012,Profissionais de Saúde,Clínico Geral,Total,44429.0
+709,3.0,Sudeste,2012,Profissionais de Saúde,Enfermeiro,Total,75094.0
+710,3.0,Sudeste,2012,Profissionais de Saúde,Fisioterapeuta,Total,26774.0
+711,3.0,Sudeste,2012,Profissionais de Saúde,Fonoaudiólogo,Total,8755.0
+712,3.0,Sudeste,2012,Profissionais de Saúde,Gineco Obstetra,Total,10039.0
+713,3.0,Sudeste,2012,Profissionais de Saúde,Médico de Família,Total,6217.0
+714,3.0,Sudeste,2012,Profissionais de Saúde,Nutricionista,Total,8113.0
+715,3.0,Sudeste,2012,Profissionais de Saúde,Odontólogo,Total,53168.0
+716,3.0,Sudeste,2012,Profissionais de Saúde,Outras especialidades médicas,Total,68666.0
+717,3.0,Sudeste,2012,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,16212.0
+718,3.0,Sudeste,2012,Profissionais de Saúde,Pediatra,Total,19567.0
+719,3.0,Sudeste,2012,Profissionais de Saúde,Psicólogo,Total,21331.0
+720,3.0,Sudeste,2012,Profissionais de Saúde,Psiquiatra,Total,3939.0
+721,3.0,Sudeste,2012,Profissionais de Saúde,Radiologista,Total,4800.0
+722,3.0,Sudeste,2012,Profissionais de Saúde,Sanitarista,Total,376.0
+723,3.0,Sudeste,2013,Profissionais de Saúde,Anestesista,Total,0.0
+724,3.0,Sudeste,2013,Profissionais de Saúde,Assistente Social,Total,11789.0
+725,3.0,Sudeste,2013,Profissionais de Saúde,Bioquímico/farmacêutico,Total,9511.0
+726,3.0,Sudeste,2013,Profissionais de Saúde,Cirurgião Geral,Total,4260.0
+727,3.0,Sudeste,2013,Profissionais de Saúde,Clínico Geral,Total,46592.0
+728,3.0,Sudeste,2013,Profissionais de Saúde,Enfermeiro,Total,82838.0
+729,3.0,Sudeste,2013,Profissionais de Saúde,Fisioterapeuta,Total,28979.0
+730,3.0,Sudeste,2013,Profissionais de Saúde,Fonoaudiólogo,Total,9288.0
+731,3.0,Sudeste,2013,Profissionais de Saúde,Gineco Obstetra,Total,10156.0
+732,3.0,Sudeste,2013,Profissionais de Saúde,Médico de Família,Total,7129.0
+733,3.0,Sudeste,2013,Profissionais de Saúde,Nutricionista,Total,9067.0
+734,3.0,Sudeste,2013,Profissionais de Saúde,Odontólogo,Total,55067.0
+735,3.0,Sudeste,2013,Profissionais de Saúde,Outras especialidades médicas,Total,72389.0
+736,3.0,Sudeste,2013,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,16987.0
+737,3.0,Sudeste,2013,Profissionais de Saúde,Pediatra,Total,19868.0
+738,3.0,Sudeste,2013,Profissionais de Saúde,Psicólogo,Total,23282.0
+739,3.0,Sudeste,2013,Profissionais de Saúde,Psiquiatra,Total,4070.0
+740,3.0,Sudeste,2013,Profissionais de Saúde,Radiologista,Total,5036.0
+741,3.0,Sudeste,2013,Profissionais de Saúde,Sanitarista,Total,345.0
+742,3.0,Sudeste,2014,Profissionais de Saúde,Anestesista,Total,0.0
+743,3.0,Sudeste,2014,Profissionais de Saúde,Assistente Social,Total,12470.0
+744,3.0,Sudeste,2014,Profissionais de Saúde,Bioquímico/farmacêutico,Total,10681.0
+745,3.0,Sudeste,2014,Profissionais de Saúde,Cirurgião Geral,Total,4455.0
+746,3.0,Sudeste,2014,Profissionais de Saúde,Clínico Geral,Total,48505.0
+747,3.0,Sudeste,2014,Profissionais de Saúde,Enfermeiro,Total,92952.0
+748,3.0,Sudeste,2014,Profissionais de Saúde,Fisioterapeuta,Total,31270.0
+749,3.0,Sudeste,2014,Profissionais de Saúde,Fonoaudiólogo,Total,9758.0
+750,3.0,Sudeste,2014,Profissionais de Saúde,Gineco Obstetra,Total,10436.0
+751,3.0,Sudeste,2014,Profissionais de Saúde,Médico de Família,Total,9621.0
+752,3.0,Sudeste,2014,Profissionais de Saúde,Nutricionista,Total,9969.0
+753,3.0,Sudeste,2014,Profissionais de Saúde,Odontólogo,Total,57127.0
+754,3.0,Sudeste,2014,Profissionais de Saúde,Outras especialidades médicas,Total,75968.0
+755,3.0,Sudeste,2014,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,17887.0
+756,3.0,Sudeste,2014,Profissionais de Saúde,Pediatra,Total,20318.0
+757,3.0,Sudeste,2014,Profissionais de Saúde,Psicólogo,Total,25242.0
+758,3.0,Sudeste,2014,Profissionais de Saúde,Psiquiatra,Total,4210.0
+759,3.0,Sudeste,2014,Profissionais de Saúde,Radiologista,Total,5303.0
+760,3.0,Sudeste,2014,Profissionais de Saúde,Sanitarista,Total,340.0
+761,3.0,Sudeste,2015,Profissionais de Saúde,Anestesista,Total,0.0
+762,3.0,Sudeste,2015,Profissionais de Saúde,Assistente Social,Total,12561.0
+763,3.0,Sudeste,2015,Profissionais de Saúde,Bioquímico/farmacêutico,Total,11501.0
+764,3.0,Sudeste,2015,Profissionais de Saúde,Cirurgião Geral,Total,4576.0
+765,3.0,Sudeste,2015,Profissionais de Saúde,Clínico Geral,Total,48538.0
+766,3.0,Sudeste,2015,Profissionais de Saúde,Enfermeiro,Total,98984.0
+767,3.0,Sudeste,2015,Profissionais de Saúde,Fisioterapeuta,Total,32355.0
+768,3.0,Sudeste,2015,Profissionais de Saúde,Fonoaudiólogo,Total,9867.0
+769,3.0,Sudeste,2015,Profissionais de Saúde,Gineco Obstetra,Total,10754.0
+770,3.0,Sudeste,2015,Profissionais de Saúde,Médico de Família,Total,10054.0
+771,3.0,Sudeste,2015,Profissionais de Saúde,Nutricionista,Total,10508.0
+772,3.0,Sudeste,2015,Profissionais de Saúde,Odontólogo,Total,58231.0
+773,3.0,Sudeste,2015,Profissionais de Saúde,Outras especialidades médicas,Total,77389.0
+774,3.0,Sudeste,2015,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,18318.0
+775,3.0,Sudeste,2015,Profissionais de Saúde,Pediatra,Total,20435.0
+776,3.0,Sudeste,2015,Profissionais de Saúde,Psicólogo,Total,26475.0
+777,3.0,Sudeste,2015,Profissionais de Saúde,Psiquiatra,Total,4185.0
+778,3.0,Sudeste,2015,Profissionais de Saúde,Radiologista,Total,5495.0
+779,3.0,Sudeste,2015,Profissionais de Saúde,Sanitarista,Total,305.0
+780,3.0,Sudeste,2016,Profissionais de Saúde,Anestesista,Total,0.0
+781,3.0,Sudeste,2016,Profissionais de Saúde,Assistente Social,Total,12740.0
+782,3.0,Sudeste,2016,Profissionais de Saúde,Bioquímico/farmacêutico,Total,12375.0
+783,3.0,Sudeste,2016,Profissionais de Saúde,Cirurgião Geral,Total,4632.0
+784,3.0,Sudeste,2016,Profissionais de Saúde,Clínico Geral,Total,50740.0
+785,3.0,Sudeste,2016,Profissionais de Saúde,Enfermeiro,Total,104086.0
+786,3.0,Sudeste,2016,Profissionais de Saúde,Fisioterapeuta,Total,33578.0
+787,3.0,Sudeste,2016,Profissionais de Saúde,Fonoaudiólogo,Total,10184.0
+788,3.0,Sudeste,2016,Profissionais de Saúde,Gineco Obstetra,Total,11013.0
+789,3.0,Sudeste,2016,Profissionais de Saúde,Médico de Família,Total,10540.0
+790,3.0,Sudeste,2016,Profissionais de Saúde,Nutricionista,Total,11090.0
+791,3.0,Sudeste,2016,Profissionais de Saúde,Odontólogo,Total,59967.0
+792,3.0,Sudeste,2016,Profissionais de Saúde,Outras especialidades médicas,Total,81236.0
+793,3.0,Sudeste,2016,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,18878.0
+794,3.0,Sudeste,2016,Profissionais de Saúde,Pediatra,Total,20916.0
+795,3.0,Sudeste,2016,Profissionais de Saúde,Psicólogo,Total,28084.0
+796,3.0,Sudeste,2016,Profissionais de Saúde,Psiquiatra,Total,4292.0
+797,3.0,Sudeste,2016,Profissionais de Saúde,Radiologista,Total,5659.0
+798,3.0,Sudeste,2016,Profissionais de Saúde,Sanitarista,Total,290.0
+799,3.0,Sudeste,2017,Profissionais de Saúde,Anestesista,Total,0.0
+800,3.0,Sudeste,2017,Profissionais de Saúde,Assistente Social,Total,12956.0
+801,3.0,Sudeste,2017,Profissionais de Saúde,Bioquímico/farmacêutico,Total,13479.0
+802,3.0,Sudeste,2017,Profissionais de Saúde,Cirurgião Geral,Total,4797.0
+803,3.0,Sudeste,2017,Profissionais de Saúde,Clínico Geral,Total,52812.0
+804,3.0,Sudeste,2017,Profissionais de Saúde,Enfermeiro,Total,109154.0
+805,3.0,Sudeste,2017,Profissionais de Saúde,Fisioterapeuta,Total,35338.0
+806,3.0,Sudeste,2017,Profissionais de Saúde,Fonoaudiólogo,Total,10696.0
+807,3.0,Sudeste,2017,Profissionais de Saúde,Gineco Obstetra,Total,11461.0
+808,3.0,Sudeste,2017,Profissionais de Saúde,Médico de Família,Total,10973.0
+809,3.0,Sudeste,2017,Profissionais de Saúde,Nutricionista,Total,11781.0
+810,3.0,Sudeste,2017,Profissionais de Saúde,Odontólogo,Total,62374.0
+811,3.0,Sudeste,2017,Profissionais de Saúde,Outras especialidades médicas,Total,84972.0
+812,3.0,Sudeste,2017,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,19882.0
+813,3.0,Sudeste,2017,Profissionais de Saúde,Pediatra,Total,21575.0
+814,3.0,Sudeste,2017,Profissionais de Saúde,Psicólogo,Total,30211.0
+815,3.0,Sudeste,2017,Profissionais de Saúde,Psiquiatra,Total,4536.0
+816,3.0,Sudeste,2017,Profissionais de Saúde,Radiologista,Total,5945.0
+817,3.0,Sudeste,2017,Profissionais de Saúde,Sanitarista,Total,274.0
+818,3.0,Sudeste,2018,Profissionais de Saúde,Anestesista,Total,0.0
+819,3.0,Sudeste,2018,Profissionais de Saúde,Assistente Social,Total,13519.0
+820,3.0,Sudeste,2018,Profissionais de Saúde,Bioquímico/farmacêutico,Total,15369.0
+821,3.0,Sudeste,2018,Profissionais de Saúde,Cirurgião Geral,Total,4891.0
+822,3.0,Sudeste,2018,Profissionais de Saúde,Clínico Geral,Total,54577.0
+823,3.0,Sudeste,2018,Profissionais de Saúde,Enfermeiro,Total,115825.0
+824,3.0,Sudeste,2018,Profissionais de Saúde,Fisioterapeuta,Total,37630.0
+825,3.0,Sudeste,2018,Profissionais de Saúde,Fonoaudiólogo,Total,11273.0
+826,3.0,Sudeste,2018,Profissionais de Saúde,Gineco Obstetra,Total,12002.0
+827,3.0,Sudeste,2018,Profissionais de Saúde,Médico de Família,Total,10182.0
+828,3.0,Sudeste,2018,Profissionais de Saúde,Nutricionista,Total,12700.0
+829,3.0,Sudeste,2018,Profissionais de Saúde,Odontólogo,Total,64635.0
+830,3.0,Sudeste,2018,Profissionais de Saúde,Outras especialidades médicas,Total,88088.0
+831,3.0,Sudeste,2018,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,20844.0
+832,3.0,Sudeste,2018,Profissionais de Saúde,Pediatra,Total,22335.0
+833,3.0,Sudeste,2018,Profissionais de Saúde,Psicólogo,Total,32371.0
+834,3.0,Sudeste,2018,Profissionais de Saúde,Psiquiatra,Total,4747.0
+835,3.0,Sudeste,2018,Profissionais de Saúde,Radiologista,Total,6357.0
+836,3.0,Sudeste,2018,Profissionais de Saúde,Sanitarista,Total,252.0
+837,3.0,Sudeste,2019,Profissionais de Saúde,Anestesista,Total,0.0
+838,3.0,Sudeste,2019,Profissionais de Saúde,Assistente Social,Total,13876.0
+839,3.0,Sudeste,2019,Profissionais de Saúde,Bioquímico/farmacêutico,Total,17130.0
+840,3.0,Sudeste,2019,Profissionais de Saúde,Cirurgião Geral,Total,5022.0
+841,3.0,Sudeste,2019,Profissionais de Saúde,Clínico Geral,Total,57211.0
+842,3.0,Sudeste,2019,Profissionais de Saúde,Enfermeiro,Total,122130.0
+843,3.0,Sudeste,2019,Profissionais de Saúde,Fisioterapeuta,Total,39710.0
+844,3.0,Sudeste,2019,Profissionais de Saúde,Fonoaudiólogo,Total,11778.0
+845,3.0,Sudeste,2019,Profissionais de Saúde,Gineco Obstetra,Total,12376.0
+846,3.0,Sudeste,2019,Profissionais de Saúde,Médico de Família,Total,9593.0
+847,3.0,Sudeste,2019,Profissionais de Saúde,Nutricionista,Total,13540.0
+848,3.0,Sudeste,2019,Profissionais de Saúde,Odontólogo,Total,66808.0
+849,3.0,Sudeste,2019,Profissionais de Saúde,Outras especialidades médicas,Total,91541.0
+850,3.0,Sudeste,2019,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,21824.0
+851,3.0,Sudeste,2019,Profissionais de Saúde,Pediatra,Total,22823.0
+852,3.0,Sudeste,2019,Profissionais de Saúde,Psicólogo,Total,34829.0
+853,3.0,Sudeste,2019,Profissionais de Saúde,Psiquiatra,Total,5001.0
+854,3.0,Sudeste,2019,Profissionais de Saúde,Radiologista,Total,6756.0
+855,3.0,Sudeste,2019,Profissionais de Saúde,Sanitarista,Total,237.0
+856,3.0,Sudeste,2020,Profissionais de Saúde,Anestesista,Total,0.0
+857,3.0,Sudeste,2020,Profissionais de Saúde,Assistente Social,Total,14481.0
+858,3.0,Sudeste,2020,Profissionais de Saúde,Bioquímico/farmacêutico,Total,18975.0
+859,3.0,Sudeste,2020,Profissionais de Saúde,Cirurgião Geral,Total,5006.0
+860,3.0,Sudeste,2020,Profissionais de Saúde,Clínico Geral,Total,64903.0
+861,3.0,Sudeste,2020,Profissionais de Saúde,Enfermeiro,Total,136097.0
+862,3.0,Sudeste,2020,Profissionais de Saúde,Fisioterapeuta,Total,41405.0
+863,3.0,Sudeste,2020,Profissionais de Saúde,Fonoaudiólogo,Total,11593.0
+864,3.0,Sudeste,2020,Profissionais de Saúde,Gineco Obstetra,Total,12203.0
+865,3.0,Sudeste,2020,Profissionais de Saúde,Médico de Família,Total,10117.0
+866,3.0,Sudeste,2020,Profissionais de Saúde,Nutricionista,Total,14129.0
+867,3.0,Sudeste,2020,Profissionais de Saúde,Odontólogo,Total,59364.0
+868,3.0,Sudeste,2020,Profissionais de Saúde,Outras especialidades médicas,Total,90290.0
+869,3.0,Sudeste,2020,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,22821.0
+870,3.0,Sudeste,2020,Profissionais de Saúde,Pediatra,Total,22944.0
+871,3.0,Sudeste,2020,Profissionais de Saúde,Psicólogo,Total,33851.0
+872,3.0,Sudeste,2020,Profissionais de Saúde,Psiquiatra,Total,4957.0
+873,3.0,Sudeste,2020,Profissionais de Saúde,Radiologista,Total,6582.0
+874,3.0,Sudeste,2020,Profissionais de Saúde,Sanitarista,Total,217.0
+875,3.0,Sudeste,2021,Profissionais de Saúde,Anestesista,Total,0.0
+876,3.0,Sudeste,2021,Profissionais de Saúde,Assistente Social,Total,15218.0
+877,3.0,Sudeste,2021,Profissionais de Saúde,Bioquímico/farmacêutico,Total,22680.0
+878,3.0,Sudeste,2021,Profissionais de Saúde,Cirurgião Geral,Total,5000.0
+879,3.0,Sudeste,2021,Profissionais de Saúde,Clínico Geral,Total,71451.0
+880,3.0,Sudeste,2021,Profissionais de Saúde,Enfermeiro,Total,148743.0
+881,3.0,Sudeste,2021,Profissionais de Saúde,Fisioterapeuta,Total,46509.0
+882,3.0,Sudeste,2021,Profissionais de Saúde,Fonoaudiólogo,Total,12254.0
+883,3.0,Sudeste,2021,Profissionais de Saúde,Gineco Obstetra,Total,12547.0
+884,3.0,Sudeste,2021,Profissionais de Saúde,Médico de Família,Total,9963.0
+885,3.0,Sudeste,2021,Profissionais de Saúde,Nutricionista,Total,15761.0
+886,3.0,Sudeste,2021,Profissionais de Saúde,Odontólogo,Total,64180.0
+887,3.0,Sudeste,2021,Profissionais de Saúde,Outras especialidades médicas,Total,94727.0
+888,3.0,Sudeste,2021,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,25160.0
+889,3.0,Sudeste,2021,Profissionais de Saúde,Pediatra,Total,23204.0
+890,3.0,Sudeste,2021,Profissionais de Saúde,Psicólogo,Total,37870.0
+891,3.0,Sudeste,2021,Profissionais de Saúde,Psiquiatra,Total,5215.0
+892,3.0,Sudeste,2021,Profissionais de Saúde,Radiologista,Total,6890.0
+893,3.0,Sudeste,2021,Profissionais de Saúde,Sanitarista,Total,221.0
+894,3.0,Sudeste,2022,Profissionais de Saúde,Anestesista,Total,0.0
+895,3.0,Sudeste,2022,Profissionais de Saúde,Assistente Social,Total,15864.0
+896,3.0,Sudeste,2022,Profissionais de Saúde,Bioquímico/farmacêutico,Total,24629.0
+897,3.0,Sudeste,2022,Profissionais de Saúde,Cirurgião Geral,Total,5210.0
+898,3.0,Sudeste,2022,Profissionais de Saúde,Clínico Geral,Total,76101.0
+899,3.0,Sudeste,2022,Profissionais de Saúde,Enfermeiro,Total,154346.0
+900,3.0,Sudeste,2022,Profissionais de Saúde,Fisioterapeuta,Total,49054.0
+901,3.0,Sudeste,2022,Profissionais de Saúde,Fonoaudiólogo,Total,12782.0
+902,3.0,Sudeste,2022,Profissionais de Saúde,Gineco Obstetra,Total,13055.0
+903,3.0,Sudeste,2022,Profissionais de Saúde,Médico de Família,Total,10589.0
+904,3.0,Sudeste,2022,Profissionais de Saúde,Nutricionista,Total,16941.0
+905,3.0,Sudeste,2022,Profissionais de Saúde,Odontólogo,Total,68014.0
+906,3.0,Sudeste,2022,Profissionais de Saúde,Outras especialidades médicas,Total,98077.0
+907,3.0,Sudeste,2022,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,26247.0
+908,3.0,Sudeste,2022,Profissionais de Saúde,Pediatra,Total,24837.0
+909,3.0,Sudeste,2022,Profissionais de Saúde,Psicólogo,Total,41688.0
+910,3.0,Sudeste,2022,Profissionais de Saúde,Psiquiatra,Total,5492.0
+911,3.0,Sudeste,2022,Profissionais de Saúde,Radiologista,Total,7177.0
+912,3.0,Sudeste,2022,Profissionais de Saúde,Sanitarista,Total,216.0
+913,4.0,Sul,2007,Profissionais de Saúde,Anestesista,Total,1829.0
+914,4.0,Sul,2007,Profissionais de Saúde,Assistente Social,Total,2255.0
+915,4.0,Sul,2007,Profissionais de Saúde,Bioquímico/farmacêutico,Total,5551.0
+916,4.0,Sul,2007,Profissionais de Saúde,Cirurgião Geral,Total,2641.0
+917,4.0,Sul,2007,Profissionais de Saúde,Clínico Geral,Total,11633.0
+918,4.0,Sul,2007,Profissionais de Saúde,Enfermeiro,Total,14368.0
+919,4.0,Sul,2007,Profissionais de Saúde,Fisioterapeuta,Total,5383.0
+920,4.0,Sul,2007,Profissionais de Saúde,Fonoaudiólogo,Total,1646.0
+921,4.0,Sul,2007,Profissionais de Saúde,Gineco Obstetra,Total,2713.0
+922,4.0,Sul,2007,Profissionais de Saúde,Médico de Família,Total,2312.0
+923,4.0,Sul,2007,Profissionais de Saúde,Nutricionista,Total,1434.0
+924,4.0,Sul,2007,Profissionais de Saúde,Odontólogo,Total,14352.0
+925,4.0,Sul,2007,Profissionais de Saúde,Outras especialidades médicas,Total,11964.0
+926,4.0,Sul,2007,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,2090.0
+927,4.0,Sul,2007,Profissionais de Saúde,Pediatra,Total,2464.0
+928,4.0,Sul,2007,Profissionais de Saúde,Psicólogo,Total,4230.0
+929,4.0,Sul,2007,Profissionais de Saúde,Psiquiatra,Total,982.0
+930,4.0,Sul,2007,Profissionais de Saúde,Radiologista,Total,1286.0
+931,4.0,Sul,2007,Profissionais de Saúde,Sanitarista,Total,132.0
+932,4.0,Sul,2008,Profissionais de Saúde,Anestesista,Total,2346.0
+933,4.0,Sul,2008,Profissionais de Saúde,Assistente Social,Total,2486.0
+934,4.0,Sul,2008,Profissionais de Saúde,Bioquímico/farmacêutico,Total,6095.0
+935,4.0,Sul,2008,Profissionais de Saúde,Cirurgião Geral,Total,3959.0
+936,4.0,Sul,2008,Profissionais de Saúde,Clínico Geral,Total,14186.0
+937,4.0,Sul,2008,Profissionais de Saúde,Enfermeiro,Total,16158.0
+938,4.0,Sul,2008,Profissionais de Saúde,Fisioterapeuta,Total,6418.0
+939,4.0,Sul,2008,Profissionais de Saúde,Fonoaudiólogo,Total,1943.0
+940,4.0,Sul,2008,Profissionais de Saúde,Gineco Obstetra,Total,2178.0
+941,4.0,Sul,2008,Profissionais de Saúde,Médico de Família,Total,2127.0
+942,4.0,Sul,2008,Profissionais de Saúde,Nutricionista,Total,1870.0
+943,4.0,Sul,2008,Profissionais de Saúde,Odontólogo,Total,15658.0
+944,4.0,Sul,2008,Profissionais de Saúde,Outras especialidades médicas,Total,11366.0
+945,4.0,Sul,2008,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,2919.0
+946,4.0,Sul,2008,Profissionais de Saúde,Pediatra,Total,2345.0
+947,4.0,Sul,2008,Profissionais de Saúde,Psicólogo,Total,5072.0
+948,4.0,Sul,2008,Profissionais de Saúde,Psiquiatra,Total,1037.0
+949,4.0,Sul,2008,Profissionais de Saúde,Radiologista,Total,1277.0
+950,4.0,Sul,2008,Profissionais de Saúde,Sanitarista,Total,84.0
+951,4.0,Sul,2009,Profissionais de Saúde,Anestesista,Total,2708.0
+952,4.0,Sul,2009,Profissionais de Saúde,Assistente Social,Total,2695.0
+953,4.0,Sul,2009,Profissionais de Saúde,Bioquímico/farmacêutico,Total,6412.0
+954,4.0,Sul,2009,Profissionais de Saúde,Cirurgião Geral,Total,4681.0
+955,4.0,Sul,2009,Profissionais de Saúde,Clínico Geral,Total,15050.0
+956,4.0,Sul,2009,Profissionais de Saúde,Enfermeiro,Total,17404.0
+957,4.0,Sul,2009,Profissionais de Saúde,Fisioterapeuta,Total,7215.0
+958,4.0,Sul,2009,Profissionais de Saúde,Fonoaudiólogo,Total,2133.0
+959,4.0,Sul,2009,Profissionais de Saúde,Gineco Obstetra,Total,2029.0
+960,4.0,Sul,2009,Profissionais de Saúde,Médico de Família,Total,2167.0
+961,4.0,Sul,2009,Profissionais de Saúde,Nutricionista,Total,2172.0
+962,4.0,Sul,2009,Profissionais de Saúde,Odontólogo,Total,16894.0
+963,4.0,Sul,2009,Profissionais de Saúde,Outras especialidades médicas,Total,11610.0
+964,4.0,Sul,2009,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,3608.0
+965,4.0,Sul,2009,Profissionais de Saúde,Pediatra,Total,2338.0
+966,4.0,Sul,2009,Profissionais de Saúde,Psicólogo,Total,5796.0
+967,4.0,Sul,2009,Profissionais de Saúde,Psiquiatra,Total,1069.0
+968,4.0,Sul,2009,Profissionais de Saúde,Radiologista,Total,1332.0
+969,4.0,Sul,2009,Profissionais de Saúde,Sanitarista,Total,73.0
+970,4.0,Sul,2010,Profissionais de Saúde,Anestesista,Total,2893.0
+971,4.0,Sul,2010,Profissionais de Saúde,Assistente Social,Total,2923.0
+972,4.0,Sul,2010,Profissionais de Saúde,Bioquímico/farmacêutico,Total,6849.0
+973,4.0,Sul,2010,Profissionais de Saúde,Cirurgião Geral,Total,5005.0
+974,4.0,Sul,2010,Profissionais de Saúde,Clínico Geral,Total,15722.0
+975,4.0,Sul,2010,Profissionais de Saúde,Enfermeiro,Total,18897.0
+976,4.0,Sul,2010,Profissionais de Saúde,Fisioterapeuta,Total,7846.0
+977,4.0,Sul,2010,Profissionais de Saúde,Fonoaudiólogo,Total,2278.0
+978,4.0,Sul,2010,Profissionais de Saúde,Gineco Obstetra,Total,2004.0
+979,4.0,Sul,2010,Profissionais de Saúde,Médico de Família,Total,2239.0
+980,4.0,Sul,2010,Profissionais de Saúde,Nutricionista,Total,2478.0
+981,4.0,Sul,2010,Profissionais de Saúde,Odontólogo,Total,17785.0
+982,4.0,Sul,2010,Profissionais de Saúde,Outras especialidades médicas,Total,12091.0
+983,4.0,Sul,2010,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,3795.0
+984,4.0,Sul,2010,Profissionais de Saúde,Pediatra,Total,2433.0
+985,4.0,Sul,2010,Profissionais de Saúde,Psicólogo,Total,6401.0
+986,4.0,Sul,2010,Profissionais de Saúde,Psiquiatra,Total,1090.0
+987,4.0,Sul,2010,Profissionais de Saúde,Radiologista,Total,1430.0
+988,4.0,Sul,2010,Profissionais de Saúde,Sanitarista,Total,72.0
+989,4.0,Sul,2011,Profissionais de Saúde,Anestesista,Total,0.0
+990,4.0,Sul,2011,Profissionais de Saúde,Assistente Social,Total,3082.0
+991,4.0,Sul,2011,Profissionais de Saúde,Bioquímico/farmacêutico,Total,7096.0
+992,4.0,Sul,2011,Profissionais de Saúde,Cirurgião Geral,Total,791.0
+993,4.0,Sul,2011,Profissionais de Saúde,Clínico Geral,Total,16396.0
+994,4.0,Sul,2011,Profissionais de Saúde,Enfermeiro,Total,20515.0
+995,4.0,Sul,2011,Profissionais de Saúde,Fisioterapeuta,Total,8378.0
+996,4.0,Sul,2011,Profissionais de Saúde,Fonoaudiólogo,Total,2391.0
+997,4.0,Sul,2011,Profissionais de Saúde,Gineco Obstetra,Total,2123.0
+998,4.0,Sul,2011,Profissionais de Saúde,Médico de Família,Total,2266.0
+999,4.0,Sul,2011,Profissionais de Saúde,Nutricionista,Total,2754.0
+1000,4.0,Sul,2011,Profissionais de Saúde,Odontólogo,Total,18612.0
+1001,4.0,Sul,2011,Profissionais de Saúde,Outras especialidades médicas,Total,14862.0
+1002,4.0,Sul,2011,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,4089.0
+1003,4.0,Sul,2011,Profissionais de Saúde,Pediatra,Total,4706.0
+1004,4.0,Sul,2011,Profissionais de Saúde,Psicólogo,Total,6829.0
+1005,4.0,Sul,2011,Profissionais de Saúde,Psiquiatra,Total,1126.0
+1006,4.0,Sul,2011,Profissionais de Saúde,Radiologista,Total,1230.0
+1007,4.0,Sul,2011,Profissionais de Saúde,Sanitarista,Total,69.0
+1008,4.0,Sul,2012,Profissionais de Saúde,Anestesista,Total,0.0
+1009,4.0,Sul,2012,Profissionais de Saúde,Assistente Social,Total,3253.0
+1010,4.0,Sul,2012,Profissionais de Saúde,Bioquímico/farmacêutico,Total,7696.0
+1011,4.0,Sul,2012,Profissionais de Saúde,Cirurgião Geral,Total,806.0
+1012,4.0,Sul,2012,Profissionais de Saúde,Clínico Geral,Total,17230.0
+1013,4.0,Sul,2012,Profissionais de Saúde,Enfermeiro,Total,23389.0
+1014,4.0,Sul,2012,Profissionais de Saúde,Fisioterapeuta,Total,9090.0
+1015,4.0,Sul,2012,Profissionais de Saúde,Fonoaudiólogo,Total,2507.0
+1016,4.0,Sul,2012,Profissionais de Saúde,Gineco Obstetra,Total,2162.0
+1017,4.0,Sul,2012,Profissionais de Saúde,Médico de Família,Total,2326.0
+1018,4.0,Sul,2012,Profissionais de Saúde,Nutricionista,Total,3093.0
+1019,4.0,Sul,2012,Profissionais de Saúde,Odontólogo,Total,19543.0
+1020,4.0,Sul,2012,Profissionais de Saúde,Outras especialidades médicas,Total,15908.0
+1021,4.0,Sul,2012,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,4301.0
+1022,4.0,Sul,2012,Profissionais de Saúde,Pediatra,Total,4821.0
+1023,4.0,Sul,2012,Profissionais de Saúde,Psicólogo,Total,7522.0
+1024,4.0,Sul,2012,Profissionais de Saúde,Psiquiatra,Total,1179.0
+1025,4.0,Sul,2012,Profissionais de Saúde,Radiologista,Total,1289.0
+1026,4.0,Sul,2012,Profissionais de Saúde,Sanitarista,Total,52.0
+1027,4.0,Sul,2013,Profissionais de Saúde,Anestesista,Total,0.0
+1028,4.0,Sul,2013,Profissionais de Saúde,Assistente Social,Total,3494.0
+1029,4.0,Sul,2013,Profissionais de Saúde,Bioquímico/farmacêutico,Total,3386.0
+1030,4.0,Sul,2013,Profissionais de Saúde,Cirurgião Geral,Total,829.0
+1031,4.0,Sul,2013,Profissionais de Saúde,Clínico Geral,Total,17962.0
+1032,4.0,Sul,2013,Profissionais de Saúde,Enfermeiro,Total,26072.0
+1033,4.0,Sul,2013,Profissionais de Saúde,Fisioterapeuta,Total,9805.0
+1034,4.0,Sul,2013,Profissionais de Saúde,Fonoaudiólogo,Total,2674.0
+1035,4.0,Sul,2013,Profissionais de Saúde,Gineco Obstetra,Total,2265.0
+1036,4.0,Sul,2013,Profissionais de Saúde,Médico de Família,Total,2925.0
+1037,4.0,Sul,2013,Profissionais de Saúde,Nutricionista,Total,3382.0
+1038,4.0,Sul,2013,Profissionais de Saúde,Odontólogo,Total,20171.0
+1039,4.0,Sul,2013,Profissionais de Saúde,Outras especialidades médicas,Total,16793.0
+1040,4.0,Sul,2013,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,4488.0
+1041,4.0,Sul,2013,Profissionais de Saúde,Pediatra,Total,4915.0
+1042,4.0,Sul,2013,Profissionais de Saúde,Psicólogo,Total,8233.0
+1043,4.0,Sul,2013,Profissionais de Saúde,Psiquiatra,Total,1228.0
+1044,4.0,Sul,2013,Profissionais de Saúde,Radiologista,Total,1362.0
+1045,4.0,Sul,2013,Profissionais de Saúde,Sanitarista,Total,44.0
+1046,4.0,Sul,2014,Profissionais de Saúde,Anestesista,Total,0.0
+1047,4.0,Sul,2014,Profissionais de Saúde,Assistente Social,Total,3775.0
+1048,4.0,Sul,2014,Profissionais de Saúde,Bioquímico/farmacêutico,Total,3928.0
+1049,4.0,Sul,2014,Profissionais de Saúde,Cirurgião Geral,Total,853.0
+1050,4.0,Sul,2014,Profissionais de Saúde,Clínico Geral,Total,19181.0
+1051,4.0,Sul,2014,Profissionais de Saúde,Enfermeiro,Total,29642.0
+1052,4.0,Sul,2014,Profissionais de Saúde,Fisioterapeuta,Total,10387.0
+1053,4.0,Sul,2014,Profissionais de Saúde,Fonoaudiólogo,Total,2848.0
+1054,4.0,Sul,2014,Profissionais de Saúde,Gineco Obstetra,Total,2399.0
+1055,4.0,Sul,2014,Profissionais de Saúde,Médico de Família,Total,4292.0
+1056,4.0,Sul,2014,Profissionais de Saúde,Nutricionista,Total,3747.0
+1057,4.0,Sul,2014,Profissionais de Saúde,Odontólogo,Total,20899.0
+1058,4.0,Sul,2014,Profissionais de Saúde,Outras especialidades médicas,Total,17949.0
+1059,4.0,Sul,2014,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,4764.0
+1060,4.0,Sul,2014,Profissionais de Saúde,Pediatra,Total,4938.0
+1061,4.0,Sul,2014,Profissionais de Saúde,Psicólogo,Total,9048.0
+1062,4.0,Sul,2014,Profissionais de Saúde,Psiquiatra,Total,1290.0
+1063,4.0,Sul,2014,Profissionais de Saúde,Radiologista,Total,1412.0
+1064,4.0,Sul,2014,Profissionais de Saúde,Sanitarista,Total,40.0
+1065,4.0,Sul,2015,Profissionais de Saúde,Anestesista,Total,0.0
+1066,4.0,Sul,2015,Profissionais de Saúde,Assistente Social,Total,3825.0
+1067,4.0,Sul,2015,Profissionais de Saúde,Bioquímico/farmacêutico,Total,4356.0
+1068,4.0,Sul,2015,Profissionais de Saúde,Cirurgião Geral,Total,864.0
+1069,4.0,Sul,2015,Profissionais de Saúde,Clínico Geral,Total,19730.0
+1070,4.0,Sul,2015,Profissionais de Saúde,Enfermeiro,Total,31626.0
+1071,4.0,Sul,2015,Profissionais de Saúde,Fisioterapeuta,Total,10803.0
+1072,4.0,Sul,2015,Profissionais de Saúde,Fonoaudiólogo,Total,2984.0
+1073,4.0,Sul,2015,Profissionais de Saúde,Gineco Obstetra,Total,2491.0
+1074,4.0,Sul,2015,Profissionais de Saúde,Médico de Família,Total,4430.0
+1075,4.0,Sul,2015,Profissionais de Saúde,Nutricionista,Total,3973.0
+1076,4.0,Sul,2015,Profissionais de Saúde,Odontólogo,Total,21358.0
+1077,4.0,Sul,2015,Profissionais de Saúde,Outras especialidades médicas,Total,18492.0
+1078,4.0,Sul,2015,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,4864.0
+1079,4.0,Sul,2015,Profissionais de Saúde,Pediatra,Total,4873.0
+1080,4.0,Sul,2015,Profissionais de Saúde,Psicólogo,Total,9471.0
+1081,4.0,Sul,2015,Profissionais de Saúde,Psiquiatra,Total,1325.0
+1082,4.0,Sul,2015,Profissionais de Saúde,Radiologista,Total,1471.0
+1083,4.0,Sul,2015,Profissionais de Saúde,Sanitarista,Total,32.0
+1084,4.0,Sul,2016,Profissionais de Saúde,Anestesista,Total,0.0
+1085,4.0,Sul,2016,Profissionais de Saúde,Assistente Social,Total,3899.0
+1086,4.0,Sul,2016,Profissionais de Saúde,Bioquímico/farmacêutico,Total,4821.0
+1087,4.0,Sul,2016,Profissionais de Saúde,Cirurgião Geral,Total,936.0
+1088,4.0,Sul,2016,Profissionais de Saúde,Clínico Geral,Total,20721.0
+1089,4.0,Sul,2016,Profissionais de Saúde,Enfermeiro,Total,33453.0
+1090,4.0,Sul,2016,Profissionais de Saúde,Fisioterapeuta,Total,11439.0
+1091,4.0,Sul,2016,Profissionais de Saúde,Fonoaudiólogo,Total,3068.0
+1092,4.0,Sul,2016,Profissionais de Saúde,Gineco Obstetra,Total,2618.0
+1093,4.0,Sul,2016,Profissionais de Saúde,Médico de Família,Total,4431.0
+1094,4.0,Sul,2016,Profissionais de Saúde,Nutricionista,Total,4271.0
+1095,4.0,Sul,2016,Profissionais de Saúde,Odontólogo,Total,21943.0
+1096,4.0,Sul,2016,Profissionais de Saúde,Outras especialidades médicas,Total,19816.0
+1097,4.0,Sul,2016,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,5099.0
+1098,4.0,Sul,2016,Profissionais de Saúde,Pediatra,Total,5013.0
+1099,4.0,Sul,2016,Profissionais de Saúde,Psicólogo,Total,10064.0
+1100,4.0,Sul,2016,Profissionais de Saúde,Psiquiatra,Total,1391.0
+1101,4.0,Sul,2016,Profissionais de Saúde,Radiologista,Total,1557.0
+1102,4.0,Sul,2016,Profissionais de Saúde,Sanitarista,Total,28.0
+1103,4.0,Sul,2017,Profissionais de Saúde,Anestesista,Total,0.0
+1104,4.0,Sul,2017,Profissionais de Saúde,Assistente Social,Total,4103.0
+1105,4.0,Sul,2017,Profissionais de Saúde,Bioquímico/farmacêutico,Total,5335.0
+1106,4.0,Sul,2017,Profissionais de Saúde,Cirurgião Geral,Total,1030.0
+1107,4.0,Sul,2017,Profissionais de Saúde,Clínico Geral,Total,21935.0
+1108,4.0,Sul,2017,Profissionais de Saúde,Enfermeiro,Total,35177.0
+1109,4.0,Sul,2017,Profissionais de Saúde,Fisioterapeuta,Total,12226.0
+1110,4.0,Sul,2017,Profissionais de Saúde,Fonoaudiólogo,Total,3282.0
+1111,4.0,Sul,2017,Profissionais de Saúde,Gineco Obstetra,Total,2793.0
+1112,4.0,Sul,2017,Profissionais de Saúde,Médico de Família,Total,4687.0
+1113,4.0,Sul,2017,Profissionais de Saúde,Nutricionista,Total,4619.0
+1114,4.0,Sul,2017,Profissionais de Saúde,Odontólogo,Total,22876.0
+1115,4.0,Sul,2017,Profissionais de Saúde,Outras especialidades médicas,Total,20919.0
+1116,4.0,Sul,2017,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,5409.0
+1117,4.0,Sul,2017,Profissionais de Saúde,Pediatra,Total,5191.0
+1118,4.0,Sul,2017,Profissionais de Saúde,Psicólogo,Total,10878.0
+1119,4.0,Sul,2017,Profissionais de Saúde,Psiquiatra,Total,1491.0
+1120,4.0,Sul,2017,Profissionais de Saúde,Radiologista,Total,1699.0
+1121,4.0,Sul,2017,Profissionais de Saúde,Sanitarista,Total,18.0
+1122,4.0,Sul,2018,Profissionais de Saúde,Anestesista,Total,0.0
+1123,4.0,Sul,2018,Profissionais de Saúde,Assistente Social,Total,4278.0
+1124,4.0,Sul,2018,Profissionais de Saúde,Bioquímico/farmacêutico,Total,5994.0
+1125,4.0,Sul,2018,Profissionais de Saúde,Cirurgião Geral,Total,1066.0
+1126,4.0,Sul,2018,Profissionais de Saúde,Clínico Geral,Total,22875.0
+1127,4.0,Sul,2018,Profissionais de Saúde,Enfermeiro,Total,37438.0
+1128,4.0,Sul,2018,Profissionais de Saúde,Fisioterapeuta,Total,13074.0
+1129,4.0,Sul,2018,Profissionais de Saúde,Fonoaudiólogo,Total,3534.0
+1130,4.0,Sul,2018,Profissionais de Saúde,Gineco Obstetra,Total,2929.0
+1131,4.0,Sul,2018,Profissionais de Saúde,Médico de Família,Total,4275.0
+1132,4.0,Sul,2018,Profissionais de Saúde,Nutricionista,Total,4895.0
+1133,4.0,Sul,2018,Profissionais de Saúde,Odontólogo,Total,23864.0
+1134,4.0,Sul,2018,Profissionais de Saúde,Outras especialidades médicas,Total,21942.0
+1135,4.0,Sul,2018,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,6065.0
+1136,4.0,Sul,2018,Profissionais de Saúde,Pediatra,Total,5402.0
+1137,4.0,Sul,2018,Profissionais de Saúde,Psicólogo,Total,11693.0
+1138,4.0,Sul,2018,Profissionais de Saúde,Psiquiatra,Total,1563.0
+1139,4.0,Sul,2018,Profissionais de Saúde,Radiologista,Total,1827.0
+1140,4.0,Sul,2018,Profissionais de Saúde,Sanitarista,Total,17.0
+1141,4.0,Sul,2019,Profissionais de Saúde,Anestesista,Total,0.0
+1142,4.0,Sul,2019,Profissionais de Saúde,Assistente Social,Total,4359.0
+1143,4.0,Sul,2019,Profissionais de Saúde,Bioquímico/farmacêutico,Total,6672.0
+1144,4.0,Sul,2019,Profissionais de Saúde,Cirurgião Geral,Total,1165.0
+1145,4.0,Sul,2019,Profissionais de Saúde,Clínico Geral,Total,24090.0
+1146,4.0,Sul,2019,Profissionais de Saúde,Enfermeiro,Total,39549.0
+1147,4.0,Sul,2019,Profissionais de Saúde,Fisioterapeuta,Total,13734.0
+1148,4.0,Sul,2019,Profissionais de Saúde,Fonoaudiólogo,Total,3750.0
+1149,4.0,Sul,2019,Profissionais de Saúde,Gineco Obstetra,Total,3054.0
+1150,4.0,Sul,2019,Profissionais de Saúde,Médico de Família,Total,4308.0
+1151,4.0,Sul,2019,Profissionais de Saúde,Nutricionista,Total,5147.0
+1152,4.0,Sul,2019,Profissionais de Saúde,Odontólogo,Total,24642.0
+1153,4.0,Sul,2019,Profissionais de Saúde,Outras especialidades médicas,Total,23071.0
+1154,4.0,Sul,2019,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,6477.0
+1155,4.0,Sul,2019,Profissionais de Saúde,Pediatra,Total,5626.0
+1156,4.0,Sul,2019,Profissionais de Saúde,Psicólogo,Total,12663.0
+1157,4.0,Sul,2019,Profissionais de Saúde,Psiquiatra,Total,1674.0
+1158,4.0,Sul,2019,Profissionais de Saúde,Radiologista,Total,2034.0
+1159,4.0,Sul,2019,Profissionais de Saúde,Sanitarista,Total,12.0
+1160,4.0,Sul,2020,Profissionais de Saúde,Anestesista,Total,0.0
+1161,4.0,Sul,2020,Profissionais de Saúde,Assistente Social,Total,4519.0
+1162,4.0,Sul,2020,Profissionais de Saúde,Bioquímico/farmacêutico,Total,8594.0
+1163,4.0,Sul,2020,Profissionais de Saúde,Cirurgião Geral,Total,1201.0
+1164,4.0,Sul,2020,Profissionais de Saúde,Clínico Geral,Total,26735.0
+1165,4.0,Sul,2020,Profissionais de Saúde,Enfermeiro,Total,44018.0
+1166,4.0,Sul,2020,Profissionais de Saúde,Fisioterapeuta,Total,14710.0
+1167,4.0,Sul,2020,Profissionais de Saúde,Fonoaudiólogo,Total,3976.0
+1168,4.0,Sul,2020,Profissionais de Saúde,Gineco Obstetra,Total,3166.0
+1169,4.0,Sul,2020,Profissionais de Saúde,Médico de Família,Total,4786.0
+1170,4.0,Sul,2020,Profissionais de Saúde,Nutricionista,Total,5418.0
+1171,4.0,Sul,2020,Profissionais de Saúde,Odontólogo,Total,25054.0
+1172,4.0,Sul,2020,Profissionais de Saúde,Outras especialidades médicas,Total,23966.0
+1173,4.0,Sul,2020,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,6789.0
+1174,4.0,Sul,2020,Profissionais de Saúde,Pediatra,Total,5830.0
+1175,4.0,Sul,2020,Profissionais de Saúde,Psicólogo,Total,13439.0
+1176,4.0,Sul,2020,Profissionais de Saúde,Psiquiatra,Total,1758.0
+1177,4.0,Sul,2020,Profissionais de Saúde,Radiologista,Total,2122.0
+1178,4.0,Sul,2020,Profissionais de Saúde,Sanitarista,Total,11.0
+1179,4.0,Sul,2021,Profissionais de Saúde,Anestesista,Total,0.0
+1180,4.0,Sul,2021,Profissionais de Saúde,Assistente Social,Total,4785.0
+1181,4.0,Sul,2021,Profissionais de Saúde,Bioquímico/farmacêutico,Total,12725.0
+1182,4.0,Sul,2021,Profissionais de Saúde,Cirurgião Geral,Total,1189.0
+1183,4.0,Sul,2021,Profissionais de Saúde,Clínico Geral,Total,29015.0
+1184,4.0,Sul,2021,Profissionais de Saúde,Enfermeiro,Total,47876.0
+1185,4.0,Sul,2021,Profissionais de Saúde,Fisioterapeuta,Total,16659.0
+1186,4.0,Sul,2021,Profissionais de Saúde,Fonoaudiólogo,Total,4386.0
+1187,4.0,Sul,2021,Profissionais de Saúde,Gineco Obstetra,Total,3303.0
+1188,4.0,Sul,2021,Profissionais de Saúde,Médico de Família,Total,4821.0
+1189,4.0,Sul,2021,Profissionais de Saúde,Nutricionista,Total,5860.0
+1190,4.0,Sul,2021,Profissionais de Saúde,Odontólogo,Total,27212.0
+1191,4.0,Sul,2021,Profissionais de Saúde,Outras especialidades médicas,Total,24988.0
+1192,4.0,Sul,2021,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,7696.0
+1193,4.0,Sul,2021,Profissionais de Saúde,Pediatra,Total,5943.0
+1194,4.0,Sul,2021,Profissionais de Saúde,Psicólogo,Total,15230.0
+1195,4.0,Sul,2021,Profissionais de Saúde,Psiquiatra,Total,1870.0
+1196,4.0,Sul,2021,Profissionais de Saúde,Radiologista,Total,2217.0
+1197,4.0,Sul,2021,Profissionais de Saúde,Sanitarista,Total,11.0
+1198,4.0,Sul,2022,Profissionais de Saúde,Anestesista,Total,0.0
+1199,4.0,Sul,2022,Profissionais de Saúde,Assistente Social,Total,4964.0
+1200,4.0,Sul,2022,Profissionais de Saúde,Bioquímico/farmacêutico,Total,14128.0
+1201,4.0,Sul,2022,Profissionais de Saúde,Cirurgião Geral,Total,1299.0
+1202,4.0,Sul,2022,Profissionais de Saúde,Clínico Geral,Total,31470.0
+1203,4.0,Sul,2022,Profissionais de Saúde,Enfermeiro,Total,49983.0
+1204,4.0,Sul,2022,Profissionais de Saúde,Fisioterapeuta,Total,17557.0
+1205,4.0,Sul,2022,Profissionais de Saúde,Fonoaudiólogo,Total,4622.0
+1206,4.0,Sul,2022,Profissionais de Saúde,Gineco Obstetra,Total,3390.0
+1207,4.0,Sul,2022,Profissionais de Saúde,Médico de Família,Total,4860.0
+1208,4.0,Sul,2022,Profissionais de Saúde,Nutricionista,Total,6183.0
+1209,4.0,Sul,2022,Profissionais de Saúde,Odontólogo,Total,28462.0
+1210,4.0,Sul,2022,Profissionais de Saúde,Outras especialidades médicas,Total,26134.0
+1211,4.0,Sul,2022,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,8457.0
+1212,4.0,Sul,2022,Profissionais de Saúde,Pediatra,Total,6182.0
+1213,4.0,Sul,2022,Profissionais de Saúde,Psicólogo,Total,16544.0
+1214,4.0,Sul,2022,Profissionais de Saúde,Psiquiatra,Total,1952.0
+1215,4.0,Sul,2022,Profissionais de Saúde,Radiologista,Total,2306.0
+1216,4.0,Sul,2022,Profissionais de Saúde,Sanitarista,Total,10.0
+1217,5.0,Centro-Oeste,2007,Profissionais de Saúde,Anestesista,Total,700.0
+1218,5.0,Centro-Oeste,2007,Profissionais de Saúde,Assistente Social,Total,859.0
+1219,5.0,Centro-Oeste,2007,Profissionais de Saúde,Bioquímico/farmacêutico,Total,2074.0
+1220,5.0,Centro-Oeste,2007,Profissionais de Saúde,Cirurgião Geral,Total,1279.0
+1221,5.0,Centro-Oeste,2007,Profissionais de Saúde,Clínico Geral,Total,4318.0
+1222,5.0,Centro-Oeste,2007,Profissionais de Saúde,Enfermeiro,Total,5305.0
+1223,5.0,Centro-Oeste,2007,Profissionais de Saúde,Fisioterapeuta,Total,2031.0
+1224,5.0,Centro-Oeste,2007,Profissionais de Saúde,Fonoaudiólogo,Total,699.0
+1225,5.0,Centro-Oeste,2007,Profissionais de Saúde,Gineco Obstetra,Total,1060.0
+1226,5.0,Centro-Oeste,2007,Profissionais de Saúde,Médico de Família,Total,999.0
+1227,5.0,Centro-Oeste,2007,Profissionais de Saúde,Nutricionista,Total,614.0
+1228,5.0,Centro-Oeste,2007,Profissionais de Saúde,Odontólogo,Total,6137.0
+1229,5.0,Centro-Oeste,2007,Profissionais de Saúde,Outras especialidades médicas,Total,5372.0
+1230,5.0,Centro-Oeste,2007,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,1351.0
+1231,5.0,Centro-Oeste,2007,Profissionais de Saúde,Pediatra,Total,949.0
+1232,5.0,Centro-Oeste,2007,Profissionais de Saúde,Psicólogo,Total,1625.0
+1233,5.0,Centro-Oeste,2007,Profissionais de Saúde,Psiquiatra,Total,239.0
+1234,5.0,Centro-Oeste,2007,Profissionais de Saúde,Radiologista,Total,617.0
+1235,5.0,Centro-Oeste,2007,Profissionais de Saúde,Sanitarista,Total,26.0
+1236,5.0,Centro-Oeste,2008,Profissionais de Saúde,Anestesista,Total,1079.0
+1237,5.0,Centro-Oeste,2008,Profissionais de Saúde,Assistente Social,Total,961.0
+1238,5.0,Centro-Oeste,2008,Profissionais de Saúde,Bioquímico/farmacêutico,Total,2228.0
+1239,5.0,Centro-Oeste,2008,Profissionais de Saúde,Cirurgião Geral,Total,1570.0
+1240,5.0,Centro-Oeste,2008,Profissionais de Saúde,Clínico Geral,Total,4812.0
+1241,5.0,Centro-Oeste,2008,Profissionais de Saúde,Enfermeiro,Total,6040.0
+1242,5.0,Centro-Oeste,2008,Profissionais de Saúde,Fisioterapeuta,Total,2357.0
+1243,5.0,Centro-Oeste,2008,Profissionais de Saúde,Fonoaudiólogo,Total,825.0
+1244,5.0,Centro-Oeste,2008,Profissionais de Saúde,Gineco Obstetra,Total,1037.0
+1245,5.0,Centro-Oeste,2008,Profissionais de Saúde,Médico de Família,Total,973.0
+1246,5.0,Centro-Oeste,2008,Profissionais de Saúde,Nutricionista,Total,703.0
+1247,5.0,Centro-Oeste,2008,Profissionais de Saúde,Odontólogo,Total,6834.0
+1248,5.0,Centro-Oeste,2008,Profissionais de Saúde,Outras especialidades médicas,Total,5516.0
+1249,5.0,Centro-Oeste,2008,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,1629.0
+1250,5.0,Centro-Oeste,2008,Profissionais de Saúde,Pediatra,Total,999.0
+1251,5.0,Centro-Oeste,2008,Profissionais de Saúde,Psicólogo,Total,1852.0
+1252,5.0,Centro-Oeste,2008,Profissionais de Saúde,Psiquiatra,Total,272.0
+1253,5.0,Centro-Oeste,2008,Profissionais de Saúde,Radiologista,Total,639.0
+1254,5.0,Centro-Oeste,2008,Profissionais de Saúde,Sanitarista,Total,23.0
+1255,5.0,Centro-Oeste,2009,Profissionais de Saúde,Anestesista,Total,1234.0
+1256,5.0,Centro-Oeste,2009,Profissionais de Saúde,Assistente Social,Total,1049.0
+1257,5.0,Centro-Oeste,2009,Profissionais de Saúde,Bioquímico/farmacêutico,Total,2377.0
+1258,5.0,Centro-Oeste,2009,Profissionais de Saúde,Cirurgião Geral,Total,1754.0
+1259,5.0,Centro-Oeste,2009,Profissionais de Saúde,Clínico Geral,Total,5085.0
+1260,5.0,Centro-Oeste,2009,Profissionais de Saúde,Enfermeiro,Total,6709.0
+1261,5.0,Centro-Oeste,2009,Profissionais de Saúde,Fisioterapeuta,Total,2650.0
+1262,5.0,Centro-Oeste,2009,Profissionais de Saúde,Fonoaudiólogo,Total,942.0
+1263,5.0,Centro-Oeste,2009,Profissionais de Saúde,Gineco Obstetra,Total,981.0
+1264,5.0,Centro-Oeste,2009,Profissionais de Saúde,Médico de Família,Total,938.0
+1265,5.0,Centro-Oeste,2009,Profissionais de Saúde,Nutricionista,Total,847.0
+1266,5.0,Centro-Oeste,2009,Profissionais de Saúde,Odontólogo,Total,7549.0
+1267,5.0,Centro-Oeste,2009,Profissionais de Saúde,Outras especialidades médicas,Total,5781.0
+1268,5.0,Centro-Oeste,2009,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,1845.0
+1269,5.0,Centro-Oeste,2009,Profissionais de Saúde,Pediatra,Total,983.0
+1270,5.0,Centro-Oeste,2009,Profissionais de Saúde,Psicólogo,Total,2202.0
+1271,5.0,Centro-Oeste,2009,Profissionais de Saúde,Psiquiatra,Total,282.0
+1272,5.0,Centro-Oeste,2009,Profissionais de Saúde,Radiologista,Total,653.0
+1273,5.0,Centro-Oeste,2009,Profissionais de Saúde,Sanitarista,Total,19.0
+1274,5.0,Centro-Oeste,2010,Profissionais de Saúde,Anestesista,Total,1297.0
+1275,5.0,Centro-Oeste,2010,Profissionais de Saúde,Assistente Social,Total,1149.0
+1276,5.0,Centro-Oeste,2010,Profissionais de Saúde,Bioquímico/farmacêutico,Total,2584.0
+1277,5.0,Centro-Oeste,2010,Profissionais de Saúde,Cirurgião Geral,Total,1814.0
+1278,5.0,Centro-Oeste,2010,Profissionais de Saúde,Clínico Geral,Total,5477.0
+1279,5.0,Centro-Oeste,2010,Profissionais de Saúde,Enfermeiro,Total,7638.0
+1280,5.0,Centro-Oeste,2010,Profissionais de Saúde,Fisioterapeuta,Total,2961.0
+1281,5.0,Centro-Oeste,2010,Profissionais de Saúde,Fonoaudiólogo,Total,998.0
+1282,5.0,Centro-Oeste,2010,Profissionais de Saúde,Gineco Obstetra,Total,1010.0
+1283,5.0,Centro-Oeste,2010,Profissionais de Saúde,Médico de Família,Total,995.0
+1284,5.0,Centro-Oeste,2010,Profissionais de Saúde,Nutricionista,Total,985.0
+1285,5.0,Centro-Oeste,2010,Profissionais de Saúde,Odontólogo,Total,8095.0
+1286,5.0,Centro-Oeste,2010,Profissionais de Saúde,Outras especialidades médicas,Total,6159.0
+1287,5.0,Centro-Oeste,2010,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,2115.0
+1288,5.0,Centro-Oeste,2010,Profissionais de Saúde,Pediatra,Total,1014.0
+1289,5.0,Centro-Oeste,2010,Profissionais de Saúde,Psicólogo,Total,2494.0
+1290,5.0,Centro-Oeste,2010,Profissionais de Saúde,Psiquiatra,Total,323.0
+1291,5.0,Centro-Oeste,2010,Profissionais de Saúde,Radiologista,Total,688.0
+1292,5.0,Centro-Oeste,2010,Profissionais de Saúde,Sanitarista,Total,20.0
+1293,5.0,Centro-Oeste,2011,Profissionais de Saúde,Anestesista,Total,0.0
+1294,5.0,Centro-Oeste,2011,Profissionais de Saúde,Assistente Social,Total,1198.0
+1295,5.0,Centro-Oeste,2011,Profissionais de Saúde,Bioquímico/farmacêutico,Total,2690.0
+1296,5.0,Centro-Oeste,2011,Profissionais de Saúde,Cirurgião Geral,Total,480.0
+1297,5.0,Centro-Oeste,2011,Profissionais de Saúde,Clínico Geral,Total,5525.0
+1298,5.0,Centro-Oeste,2011,Profissionais de Saúde,Enfermeiro,Total,8163.0
+1299,5.0,Centro-Oeste,2011,Profissionais de Saúde,Fisioterapeuta,Total,3216.0
+1300,5.0,Centro-Oeste,2011,Profissionais de Saúde,Fonoaudiólogo,Total,1076.0
+1301,5.0,Centro-Oeste,2011,Profissionais de Saúde,Gineco Obstetra,Total,1109.0
+1302,5.0,Centro-Oeste,2011,Profissionais de Saúde,Médico de Família,Total,941.0
+1303,5.0,Centro-Oeste,2011,Profissionais de Saúde,Nutricionista,Total,1123.0
+1304,5.0,Centro-Oeste,2011,Profissionais de Saúde,Odontólogo,Total,8457.0
+1305,5.0,Centro-Oeste,2011,Profissionais de Saúde,Outras especialidades médicas,Total,7352.0
+1306,5.0,Centro-Oeste,2011,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,2250.0
+1307,5.0,Centro-Oeste,2011,Profissionais de Saúde,Pediatra,Total,1836.0
+1308,5.0,Centro-Oeste,2011,Profissionais de Saúde,Psicólogo,Total,2726.0
+1309,5.0,Centro-Oeste,2011,Profissionais de Saúde,Psiquiatra,Total,337.0
+1310,5.0,Centro-Oeste,2011,Profissionais de Saúde,Radiologista,Total,544.0
+1311,5.0,Centro-Oeste,2011,Profissionais de Saúde,Sanitarista,Total,16.0
+1312,5.0,Centro-Oeste,2012,Profissionais de Saúde,Anestesista,Total,0.0
+1313,5.0,Centro-Oeste,2012,Profissionais de Saúde,Assistente Social,Total,1294.0
+1314,5.0,Centro-Oeste,2012,Profissionais de Saúde,Bioquímico/farmacêutico,Total,2840.0
+1315,5.0,Centro-Oeste,2012,Profissionais de Saúde,Cirurgião Geral,Total,472.0
+1316,5.0,Centro-Oeste,2012,Profissionais de Saúde,Clínico Geral,Total,5628.0
+1317,5.0,Centro-Oeste,2012,Profissionais de Saúde,Enfermeiro,Total,9023.0
+1318,5.0,Centro-Oeste,2012,Profissionais de Saúde,Fisioterapeuta,Total,3414.0
+1319,5.0,Centro-Oeste,2012,Profissionais de Saúde,Fonoaudiólogo,Total,1093.0
+1320,5.0,Centro-Oeste,2012,Profissionais de Saúde,Gineco Obstetra,Total,1139.0
+1321,5.0,Centro-Oeste,2012,Profissionais de Saúde,Médico de Família,Total,1035.0
+1322,5.0,Centro-Oeste,2012,Profissionais de Saúde,Nutricionista,Total,1245.0
+1323,5.0,Centro-Oeste,2012,Profissionais de Saúde,Odontólogo,Total,8388.0
+1324,5.0,Centro-Oeste,2012,Profissionais de Saúde,Outras especialidades médicas,Total,7792.0
+1325,5.0,Centro-Oeste,2012,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,2369.0
+1326,5.0,Centro-Oeste,2012,Profissionais de Saúde,Pediatra,Total,1873.0
+1327,5.0,Centro-Oeste,2012,Profissionais de Saúde,Psicólogo,Total,2917.0
+1328,5.0,Centro-Oeste,2012,Profissionais de Saúde,Psiquiatra,Total,332.0
+1329,5.0,Centro-Oeste,2012,Profissionais de Saúde,Radiologista,Total,555.0
+1330,5.0,Centro-Oeste,2012,Profissionais de Saúde,Sanitarista,Total,13.0
+1331,5.0,Centro-Oeste,2013,Profissionais de Saúde,Anestesista,Total,0.0
+1332,5.0,Centro-Oeste,2013,Profissionais de Saúde,Assistente Social,Total,1445.0
+1333,5.0,Centro-Oeste,2013,Profissionais de Saúde,Bioquímico/farmacêutico,Total,1310.0
+1334,5.0,Centro-Oeste,2013,Profissionais de Saúde,Cirurgião Geral,Total,483.0
+1335,5.0,Centro-Oeste,2013,Profissionais de Saúde,Clínico Geral,Total,6235.0
+1336,5.0,Centro-Oeste,2013,Profissionais de Saúde,Enfermeiro,Total,10262.0
+1337,5.0,Centro-Oeste,2013,Profissionais de Saúde,Fisioterapeuta,Total,3775.0
+1338,5.0,Centro-Oeste,2013,Profissionais de Saúde,Fonoaudiólogo,Total,1168.0
+1339,5.0,Centro-Oeste,2013,Profissionais de Saúde,Gineco Obstetra,Total,1210.0
+1340,5.0,Centro-Oeste,2013,Profissionais de Saúde,Médico de Família,Total,1121.0
+1341,5.0,Centro-Oeste,2013,Profissionais de Saúde,Nutricionista,Total,1389.0
+1342,5.0,Centro-Oeste,2013,Profissionais de Saúde,Odontólogo,Total,8877.0
+1343,5.0,Centro-Oeste,2013,Profissionais de Saúde,Outras especialidades médicas,Total,8141.0
+1344,5.0,Centro-Oeste,2013,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,2530.0
+1345,5.0,Centro-Oeste,2013,Profissionais de Saúde,Pediatra,Total,1937.0
+1346,5.0,Centro-Oeste,2013,Profissionais de Saúde,Psicólogo,Total,3225.0
+1347,5.0,Centro-Oeste,2013,Profissionais de Saúde,Psiquiatra,Total,358.0
+1348,5.0,Centro-Oeste,2013,Profissionais de Saúde,Radiologista,Total,592.0
+1349,5.0,Centro-Oeste,2013,Profissionais de Saúde,Sanitarista,Total,10.0
+1350,5.0,Centro-Oeste,2014,Profissionais de Saúde,Anestesista,Total,0.0
+1351,5.0,Centro-Oeste,2014,Profissionais de Saúde,Assistente Social,Total,1592.0
+1352,5.0,Centro-Oeste,2014,Profissionais de Saúde,Bioquímico/farmacêutico,Total,1550.0
+1353,5.0,Centro-Oeste,2014,Profissionais de Saúde,Cirurgião Geral,Total,514.0
+1354,5.0,Centro-Oeste,2014,Profissionais de Saúde,Clínico Geral,Total,6587.0
+1355,5.0,Centro-Oeste,2014,Profissionais de Saúde,Enfermeiro,Total,11671.0
+1356,5.0,Centro-Oeste,2014,Profissionais de Saúde,Fisioterapeuta,Total,4025.0
+1357,5.0,Centro-Oeste,2014,Profissionais de Saúde,Fonoaudiólogo,Total,1228.0
+1358,5.0,Centro-Oeste,2014,Profissionais de Saúde,Gineco Obstetra,Total,1273.0
+1359,5.0,Centro-Oeste,2014,Profissionais de Saúde,Médico de Família,Total,1587.0
+1360,5.0,Centro-Oeste,2014,Profissionais de Saúde,Nutricionista,Total,1565.0
+1361,5.0,Centro-Oeste,2014,Profissionais de Saúde,Odontólogo,Total,9161.0
+1362,5.0,Centro-Oeste,2014,Profissionais de Saúde,Outras especialidades médicas,Total,8694.0
+1363,5.0,Centro-Oeste,2014,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,2665.0
+1364,5.0,Centro-Oeste,2014,Profissionais de Saúde,Pediatra,Total,2028.0
+1365,5.0,Centro-Oeste,2014,Profissionais de Saúde,Psicólogo,Total,3565.0
+1366,5.0,Centro-Oeste,2014,Profissionais de Saúde,Psiquiatra,Total,372.0
+1367,5.0,Centro-Oeste,2014,Profissionais de Saúde,Radiologista,Total,642.0
+1368,5.0,Centro-Oeste,2014,Profissionais de Saúde,Sanitarista,Total,9.0
+1369,5.0,Centro-Oeste,2015,Profissionais de Saúde,Anestesista,Total,0.0
+1370,5.0,Centro-Oeste,2015,Profissionais de Saúde,Assistente Social,Total,1681.0
+1371,5.0,Centro-Oeste,2015,Profissionais de Saúde,Bioquímico/farmacêutico,Total,1732.0
+1372,5.0,Centro-Oeste,2015,Profissionais de Saúde,Cirurgião Geral,Total,541.0
+1373,5.0,Centro-Oeste,2015,Profissionais de Saúde,Clínico Geral,Total,6628.0
+1374,5.0,Centro-Oeste,2015,Profissionais de Saúde,Enfermeiro,Total,12349.0
+1375,5.0,Centro-Oeste,2015,Profissionais de Saúde,Fisioterapeuta,Total,4133.0
+1376,5.0,Centro-Oeste,2015,Profissionais de Saúde,Fonoaudiólogo,Total,1225.0
+1377,5.0,Centro-Oeste,2015,Profissionais de Saúde,Gineco Obstetra,Total,1278.0
+1378,5.0,Centro-Oeste,2015,Profissionais de Saúde,Médico de Família,Total,1636.0
+1379,5.0,Centro-Oeste,2015,Profissionais de Saúde,Nutricionista,Total,1684.0
+1380,5.0,Centro-Oeste,2015,Profissionais de Saúde,Odontólogo,Total,9180.0
+1381,5.0,Centro-Oeste,2015,Profissionais de Saúde,Outras especialidades médicas,Total,8946.0
+1382,5.0,Centro-Oeste,2015,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,2788.0
+1383,5.0,Centro-Oeste,2015,Profissionais de Saúde,Pediatra,Total,1954.0
+1384,5.0,Centro-Oeste,2015,Profissionais de Saúde,Psicólogo,Total,3731.0
+1385,5.0,Centro-Oeste,2015,Profissionais de Saúde,Psiquiatra,Total,383.0
+1386,5.0,Centro-Oeste,2015,Profissionais de Saúde,Radiologista,Total,684.0
+1387,5.0,Centro-Oeste,2015,Profissionais de Saúde,Sanitarista,Total,11.0
+1388,5.0,Centro-Oeste,2016,Profissionais de Saúde,Anestesista,Total,0.0
+1389,5.0,Centro-Oeste,2016,Profissionais de Saúde,Assistente Social,Total,1723.0
+1390,5.0,Centro-Oeste,2016,Profissionais de Saúde,Bioquímico/farmacêutico,Total,1913.0
+1391,5.0,Centro-Oeste,2016,Profissionais de Saúde,Cirurgião Geral,Total,590.0
+1392,5.0,Centro-Oeste,2016,Profissionais de Saúde,Clínico Geral,Total,6951.0
+1393,5.0,Centro-Oeste,2016,Profissionais de Saúde,Enfermeiro,Total,13518.0
+1394,5.0,Centro-Oeste,2016,Profissionais de Saúde,Fisioterapeuta,Total,4307.0
+1395,5.0,Centro-Oeste,2016,Profissionais de Saúde,Fonoaudiólogo,Total,1261.0
+1396,5.0,Centro-Oeste,2016,Profissionais de Saúde,Gineco Obstetra,Total,1307.0
+1397,5.0,Centro-Oeste,2016,Profissionais de Saúde,Médico de Família,Total,1669.0
+1398,5.0,Centro-Oeste,2016,Profissionais de Saúde,Nutricionista,Total,1789.0
+1399,5.0,Centro-Oeste,2016,Profissionais de Saúde,Odontólogo,Total,9254.0
+1400,5.0,Centro-Oeste,2016,Profissionais de Saúde,Outras especialidades médicas,Total,9776.0
+1401,5.0,Centro-Oeste,2016,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,2986.0
+1402,5.0,Centro-Oeste,2016,Profissionais de Saúde,Pediatra,Total,2048.0
+1403,5.0,Centro-Oeste,2016,Profissionais de Saúde,Psicólogo,Total,3927.0
+1404,5.0,Centro-Oeste,2016,Profissionais de Saúde,Psiquiatra,Total,439.0
+1405,5.0,Centro-Oeste,2016,Profissionais de Saúde,Radiologista,Total,741.0
+1406,5.0,Centro-Oeste,2016,Profissionais de Saúde,Sanitarista,Total,12.0
+1407,5.0,Centro-Oeste,2017,Profissionais de Saúde,Anestesista,Total,0.0
+1408,5.0,Centro-Oeste,2017,Profissionais de Saúde,Assistente Social,Total,2078.0
+1409,5.0,Centro-Oeste,2017,Profissionais de Saúde,Bioquímico/farmacêutico,Total,2360.0
+1410,5.0,Centro-Oeste,2017,Profissionais de Saúde,Cirurgião Geral,Total,806.0
+1411,5.0,Centro-Oeste,2017,Profissionais de Saúde,Clínico Geral,Total,8483.0
+1412,5.0,Centro-Oeste,2017,Profissionais de Saúde,Enfermeiro,Total,17261.0
+1413,5.0,Centro-Oeste,2017,Profissionais de Saúde,Fisioterapeuta,Total,5299.0
+1414,5.0,Centro-Oeste,2017,Profissionais de Saúde,Fonoaudiólogo,Total,1411.0
+1415,5.0,Centro-Oeste,2017,Profissionais de Saúde,Gineco Obstetra,Total,1596.0
+1416,5.0,Centro-Oeste,2017,Profissionais de Saúde,Médico de Família,Total,2136.0
+1417,5.0,Centro-Oeste,2017,Profissionais de Saúde,Nutricionista,Total,2315.0
+1418,5.0,Centro-Oeste,2017,Profissionais de Saúde,Odontólogo,Total,10063.0
+1419,5.0,Centro-Oeste,2017,Profissionais de Saúde,Outras especialidades médicas,Total,11588.0
+1420,5.0,Centro-Oeste,2017,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,3380.0
+1421,5.0,Centro-Oeste,2017,Profissionais de Saúde,Pediatra,Total,2622.0
+1422,5.0,Centro-Oeste,2017,Profissionais de Saúde,Psicólogo,Total,4517.0
+1423,5.0,Centro-Oeste,2017,Profissionais de Saúde,Psiquiatra,Total,501.0
+1424,5.0,Centro-Oeste,2017,Profissionais de Saúde,Radiologista,Total,915.0
+1425,5.0,Centro-Oeste,2017,Profissionais de Saúde,Sanitarista,Total,14.0
+1426,5.0,Centro-Oeste,2018,Profissionais de Saúde,Anestesista,Total,0.0
+1427,5.0,Centro-Oeste,2018,Profissionais de Saúde,Assistente Social,Total,2195.0
+1428,5.0,Centro-Oeste,2018,Profissionais de Saúde,Bioquímico/farmacêutico,Total,2688.0
+1429,5.0,Centro-Oeste,2018,Profissionais de Saúde,Cirurgião Geral,Total,862.0
+1430,5.0,Centro-Oeste,2018,Profissionais de Saúde,Clínico Geral,Total,9103.0
+1431,5.0,Centro-Oeste,2018,Profissionais de Saúde,Enfermeiro,Total,19113.0
+1432,5.0,Centro-Oeste,2018,Profissionais de Saúde,Fisioterapeuta,Total,6022.0
+1433,5.0,Centro-Oeste,2018,Profissionais de Saúde,Fonoaudiólogo,Total,1518.0
+1434,5.0,Centro-Oeste,2018,Profissionais de Saúde,Gineco Obstetra,Total,1721.0
+1435,5.0,Centro-Oeste,2018,Profissionais de Saúde,Médico de Família,Total,2089.0
+1436,5.0,Centro-Oeste,2018,Profissionais de Saúde,Nutricionista,Total,2454.0
+1437,5.0,Centro-Oeste,2018,Profissionais de Saúde,Odontólogo,Total,10280.0
+1438,5.0,Centro-Oeste,2018,Profissionais de Saúde,Outras especialidades médicas,Total,11815.0
+1439,5.0,Centro-Oeste,2018,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,3580.0
+1440,5.0,Centro-Oeste,2018,Profissionais de Saúde,Pediatra,Total,2667.0
+1441,5.0,Centro-Oeste,2018,Profissionais de Saúde,Psicólogo,Total,5019.0
+1442,5.0,Centro-Oeste,2018,Profissionais de Saúde,Psiquiatra,Total,542.0
+1443,5.0,Centro-Oeste,2018,Profissionais de Saúde,Radiologista,Total,976.0
+1444,5.0,Centro-Oeste,2018,Profissionais de Saúde,Sanitarista,Total,12.0
+1445,5.0,Centro-Oeste,2019,Profissionais de Saúde,Anestesista,Total,0.0
+1446,5.0,Centro-Oeste,2019,Profissionais de Saúde,Assistente Social,Total,2351.0
+1447,5.0,Centro-Oeste,2019,Profissionais de Saúde,Bioquímico/farmacêutico,Total,3023.0
+1448,5.0,Centro-Oeste,2019,Profissionais de Saúde,Cirurgião Geral,Total,895.0
+1449,5.0,Centro-Oeste,2019,Profissionais de Saúde,Clínico Geral,Total,9635.0
+1450,5.0,Centro-Oeste,2019,Profissionais de Saúde,Enfermeiro,Total,20904.0
+1451,5.0,Centro-Oeste,2019,Profissionais de Saúde,Fisioterapeuta,Total,6307.0
+1452,5.0,Centro-Oeste,2019,Profissionais de Saúde,Fonoaudiólogo,Total,1687.0
+1453,5.0,Centro-Oeste,2019,Profissionais de Saúde,Gineco Obstetra,Total,1809.0
+1454,5.0,Centro-Oeste,2019,Profissionais de Saúde,Médico de Família,Total,2113.0
+1455,5.0,Centro-Oeste,2019,Profissionais de Saúde,Nutricionista,Total,2730.0
+1456,5.0,Centro-Oeste,2019,Profissionais de Saúde,Odontólogo,Total,10578.0
+1457,5.0,Centro-Oeste,2019,Profissionais de Saúde,Outras especialidades médicas,Total,12556.0
+1458,5.0,Centro-Oeste,2019,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,3840.0
+1459,5.0,Centro-Oeste,2019,Profissionais de Saúde,Pediatra,Total,2757.0
+1460,5.0,Centro-Oeste,2019,Profissionais de Saúde,Psicólogo,Total,5362.0
+1461,5.0,Centro-Oeste,2019,Profissionais de Saúde,Psiquiatra,Total,586.0
+1462,5.0,Centro-Oeste,2019,Profissionais de Saúde,Radiologista,Total,1026.0
+1463,5.0,Centro-Oeste,2019,Profissionais de Saúde,Sanitarista,Total,13.0
+1464,5.0,Centro-Oeste,2020,Profissionais de Saúde,Anestesista,Total,0.0
+1465,5.0,Centro-Oeste,2020,Profissionais de Saúde,Assistente Social,Total,2542.0
+1466,5.0,Centro-Oeste,2020,Profissionais de Saúde,Bioquímico/farmacêutico,Total,3395.0
+1467,5.0,Centro-Oeste,2020,Profissionais de Saúde,Cirurgião Geral,Total,919.0
+1468,5.0,Centro-Oeste,2020,Profissionais de Saúde,Clínico Geral,Total,11273.0
+1469,5.0,Centro-Oeste,2020,Profissionais de Saúde,Enfermeiro,Total,23925.0
+1470,5.0,Centro-Oeste,2020,Profissionais de Saúde,Fisioterapeuta,Total,7311.0
+1471,5.0,Centro-Oeste,2020,Profissionais de Saúde,Fonoaudiólogo,Total,1809.0
+1472,5.0,Centro-Oeste,2020,Profissionais de Saúde,Gineco Obstetra,Total,1893.0
+1473,5.0,Centro-Oeste,2020,Profissionais de Saúde,Médico de Família,Total,2289.0
+1474,5.0,Centro-Oeste,2020,Profissionais de Saúde,Nutricionista,Total,2940.0
+1475,5.0,Centro-Oeste,2020,Profissionais de Saúde,Odontólogo,Total,11014.0
+1476,5.0,Centro-Oeste,2020,Profissionais de Saúde,Outras especialidades médicas,Total,13189.0
+1477,5.0,Centro-Oeste,2020,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,4070.0
+1478,5.0,Centro-Oeste,2020,Profissionais de Saúde,Pediatra,Total,2854.0
+1479,5.0,Centro-Oeste,2020,Profissionais de Saúde,Psicólogo,Total,5994.0
+1480,5.0,Centro-Oeste,2020,Profissionais de Saúde,Psiquiatra,Total,618.0
+1481,5.0,Centro-Oeste,2020,Profissionais de Saúde,Radiologista,Total,1095.0
+1482,5.0,Centro-Oeste,2020,Profissionais de Saúde,Sanitarista,Total,15.0
+1483,5.0,Centro-Oeste,2021,Profissionais de Saúde,Anestesista,Total,0.0
+1484,5.0,Centro-Oeste,2021,Profissionais de Saúde,Assistente Social,Total,2797.0
+1485,5.0,Centro-Oeste,2021,Profissionais de Saúde,Bioquímico/farmacêutico,Total,4299.0
+1486,5.0,Centro-Oeste,2021,Profissionais de Saúde,Cirurgião Geral,Total,938.0
+1487,5.0,Centro-Oeste,2021,Profissionais de Saúde,Clínico Geral,Total,12657.0
+1488,5.0,Centro-Oeste,2021,Profissionais de Saúde,Enfermeiro,Total,27509.0
+1489,5.0,Centro-Oeste,2021,Profissionais de Saúde,Fisioterapeuta,Total,8629.0
+1490,5.0,Centro-Oeste,2021,Profissionais de Saúde,Fonoaudiólogo,Total,1980.0
+1491,5.0,Centro-Oeste,2021,Profissionais de Saúde,Gineco Obstetra,Total,2013.0
+1492,5.0,Centro-Oeste,2021,Profissionais de Saúde,Médico de Família,Total,2367.0
+1493,5.0,Centro-Oeste,2021,Profissionais de Saúde,Nutricionista,Total,3319.0
+1494,5.0,Centro-Oeste,2021,Profissionais de Saúde,Odontólogo,Total,12142.0
+1495,5.0,Centro-Oeste,2021,Profissionais de Saúde,Outras especialidades médicas,Total,13996.0
+1496,5.0,Centro-Oeste,2021,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,4742.0
+1497,5.0,Centro-Oeste,2021,Profissionais de Saúde,Pediatra,Total,2886.0
+1498,5.0,Centro-Oeste,2021,Profissionais de Saúde,Psicólogo,Total,6997.0
+1499,5.0,Centro-Oeste,2021,Profissionais de Saúde,Psiquiatra,Total,677.0
+1500,5.0,Centro-Oeste,2021,Profissionais de Saúde,Radiologista,Total,1269.0
+1501,5.0,Centro-Oeste,2021,Profissionais de Saúde,Sanitarista,Total,14.0
+1502,5.0,Centro-Oeste,2022,Profissionais de Saúde,Anestesista,Total,0.0
+1503,5.0,Centro-Oeste,2022,Profissionais de Saúde,Assistente Social,Total,2958.0
+1504,5.0,Centro-Oeste,2022,Profissionais de Saúde,Bioquímico/farmacêutico,Total,4790.0
+1505,5.0,Centro-Oeste,2022,Profissionais de Saúde,Cirurgião Geral,Total,1017.0
+1506,5.0,Centro-Oeste,2022,Profissionais de Saúde,Clínico Geral,Total,13765.0
+1507,5.0,Centro-Oeste,2022,Profissionais de Saúde,Enfermeiro,Total,29196.0
+1508,5.0,Centro-Oeste,2022,Profissionais de Saúde,Fisioterapeuta,Total,9062.0
+1509,5.0,Centro-Oeste,2022,Profissionais de Saúde,Fonoaudiólogo,Total,2168.0
+1510,5.0,Centro-Oeste,2022,Profissionais de Saúde,Gineco Obstetra,Total,2195.0
+1511,5.0,Centro-Oeste,2022,Profissionais de Saúde,Médico de Família,Total,2457.0
+1512,5.0,Centro-Oeste,2022,Profissionais de Saúde,Nutricionista,Total,3608.0
+1513,5.0,Centro-Oeste,2022,Profissionais de Saúde,Odontólogo,Total,12682.0
+1514,5.0,Centro-Oeste,2022,Profissionais de Saúde,Outras especialidades médicas,Total,14789.0
+1515,5.0,Centro-Oeste,2022,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,5102.0
+1516,5.0,Centro-Oeste,2022,Profissionais de Saúde,Pediatra,Total,3033.0
+1517,5.0,Centro-Oeste,2022,Profissionais de Saúde,Psicólogo,Total,7760.0
+1518,5.0,Centro-Oeste,2022,Profissionais de Saúde,Psiquiatra,Total,727.0
+1519,5.0,Centro-Oeste,2022,Profissionais de Saúde,Radiologista,Total,1405.0
+1520,5.0,Centro-Oeste,2022,Profissionais de Saúde,Sanitarista,Total,12.0
+1521,1.0,Norte,2023,Profissionais de Saúde,Anestesista,Total,0.0
+1522,1.0,Norte,2023,Profissionais de Saúde,Assistente Social,Total,4718.0
+1523,1.0,Norte,2023,Profissionais de Saúde,Bioquímico/farmacêutico,Total,5441.0
+1524,1.0,Norte,2023,Profissionais de Saúde,Cirurgião Geral,Total,3510.0
+1525,1.0,Norte,2023,Profissionais de Saúde,Clínico Geral,Total,17490.0
+1526,1.0,Norte,2023,Profissionais de Saúde,Enfermeiro,Total,36116.0
+1527,1.0,Norte,2023,Profissionais de Saúde,Fisioterapeuta,Total,8507.0
+1528,1.0,Norte,2023,Profissionais de Saúde,Fonoaudiólogo,Total,2162.0
+1529,1.0,Norte,2023,Profissionais de Saúde,Gineco Obstetra,Total,3960.0
+1530,1.0,Norte,2023,Profissionais de Saúde,Médico de Família,Total,5861.0
+1531,1.0,Norte,2023,Profissionais de Saúde,Nutricionista,Total,3237.0
+1532,1.0,Norte,2023,Profissionais de Saúde,Odontólogo,Total,12674.0
+1533,1.0,Norte,2023,Profissionais de Saúde,Outras especialidades médicas,Total,20016.0
+1534,1.0,Norte,2023,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,5687.0
+1535,1.0,Norte,2023,Profissionais de Saúde,Pediatra,Total,4789.0
+1536,1.0,Norte,2023,Profissionais de Saúde,Psicólogo,Total,5557.0
+1537,1.0,Norte,2023,Profissionais de Saúde,Psiquiatra,Total,726.0
+1538,1.0,Norte,2023,Profissionais de Saúde,Radiologista,Total,2321.0
+1539,1.0,Norte,2023,Profissionais de Saúde,Sanitarista,Total,6.0
+1540,2.0,Nordeste,2023,Profissionais de Saúde,Anestesista,Total,0.0
+1541,2.0,Nordeste,2023,Profissionais de Saúde,Assistente Social,Total,15606.0
+1542,2.0,Nordeste,2023,Profissionais de Saúde,Bioquímico/farmacêutico,Total,14957.0
+1543,2.0,Nordeste,2023,Profissionais de Saúde,Cirurgião Geral,Total,13754.0
+1544,2.0,Nordeste,2023,Profissionais de Saúde,Clínico Geral,Total,58816.0
+1545,2.0,Nordeste,2023,Profissionais de Saúde,Enfermeiro,Total,126421.0
+1546,2.0,Nordeste,2023,Profissionais de Saúde,Fisioterapeuta,Total,38661.0
+1547,2.0,Nordeste,2023,Profissionais de Saúde,Fonoaudiólogo,Total,8846.0
+1548,2.0,Nordeste,2023,Profissionais de Saúde,Gineco Obstetra,Total,16191.0
+1549,2.0,Nordeste,2023,Profissionais de Saúde,Médico de Família,Total,20753.0
+1550,2.0,Nordeste,2023,Profissionais de Saúde,Nutricionista,Total,15199.0
+1551,2.0,Nordeste,2023,Profissionais de Saúde,Odontólogo,Total,47850.0
+1552,2.0,Nordeste,2023,Profissionais de Saúde,Outras especialidades médicas,Total,100865.0
+1553,2.0,Nordeste,2023,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,15523.0
+1554,2.0,Nordeste,2023,Profissionais de Saúde,Pediatra,Total,18208.0
+1555,2.0,Nordeste,2023,Profissionais de Saúde,Psicólogo,Total,23238.0
+1556,2.0,Nordeste,2023,Profissionais de Saúde,Psiquiatra,Total,5157.0
+1557,2.0,Nordeste,2023,Profissionais de Saúde,Radiologista,Total,12970.0
+1558,2.0,Nordeste,2023,Profissionais de Saúde,Sanitarista,Total,43.0
+1559,3.0,Sudeste,2023,Profissionais de Saúde,Anestesista,Total,0.0
+1560,3.0,Sudeste,2023,Profissionais de Saúde,Assistente Social,Total,20097.0
+1561,3.0,Sudeste,2023,Profissionais de Saúde,Bioquímico/farmacêutico,Total,33349.0
+1562,3.0,Sudeste,2023,Profissionais de Saúde,Cirurgião Geral,Total,38912.0
+1563,3.0,Sudeste,2023,Profissionais de Saúde,Clínico Geral,Total,200137.0
+1564,3.0,Sudeste,2023,Profissionais de Saúde,Enfermeiro,Total,203907.0
+1565,3.0,Sudeste,2023,Profissionais de Saúde,Fisioterapeuta,Total,69906.0
+1566,3.0,Sudeste,2023,Profissionais de Saúde,Fonoaudiólogo,Total,19612.0
+1567,3.0,Sudeste,2023,Profissionais de Saúde,Gineco Obstetra,Total,58653.0
+1568,3.0,Sudeste,2023,Profissionais de Saúde,Médico de Família,Total,24493.0
+1569,3.0,Sudeste,2023,Profissionais de Saúde,Nutricionista,Total,23208.0
+1570,3.0,Sudeste,2023,Profissionais de Saúde,Odontólogo,Total,105936.0
+1571,3.0,Sudeste,2023,Profissionais de Saúde,Outras especialidades médicas,Total,339590.0
+1572,3.0,Sudeste,2023,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,34726.0
+1573,3.0,Sudeste,2023,Profissionais de Saúde,Pediatra,Total,67693.0
+1574,3.0,Sudeste,2023,Profissionais de Saúde,Psicólogo,Total,56416.0
+1575,3.0,Sudeste,2023,Profissionais de Saúde,Psiquiatra,Total,16072.0
+1576,3.0,Sudeste,2023,Profissionais de Saúde,Radiologista,Total,32614.0
+1577,3.0,Sudeste,2023,Profissionais de Saúde,Sanitarista,Total,357.0
+1578,4.0,Sul,2023,Profissionais de Saúde,Anestesista,Total,0.0
+1579,4.0,Sul,2023,Profissionais de Saúde,Assistente Social,Total,6464.0
+1580,4.0,Sul,2023,Profissionais de Saúde,Bioquímico/farmacêutico,Total,18364.0
+1581,4.0,Sul,2023,Profissionais de Saúde,Cirurgião Geral,Total,14249.0
+1582,4.0,Sul,2023,Profissionais de Saúde,Clínico Geral,Total,89915.0
+1583,4.0,Sul,2023,Profissionais de Saúde,Enfermeiro,Total,68272.0
+1584,4.0,Sul,2023,Profissionais de Saúde,Fisioterapeuta,Total,25417.0
+1585,4.0,Sul,2023,Profissionais de Saúde,Fonoaudiólogo,Total,7674.0
+1586,4.0,Sul,2023,Profissionais de Saúde,Gineco Obstetra,Total,20017.0
+1587,4.0,Sul,2023,Profissionais de Saúde,Médico de Família,Total,13228.0
+1588,4.0,Sul,2023,Profissionais de Saúde,Nutricionista,Total,9083.0
+1589,4.0,Sul,2023,Profissionais de Saúde,Odontólogo,Total,43002.0
+1590,4.0,Sul,2023,Profissionais de Saúde,Outras especialidades médicas,Total,111316.0
+1591,4.0,Sul,2023,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,11969.0
+1592,4.0,Sul,2023,Profissionais de Saúde,Pediatra,Total,18345.0
+1593,4.0,Sul,2023,Profissionais de Saúde,Psicólogo,Total,23019.0
+1594,4.0,Sul,2023,Profissionais de Saúde,Psiquiatra,Total,5951.0
+1595,4.0,Sul,2023,Profissionais de Saúde,Radiologista,Total,10722.0
+1596,4.0,Sul,2023,Profissionais de Saúde,Sanitarista,Total,42.0
+1597,5.0,Centro-Oeste,2023,Profissionais de Saúde,Anestesista,Total,0.0
+1598,5.0,Centro-Oeste,2023,Profissionais de Saúde,Assistente Social,Total,3850.0
+1599,5.0,Centro-Oeste,2023,Profissionais de Saúde,Bioquímico/farmacêutico,Total,6319.0
+1600,5.0,Centro-Oeste,2023,Profissionais de Saúde,Cirurgião Geral,Total,5447.0
+1601,5.0,Centro-Oeste,2023,Profissionais de Saúde,Clínico Geral,Total,30680.0
+1602,5.0,Centro-Oeste,2023,Profissionais de Saúde,Enfermeiro,Total,38651.0
+1603,5.0,Centro-Oeste,2023,Profissionais de Saúde,Fisioterapeuta,Total,12885.0
+1604,5.0,Centro-Oeste,2023,Profissionais de Saúde,Fonoaudiólogo,Total,3361.0
+1605,5.0,Centro-Oeste,2023,Profissionais de Saúde,Gineco Obstetra,Total,7598.0
+1606,5.0,Centro-Oeste,2023,Profissionais de Saúde,Médico de Família,Total,5418.0
+1607,5.0,Centro-Oeste,2023,Profissionais de Saúde,Nutricionista,Total,4763.0
+1608,5.0,Centro-Oeste,2023,Profissionais de Saúde,Odontólogo,Total,19050.0
+1609,5.0,Centro-Oeste,2023,Profissionais de Saúde,Outras especialidades médicas,Total,45572.0
+1610,5.0,Centro-Oeste,2023,Profissionais de Saúde,Outras ocupações de nível superior relac à Saúde,Total,6984.0
+1611,5.0,Centro-Oeste,2023,Profissionais de Saúde,Pediatra,Total,6919.0
+1612,5.0,Centro-Oeste,2023,Profissionais de Saúde,Psicólogo,Total,10546.0
+1613,5.0,Centro-Oeste,2023,Profissionais de Saúde,Psiquiatra,Total,1952.0
+1614,5.0,Centro-Oeste,2023,Profissionais de Saúde,Radiologista,Total,4770.0
+1615,5.0,Centro-Oeste,2023,Profissionais de Saúde,Sanitarista,Total,18.0

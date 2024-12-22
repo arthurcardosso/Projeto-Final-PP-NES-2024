@@ -1,0 +1,571 @@
+co_reg_geo,no_reg_geo,ano,variavel,saude_categoria,saude_subcategoria,valor
+1.0,Norte,2005,Leitos de Internação,Cirúrgicos,Total,6786.0
+1.0,Norte,2005,Leitos de Internação,Clínicos,Total,9087.0
+1.0,Norte,2005,Leitos de Internação,Hospital/DIA,Total,74.0
+1.0,Norte,2005,Leitos de Internação,Obstétrico,Total,5504.0
+1.0,Norte,2005,Leitos de Internação,Outras Especialidades,Total,772.0
+1.0,Norte,2005,Leitos de Internação,Pediátrico,Total,5448.0
+1.0,Norte,2006,Leitos de Internação,Cirúrgicos,Total,7495.0
+1.0,Norte,2006,Leitos de Internação,Clínicos,Total,9746.0
+1.0,Norte,2006,Leitos de Internação,Hospital/DIA,Total,160.0
+1.0,Norte,2006,Leitos de Internação,Obstétrico,Total,5708.0
+1.0,Norte,2006,Leitos de Internação,Outras Especialidades,Total,862.0
+1.0,Norte,2006,Leitos de Internação,Pediátrico,Total,5465.0
+1.0,Norte,2007,Leitos de Internação,Cirúrgicos,Total,7601.0
+1.0,Norte,2007,Leitos de Internação,Clínicos,Total,9787.0
+1.0,Norte,2007,Leitos de Internação,Hospital/DIA,Total,173.0
+1.0,Norte,2007,Leitos de Internação,Obstétrico,Total,5612.0
+1.0,Norte,2007,Leitos de Internação,Outras Especialidades,Total,815.0
+1.0,Norte,2007,Leitos de Internação,Pediátrico,Total,5405.0
+1.0,Norte,2008,Leitos de Internação,Cirúrgicos,Total,7867.0
+1.0,Norte,2008,Leitos de Internação,Clínicos,Total,9951.0
+1.0,Norte,2008,Leitos de Internação,Hospital/DIA,Total,208.0
+1.0,Norte,2008,Leitos de Internação,Obstétrico,Total,5677.0
+1.0,Norte,2008,Leitos de Internação,Outras Especialidades,Total,821.0
+1.0,Norte,2008,Leitos de Internação,Pediátrico,Total,5473.0
+1.0,Norte,2009,Leitos de Internação,Cirúrgicos,Total,8011.0
+1.0,Norte,2009,Leitos de Internação,Clínicos,Total,10077.0
+1.0,Norte,2009,Leitos de Internação,Hospital/DIA,Total,184.0
+1.0,Norte,2009,Leitos de Internação,Obstétrico,Total,5725.0
+1.0,Norte,2009,Leitos de Internação,Outras Especialidades,Total,846.0
+1.0,Norte,2009,Leitos de Internação,Pediátrico,Total,5573.0
+1.0,Norte,2010,Leitos de Internação,Cirúrgicos,Total,8173.0
+1.0,Norte,2010,Leitos de Internação,Clínicos,Total,10324.0
+1.0,Norte,2010,Leitos de Internação,Hospital/DIA,Total,157.0
+1.0,Norte,2010,Leitos de Internação,Obstétrico,Total,5986.0
+1.0,Norte,2010,Leitos de Internação,Outras Especialidades,Total,882.0
+1.0,Norte,2010,Leitos de Internação,Pediátrico,Total,5598.0
+1.0,Norte,2011,Leitos de Internação,Cirúrgicos,Total,8256.0
+1.0,Norte,2011,Leitos de Internação,Clínicos,Total,10764.0
+1.0,Norte,2011,Leitos de Internação,Hospital/DIA,Total,157.0
+1.0,Norte,2011,Leitos de Internação,Obstétrico,Total,5869.0
+1.0,Norte,2011,Leitos de Internação,Outras Especialidades,Total,884.0
+1.0,Norte,2011,Leitos de Internação,Pediátrico,Total,5721.0
+1.0,Norte,2012,Leitos de Internação,Cirúrgicos,Total,8582.0
+1.0,Norte,2012,Leitos de Internação,Clínicos,Total,10712.0
+1.0,Norte,2012,Leitos de Internação,Hospital/DIA,Total,215.0
+1.0,Norte,2012,Leitos de Internação,Obstétrico,Total,5664.0
+1.0,Norte,2012,Leitos de Internação,Outras Especialidades,Total,909.0
+1.0,Norte,2012,Leitos de Internação,Pediátrico,Total,5721.0
+1.0,Norte,2013,Leitos de Internação,Cirúrgicos,Total,8472.0
+1.0,Norte,2013,Leitos de Internação,Clínicos,Total,11047.0
+1.0,Norte,2013,Leitos de Internação,Hospital/DIA,Total,216.0
+1.0,Norte,2013,Leitos de Internação,Obstétrico,Total,5539.0
+1.0,Norte,2013,Leitos de Internação,Outras Especialidades,Total,892.0
+1.0,Norte,2013,Leitos de Internação,Pediátrico,Total,5509.0
+1.0,Norte,2014,Leitos de Internação,Cirúrgicos,Total,8627.0
+1.0,Norte,2014,Leitos de Internação,Clínicos,Total,11235.0
+1.0,Norte,2014,Leitos de Internação,Hospital/DIA,Total,228.0
+1.0,Norte,2014,Leitos de Internação,Obstétrico,Total,5571.0
+1.0,Norte,2014,Leitos de Internação,Outras Especialidades,Total,756.0
+1.0,Norte,2014,Leitos de Internação,Pediátrico,Total,5622.0
+1.0,Norte,2015,Leitos de Internação,Cirúrgicos,Total,8461.0
+1.0,Norte,2015,Leitos de Internação,Clínicos,Total,11189.0
+1.0,Norte,2015,Leitos de Internação,Hospital/DIA,Total,228.0
+1.0,Norte,2015,Leitos de Internação,Obstétrico,Total,5446.0
+1.0,Norte,2015,Leitos de Internação,Outras Especialidades,Total,758.0
+1.0,Norte,2015,Leitos de Internação,Pediátrico,Total,5436.0
+1.0,Norte,2016,Leitos de Internação,Cirúrgicos,Total,8584.0
+1.0,Norte,2016,Leitos de Internação,Clínicos,Total,11163.0
+1.0,Norte,2016,Leitos de Internação,Hospital/DIA,Total,235.0
+1.0,Norte,2016,Leitos de Internação,Obstétrico,Total,5525.0
+1.0,Norte,2016,Leitos de Internação,Outras Especialidades,Total,726.0
+1.0,Norte,2016,Leitos de Internação,Pediátrico,Total,5312.0
+1.0,Norte,2017,Leitos de Internação,Cirúrgicos,Total,8465.0
+1.0,Norte,2017,Leitos de Internação,Clínicos,Total,11133.0
+1.0,Norte,2017,Leitos de Internação,Hospital/DIA,Total,211.0
+1.0,Norte,2017,Leitos de Internação,Obstétrico,Total,5446.0
+1.0,Norte,2017,Leitos de Internação,Outras Especialidades,Total,713.0
+1.0,Norte,2017,Leitos de Internação,Pediátrico,Total,5304.0
+1.0,Norte,2018,Leitos de Internação,Cirúrgicos,Total,8402.0
+1.0,Norte,2018,Leitos de Internação,Clínicos,Total,11484.0
+1.0,Norte,2018,Leitos de Internação,Hospital/DIA,Total,237.0
+1.0,Norte,2018,Leitos de Internação,Obstétrico,Total,5471.0
+1.0,Norte,2018,Leitos de Internação,Outras Especialidades,Total,625.0
+1.0,Norte,2018,Leitos de Internação,Pediátrico,Total,5372.0
+1.0,Norte,2019,Leitos de Internação,Cirúrgicos,Total,8170.0
+1.0,Norte,2019,Leitos de Internação,Clínicos,Total,11325.0
+1.0,Norte,2019,Leitos de Internação,Hospital/DIA,Total,235.0
+1.0,Norte,2019,Leitos de Internação,Obstétrico,Total,5390.0
+1.0,Norte,2019,Leitos de Internação,Outras Especialidades,Total,650.0
+1.0,Norte,2019,Leitos de Internação,Pediátrico,Total,5122.0
+1.0,Norte,2020,Leitos de Internação,Cirúrgicos,Total,7984.0
+1.0,Norte,2020,Leitos de Internação,Clínicos,Total,13750.0
+1.0,Norte,2020,Leitos de Internação,Hospital/DIA,Total,265.0
+1.0,Norte,2020,Leitos de Internação,Obstétrico,Total,5320.0
+1.0,Norte,2020,Leitos de Internação,Outras Especialidades,Total,671.0
+1.0,Norte,2020,Leitos de Internação,Pediátrico,Total,4967.0
+1.0,Norte,2021,Leitos de Internação,Cirúrgicos,Total,7934.0
+1.0,Norte,2021,Leitos de Internação,Clínicos,Total,13575.0
+1.0,Norte,2021,Leitos de Internação,Hospital/DIA,Total,423.0
+1.0,Norte,2021,Leitos de Internação,Obstétrico,Total,5398.0
+1.0,Norte,2021,Leitos de Internação,Outras Especialidades,Total,684.0
+1.0,Norte,2021,Leitos de Internação,Pediátrico,Total,4934.0
+1.0,Norte,2022,Leitos de Internação,Cirúrgicos,Total,8471.0
+1.0,Norte,2022,Leitos de Internação,Clínicos,Total,13049.0
+1.0,Norte,2022,Leitos de Internação,Hospital/DIA,Total,444.0
+1.0,Norte,2022,Leitos de Internação,Obstétrico,Total,5375.0
+1.0,Norte,2022,Leitos de Internação,Outras Especialidades,Total,709.0
+1.0,Norte,2022,Leitos de Internação,Pediátrico,Total,5008.0
+1.0,Norte,2023,Leitos de Internação,Cirúrgicos,Total,8749.0
+1.0,Norte,2023,Leitos de Internação,Clínicos,Total,12779.0
+1.0,Norte,2023,Leitos de Internação,Hospital/DIA,Total,506.0
+1.0,Norte,2023,Leitos de Internação,Obstétrico,Total,5386.0
+1.0,Norte,2023,Leitos de Internação,Outras Especialidades,Total,725.0
+1.0,Norte,2023,Leitos de Internação,Pediátrico,Total,5017.0
+2.0,Nordeste,2005,Leitos de Internação,Cirúrgicos,Total,29846.0
+2.0,Nordeste,2005,Leitos de Internação,Clínicos,Total,37049.0
+2.0,Nordeste,2005,Leitos de Internação,Hospital/DIA,Total,1088.0
+2.0,Nordeste,2005,Leitos de Internação,Obstétrico,Total,20592.0
+2.0,Nordeste,2005,Leitos de Internação,Outras Especialidades,Total,14564.0
+2.0,Nordeste,2005,Leitos de Internação,Pediátrico,Total,23393.0
+2.0,Nordeste,2006,Leitos de Internação,Cirúrgicos,Total,28755.0
+2.0,Nordeste,2006,Leitos de Internação,Clínicos,Total,37001.0
+2.0,Nordeste,2006,Leitos de Internação,Hospital/DIA,Total,1265.0
+2.0,Nordeste,2006,Leitos de Internação,Obstétrico,Total,20166.0
+2.0,Nordeste,2006,Leitos de Internação,Outras Especialidades,Total,13335.0
+2.0,Nordeste,2006,Leitos de Internação,Pediátrico,Total,23517.0
+2.0,Nordeste,2007,Leitos de Internação,Cirúrgicos,Total,28599.0
+2.0,Nordeste,2007,Leitos de Internação,Clínicos,Total,36150.0
+2.0,Nordeste,2007,Leitos de Internação,Hospital/DIA,Total,1459.0
+2.0,Nordeste,2007,Leitos de Internação,Obstétrico,Total,19754.0
+2.0,Nordeste,2007,Leitos de Internação,Outras Especialidades,Total,13746.0
+2.0,Nordeste,2007,Leitos de Internação,Pediátrico,Total,22572.0
+2.0,Nordeste,2008,Leitos de Internação,Cirúrgicos,Total,29093.0
+2.0,Nordeste,2008,Leitos de Internação,Clínicos,Total,36167.0
+2.0,Nordeste,2008,Leitos de Internação,Hospital/DIA,Total,1504.0
+2.0,Nordeste,2008,Leitos de Internação,Obstétrico,Total,19448.0
+2.0,Nordeste,2008,Leitos de Internação,Outras Especialidades,Total,13101.0
+2.0,Nordeste,2008,Leitos de Internação,Pediátrico,Total,22321.0
+2.0,Nordeste,2009,Leitos de Internação,Cirúrgicos,Total,29637.0
+2.0,Nordeste,2009,Leitos de Internação,Clínicos,Total,36340.0
+2.0,Nordeste,2009,Leitos de Internação,Hospital/DIA,Total,1597.0
+2.0,Nordeste,2009,Leitos de Internação,Obstétrico,Total,19522.0
+2.0,Nordeste,2009,Leitos de Internação,Outras Especialidades,Total,12997.0
+2.0,Nordeste,2009,Leitos de Internação,Pediátrico,Total,21974.0
+2.0,Nordeste,2010,Leitos de Internação,Cirúrgicos,Total,29857.0
+2.0,Nordeste,2010,Leitos de Internação,Clínicos,Total,36848.0
+2.0,Nordeste,2010,Leitos de Internação,Hospital/DIA,Total,1685.0
+2.0,Nordeste,2010,Leitos de Internação,Obstétrico,Total,19180.0
+2.0,Nordeste,2010,Leitos de Internação,Outras Especialidades,Total,12787.0
+2.0,Nordeste,2010,Leitos de Internação,Pediátrico,Total,21619.0
+2.0,Nordeste,2011,Leitos de Internação,Cirúrgicos,Total,30046.0
+2.0,Nordeste,2011,Leitos de Internação,Clínicos,Total,36860.0
+2.0,Nordeste,2011,Leitos de Internação,Hospital/DIA,Total,1771.0
+2.0,Nordeste,2011,Leitos de Internação,Obstétrico,Total,18486.0
+2.0,Nordeste,2011,Leitos de Internação,Outras Especialidades,Total,11622.0
+2.0,Nordeste,2011,Leitos de Internação,Pediátrico,Total,20552.0
+2.0,Nordeste,2012,Leitos de Internação,Cirúrgicos,Total,30174.0
+2.0,Nordeste,2012,Leitos de Internação,Clínicos,Total,37359.0
+2.0,Nordeste,2012,Leitos de Internação,Hospital/DIA,Total,2035.0
+2.0,Nordeste,2012,Leitos de Internação,Obstétrico,Total,18597.0
+2.0,Nordeste,2012,Leitos de Internação,Outras Especialidades,Total,10558.0
+2.0,Nordeste,2012,Leitos de Internação,Pediátrico,Total,19581.0
+2.0,Nordeste,2013,Leitos de Internação,Cirúrgicos,Total,29776.0
+2.0,Nordeste,2013,Leitos de Internação,Clínicos,Total,38160.0
+2.0,Nordeste,2013,Leitos de Internação,Hospital/DIA,Total,2059.0
+2.0,Nordeste,2013,Leitos de Internação,Obstétrico,Total,18194.0
+2.0,Nordeste,2013,Leitos de Internação,Outras Especialidades,Total,10453.0
+2.0,Nordeste,2013,Leitos de Internação,Pediátrico,Total,18713.0
+2.0,Nordeste,2014,Leitos de Internação,Cirúrgicos,Total,29858.0
+2.0,Nordeste,2014,Leitos de Internação,Clínicos,Total,38581.0
+2.0,Nordeste,2014,Leitos de Internação,Hospital/DIA,Total,2192.0
+2.0,Nordeste,2014,Leitos de Internação,Obstétrico,Total,17898.0
+2.0,Nordeste,2014,Leitos de Internação,Outras Especialidades,Total,9890.0
+2.0,Nordeste,2014,Leitos de Internação,Pediátrico,Total,18249.0
+2.0,Nordeste,2015,Leitos de Internação,Cirúrgicos,Total,29349.0
+2.0,Nordeste,2015,Leitos de Internação,Clínicos,Total,38007.0
+2.0,Nordeste,2015,Leitos de Internação,Hospital/DIA,Total,2377.0
+2.0,Nordeste,2015,Leitos de Internação,Obstétrico,Total,17319.0
+2.0,Nordeste,2015,Leitos de Internação,Outras Especialidades,Total,9879.0
+2.0,Nordeste,2015,Leitos de Internação,Pediátrico,Total,17679.0
+2.0,Nordeste,2016,Leitos de Internação,Cirúrgicos,Total,29492.0
+2.0,Nordeste,2016,Leitos de Internação,Clínicos,Total,38649.0
+2.0,Nordeste,2016,Leitos de Internação,Hospital/DIA,Total,2427.0
+2.0,Nordeste,2016,Leitos de Internação,Obstétrico,Total,17176.0
+2.0,Nordeste,2016,Leitos de Internação,Outras Especialidades,Total,9548.0
+2.0,Nordeste,2016,Leitos de Internação,Pediátrico,Total,17441.0
+2.0,Nordeste,2017,Leitos de Internação,Cirúrgicos,Total,30383.0
+2.0,Nordeste,2017,Leitos de Internação,Clínicos,Total,39920.0
+2.0,Nordeste,2017,Leitos de Internação,Hospital/DIA,Total,2589.0
+2.0,Nordeste,2017,Leitos de Internação,Obstétrico,Total,17137.0
+2.0,Nordeste,2017,Leitos de Internação,Outras Especialidades,Total,8959.0
+2.0,Nordeste,2017,Leitos de Internação,Pediátrico,Total,17246.0
+2.0,Nordeste,2018,Leitos de Internação,Cirúrgicos,Total,30419.0
+2.0,Nordeste,2018,Leitos de Internação,Clínicos,Total,39245.0
+2.0,Nordeste,2018,Leitos de Internação,Hospital/DIA,Total,2567.0
+2.0,Nordeste,2018,Leitos de Internação,Obstétrico,Total,16701.0
+2.0,Nordeste,2018,Leitos de Internação,Outras Especialidades,Total,8729.0
+2.0,Nordeste,2018,Leitos de Internação,Pediátrico,Total,16444.0
+2.0,Nordeste,2019,Leitos de Internação,Cirúrgicos,Total,30536.0
+2.0,Nordeste,2019,Leitos de Internação,Clínicos,Total,39498.0
+2.0,Nordeste,2019,Leitos de Internação,Hospital/DIA,Total,2705.0
+2.0,Nordeste,2019,Leitos de Internação,Obstétrico,Total,16562.0
+2.0,Nordeste,2019,Leitos de Internação,Outras Especialidades,Total,8996.0
+2.0,Nordeste,2019,Leitos de Internação,Pediátrico,Total,16210.0
+2.0,Nordeste,2020,Leitos de Internação,Cirúrgicos,Total,29780.0
+2.0,Nordeste,2020,Leitos de Internação,Clínicos,Total,47357.0
+2.0,Nordeste,2020,Leitos de Internação,Hospital/DIA,Total,2824.0
+2.0,Nordeste,2020,Leitos de Internação,Obstétrico,Total,16293.0
+2.0,Nordeste,2020,Leitos de Internação,Outras Especialidades,Total,9305.0
+2.0,Nordeste,2020,Leitos de Internação,Pediátrico,Total,16142.0
+2.0,Nordeste,2021,Leitos de Internação,Cirúrgicos,Total,30390.0
+2.0,Nordeste,2021,Leitos de Internação,Clínicos,Total,47703.0
+2.0,Nordeste,2021,Leitos de Internação,Hospital/DIA,Total,2904.0
+2.0,Nordeste,2021,Leitos de Internação,Obstétrico,Total,16309.0
+2.0,Nordeste,2021,Leitos de Internação,Outras Especialidades,Total,9223.0
+2.0,Nordeste,2021,Leitos de Internação,Pediátrico,Total,15888.0
+2.0,Nordeste,2022,Leitos de Internação,Cirúrgicos,Total,31293.0
+2.0,Nordeste,2022,Leitos de Internação,Clínicos,Total,47033.0
+2.0,Nordeste,2022,Leitos de Internação,Hospital/DIA,Total,2970.0
+2.0,Nordeste,2022,Leitos de Internação,Obstétrico,Total,16634.0
+2.0,Nordeste,2022,Leitos de Internação,Outras Especialidades,Total,8862.0
+2.0,Nordeste,2022,Leitos de Internação,Pediátrico,Total,15926.0
+2.0,Nordeste,2023,Leitos de Internação,Cirúrgicos,Total,32253.0
+2.0,Nordeste,2023,Leitos de Internação,Clínicos,Total,46551.0
+2.0,Nordeste,2023,Leitos de Internação,Hospital/DIA,Total,3236.0
+2.0,Nordeste,2023,Leitos de Internação,Obstétrico,Total,16506.0
+2.0,Nordeste,2023,Leitos de Internação,Outras Especialidades,Total,8619.0
+2.0,Nordeste,2023,Leitos de Internação,Pediátrico,Total,15935.0
+3.0,Sudeste,2005,Leitos de Internação,Cirúrgicos,Total,46853.0
+3.0,Sudeste,2005,Leitos de Internação,Clínicos,Total,62188.0
+3.0,Sudeste,2005,Leitos de Internação,Hospital/DIA,Total,2634.0
+3.0,Sudeste,2005,Leitos de Internação,Obstétrico,Total,22392.0
+3.0,Sudeste,2005,Leitos de Internação,Outras Especialidades,Total,42313.0
+3.0,Sudeste,2005,Leitos de Internação,Pediátrico,Total,22811.0
+3.0,Sudeste,2006,Leitos de Internação,Cirúrgicos,Total,48706.0
+3.0,Sudeste,2006,Leitos de Internação,Clínicos,Total,62451.0
+3.0,Sudeste,2006,Leitos de Internação,Hospital/DIA,Total,3058.0
+3.0,Sudeste,2006,Leitos de Internação,Obstétrico,Total,22508.0
+3.0,Sudeste,2006,Leitos de Internação,Outras Especialidades,Total,41667.0
+3.0,Sudeste,2006,Leitos de Internação,Pediátrico,Total,22954.0
+3.0,Sudeste,2007,Leitos de Internação,Cirúrgicos,Total,48123.0
+3.0,Sudeste,2007,Leitos de Internação,Clínicos,Total,61296.0
+3.0,Sudeste,2007,Leitos de Internação,Hospital/DIA,Total,3419.0
+3.0,Sudeste,2007,Leitos de Internação,Obstétrico,Total,21858.0
+3.0,Sudeste,2007,Leitos de Internação,Outras Especialidades,Total,40047.0
+3.0,Sudeste,2007,Leitos de Internação,Pediátrico,Total,22046.0
+3.0,Sudeste,2008,Leitos de Internação,Cirúrgicos,Total,48860.0
+3.0,Sudeste,2008,Leitos de Internação,Clínicos,Total,61411.0
+3.0,Sudeste,2008,Leitos de Internação,Hospital/DIA,Total,3927.0
+3.0,Sudeste,2008,Leitos de Internação,Obstétrico,Total,21597.0
+3.0,Sudeste,2008,Leitos de Internação,Outras Especialidades,Total,40169.0
+3.0,Sudeste,2008,Leitos de Internação,Pediátrico,Total,21801.0
+3.0,Sudeste,2009,Leitos de Internação,Cirúrgicos,Total,49451.0
+3.0,Sudeste,2009,Leitos de Internação,Clínicos,Total,60969.0
+3.0,Sudeste,2009,Leitos de Internação,Hospital/DIA,Total,4325.0
+3.0,Sudeste,2009,Leitos de Internação,Obstétrico,Total,21422.0
+3.0,Sudeste,2009,Leitos de Internação,Outras Especialidades,Total,40170.0
+3.0,Sudeste,2009,Leitos de Internação,Pediátrico,Total,21269.0
+3.0,Sudeste,2010,Leitos de Internação,Cirúrgicos,Total,50685.0
+3.0,Sudeste,2010,Leitos de Internação,Clínicos,Total,61908.0
+3.0,Sudeste,2010,Leitos de Internação,Hospital/DIA,Total,4631.0
+3.0,Sudeste,2010,Leitos de Internação,Obstétrico,Total,21266.0
+3.0,Sudeste,2010,Leitos de Internação,Outras Especialidades,Total,38625.0
+3.0,Sudeste,2010,Leitos de Internação,Pediátrico,Total,21019.0
+3.0,Sudeste,2011,Leitos de Internação,Cirúrgicos,Total,50985.0
+3.0,Sudeste,2011,Leitos de Internação,Clínicos,Total,61410.0
+3.0,Sudeste,2011,Leitos de Internação,Hospital/DIA,Total,4826.0
+3.0,Sudeste,2011,Leitos de Internação,Obstétrico,Total,20409.0
+3.0,Sudeste,2011,Leitos de Internação,Outras Especialidades,Total,37928.0
+3.0,Sudeste,2011,Leitos de Internação,Pediátrico,Total,20359.0
+3.0,Sudeste,2012,Leitos de Internação,Cirúrgicos,Total,50760.0
+3.0,Sudeste,2012,Leitos de Internação,Clínicos,Total,62246.0
+3.0,Sudeste,2012,Leitos de Internação,Hospital/DIA,Total,5286.0
+3.0,Sudeste,2012,Leitos de Internação,Obstétrico,Total,20411.0
+3.0,Sudeste,2012,Leitos de Internação,Outras Especialidades,Total,35570.0
+3.0,Sudeste,2012,Leitos de Internação,Pediátrico,Total,20000.0
+3.0,Sudeste,2013,Leitos de Internação,Cirúrgicos,Total,50079.0
+3.0,Sudeste,2013,Leitos de Internação,Clínicos,Total,62415.0
+3.0,Sudeste,2013,Leitos de Internação,Hospital/DIA,Total,5311.0
+3.0,Sudeste,2013,Leitos de Internação,Obstétrico,Total,19863.0
+3.0,Sudeste,2013,Leitos de Internação,Outras Especialidades,Total,34498.0
+3.0,Sudeste,2013,Leitos de Internação,Pediátrico,Total,19192.0
+3.0,Sudeste,2014,Leitos de Internação,Cirúrgicos,Total,49719.0
+3.0,Sudeste,2014,Leitos de Internação,Clínicos,Total,63965.0
+3.0,Sudeste,2014,Leitos de Internação,Hospital/DIA,Total,5621.0
+3.0,Sudeste,2014,Leitos de Internação,Obstétrico,Total,19603.0
+3.0,Sudeste,2014,Leitos de Internação,Outras Especialidades,Total,33644.0
+3.0,Sudeste,2014,Leitos de Internação,Pediátrico,Total,18924.0
+3.0,Sudeste,2015,Leitos de Internação,Cirúrgicos,Total,48558.0
+3.0,Sudeste,2015,Leitos de Internação,Clínicos,Total,61928.0
+3.0,Sudeste,2015,Leitos de Internação,Hospital/DIA,Total,5571.0
+3.0,Sudeste,2015,Leitos de Internação,Obstétrico,Total,18822.0
+3.0,Sudeste,2015,Leitos de Internação,Outras Especialidades,Total,31598.0
+3.0,Sudeste,2015,Leitos de Internação,Pediátrico,Total,18163.0
+3.0,Sudeste,2016,Leitos de Internação,Cirúrgicos,Total,48344.0
+3.0,Sudeste,2016,Leitos de Internação,Clínicos,Total,61739.0
+3.0,Sudeste,2016,Leitos de Internação,Hospital/DIA,Total,5734.0
+3.0,Sudeste,2016,Leitos de Internação,Obstétrico,Total,18440.0
+3.0,Sudeste,2016,Leitos de Internação,Outras Especialidades,Total,29372.0
+3.0,Sudeste,2016,Leitos de Internação,Pediátrico,Total,17591.0
+3.0,Sudeste,2017,Leitos de Internação,Cirúrgicos,Total,47900.0
+3.0,Sudeste,2017,Leitos de Internação,Clínicos,Total,62367.0
+3.0,Sudeste,2017,Leitos de Internação,Hospital/DIA,Total,5739.0
+3.0,Sudeste,2017,Leitos de Internação,Obstétrico,Total,18240.0
+3.0,Sudeste,2017,Leitos de Internação,Outras Especialidades,Total,27958.0
+3.0,Sudeste,2017,Leitos de Internação,Pediátrico,Total,16789.0
+3.0,Sudeste,2018,Leitos de Internação,Cirúrgicos,Total,47891.0
+3.0,Sudeste,2018,Leitos de Internação,Clínicos,Total,62774.0
+3.0,Sudeste,2018,Leitos de Internação,Hospital/DIA,Total,5687.0
+3.0,Sudeste,2018,Leitos de Internação,Obstétrico,Total,18023.0
+3.0,Sudeste,2018,Leitos de Internação,Outras Especialidades,Total,26264.0
+3.0,Sudeste,2018,Leitos de Internação,Pediátrico,Total,16308.0
+3.0,Sudeste,2019,Leitos de Internação,Cirúrgicos,Total,47838.0
+3.0,Sudeste,2019,Leitos de Internação,Clínicos,Total,62659.0
+3.0,Sudeste,2019,Leitos de Internação,Hospital/DIA,Total,5638.0
+3.0,Sudeste,2019,Leitos de Internação,Obstétrico,Total,17763.0
+3.0,Sudeste,2019,Leitos de Internação,Outras Especialidades,Total,25661.0
+3.0,Sudeste,2019,Leitos de Internação,Pediátrico,Total,15941.0
+3.0,Sudeste,2020,Leitos de Internação,Cirúrgicos,Total,46133.0
+3.0,Sudeste,2020,Leitos de Internação,Clínicos,Total,71132.0
+3.0,Sudeste,2020,Leitos de Internação,Hospital/DIA,Total,5691.0
+3.0,Sudeste,2020,Leitos de Internação,Obstétrico,Total,17667.0
+3.0,Sudeste,2020,Leitos de Internação,Outras Especialidades,Total,24494.0
+3.0,Sudeste,2020,Leitos de Internação,Pediátrico,Total,15788.0
+3.0,Sudeste,2021,Leitos de Internação,Cirúrgicos,Total,46146.0
+3.0,Sudeste,2021,Leitos de Internação,Clínicos,Total,71009.0
+3.0,Sudeste,2021,Leitos de Internação,Hospital/DIA,Total,5998.0
+3.0,Sudeste,2021,Leitos de Internação,Obstétrico,Total,17536.0
+3.0,Sudeste,2021,Leitos de Internação,Outras Especialidades,Total,24539.0
+3.0,Sudeste,2021,Leitos de Internação,Pediátrico,Total,15293.0
+3.0,Sudeste,2022,Leitos de Internação,Cirúrgicos,Total,47557.0
+3.0,Sudeste,2022,Leitos de Internação,Clínicos,Total,69940.0
+3.0,Sudeste,2022,Leitos de Internação,Hospital/DIA,Total,6384.0
+3.0,Sudeste,2022,Leitos de Internação,Obstétrico,Total,17744.0
+3.0,Sudeste,2022,Leitos de Internação,Outras Especialidades,Total,23630.0
+3.0,Sudeste,2022,Leitos de Internação,Pediátrico,Total,15498.0
+3.0,Sudeste,2023,Leitos de Internação,Cirúrgicos,Total,48451.0
+3.0,Sudeste,2023,Leitos de Internação,Clínicos,Total,69953.0
+3.0,Sudeste,2023,Leitos de Internação,Hospital/DIA,Total,6891.0
+3.0,Sudeste,2023,Leitos de Internação,Obstétrico,Total,17631.0
+3.0,Sudeste,2023,Leitos de Internação,Outras Especialidades,Total,23593.0
+3.0,Sudeste,2023,Leitos de Internação,Pediátrico,Total,15747.0
+4.0,Sul,2005,Leitos de Internação,Cirúrgicos,Total,17429.0
+4.0,Sul,2005,Leitos de Internação,Clínicos,Total,27352.0
+4.0,Sul,2005,Leitos de Internação,Hospital/DIA,Total,732.0
+4.0,Sul,2005,Leitos de Internação,Obstétrico,Total,9806.0
+4.0,Sul,2005,Leitos de Internação,Outras Especialidades,Total,8948.0
+4.0,Sul,2005,Leitos de Internação,Pediátrico,Total,10984.0
+4.0,Sul,2006,Leitos de Internação,Cirúrgicos,Total,17233.0
+4.0,Sul,2006,Leitos de Internação,Clínicos,Total,27087.0
+4.0,Sul,2006,Leitos de Internação,Hospital/DIA,Total,1020.0
+4.0,Sul,2006,Leitos de Internação,Obstétrico,Total,9556.0
+4.0,Sul,2006,Leitos de Internação,Outras Especialidades,Total,9109.0
+4.0,Sul,2006,Leitos de Internação,Pediátrico,Total,10686.0
+4.0,Sul,2007,Leitos de Internação,Cirúrgicos,Total,17470.0
+4.0,Sul,2007,Leitos de Internação,Clínicos,Total,26951.0
+4.0,Sul,2007,Leitos de Internação,Hospital/DIA,Total,1041.0
+4.0,Sul,2007,Leitos de Internação,Obstétrico,Total,9507.0
+4.0,Sul,2007,Leitos de Internação,Outras Especialidades,Total,8191.0
+4.0,Sul,2007,Leitos de Internação,Pediátrico,Total,10298.0
+4.0,Sul,2008,Leitos de Internação,Cirúrgicos,Total,17870.0
+4.0,Sul,2008,Leitos de Internação,Clínicos,Total,27066.0
+4.0,Sul,2008,Leitos de Internação,Hospital/DIA,Total,1239.0
+4.0,Sul,2008,Leitos de Internação,Obstétrico,Total,9639.0
+4.0,Sul,2008,Leitos de Internação,Outras Especialidades,Total,8112.0
+4.0,Sul,2008,Leitos de Internação,Pediátrico,Total,10223.0
+4.0,Sul,2009,Leitos de Internação,Cirúrgicos,Total,18186.0
+4.0,Sul,2009,Leitos de Internação,Clínicos,Total,27203.0
+4.0,Sul,2009,Leitos de Internação,Hospital/DIA,Total,1303.0
+4.0,Sul,2009,Leitos de Internação,Obstétrico,Total,9390.0
+4.0,Sul,2009,Leitos de Internação,Outras Especialidades,Total,8493.0
+4.0,Sul,2009,Leitos de Internação,Pediátrico,Total,9906.0
+4.0,Sul,2010,Leitos de Internação,Cirúrgicos,Total,18487.0
+4.0,Sul,2010,Leitos de Internação,Clínicos,Total,27611.0
+4.0,Sul,2010,Leitos de Internação,Hospital/DIA,Total,1283.0
+4.0,Sul,2010,Leitos de Internação,Obstétrico,Total,9225.0
+4.0,Sul,2010,Leitos de Internação,Outras Especialidades,Total,8525.0
+4.0,Sul,2010,Leitos de Internação,Pediátrico,Total,9796.0
+4.0,Sul,2011,Leitos de Internação,Cirúrgicos,Total,18829.0
+4.0,Sul,2011,Leitos de Internação,Clínicos,Total,27449.0
+4.0,Sul,2011,Leitos de Internação,Hospital/DIA,Total,1273.0
+4.0,Sul,2011,Leitos de Internação,Obstétrico,Total,8897.0
+4.0,Sul,2011,Leitos de Internação,Outras Especialidades,Total,8791.0
+4.0,Sul,2011,Leitos de Internação,Pediátrico,Total,9329.0
+4.0,Sul,2012,Leitos de Internação,Cirúrgicos,Total,18968.0
+4.0,Sul,2012,Leitos de Internação,Clínicos,Total,27402.0
+4.0,Sul,2012,Leitos de Internação,Hospital/DIA,Total,1228.0
+4.0,Sul,2012,Leitos de Internação,Obstétrico,Total,8747.0
+4.0,Sul,2012,Leitos de Internação,Outras Especialidades,Total,9297.0
+4.0,Sul,2012,Leitos de Internação,Pediátrico,Total,8956.0
+4.0,Sul,2013,Leitos de Internação,Cirúrgicos,Total,19098.0
+4.0,Sul,2013,Leitos de Internação,Clínicos,Total,28340.0
+4.0,Sul,2013,Leitos de Internação,Hospital/DIA,Total,1331.0
+4.0,Sul,2013,Leitos de Internação,Obstétrico,Total,8545.0
+4.0,Sul,2013,Leitos de Internação,Outras Especialidades,Total,9078.0
+4.0,Sul,2013,Leitos de Internação,Pediátrico,Total,8544.0
+4.0,Sul,2014,Leitos de Internação,Cirúrgicos,Total,19159.0
+4.0,Sul,2014,Leitos de Internação,Clínicos,Total,28623.0
+4.0,Sul,2014,Leitos de Internação,Hospital/DIA,Total,1417.0
+4.0,Sul,2014,Leitos de Internação,Obstétrico,Total,8400.0
+4.0,Sul,2014,Leitos de Internação,Outras Especialidades,Total,9304.0
+4.0,Sul,2014,Leitos de Internação,Pediátrico,Total,8346.0
+4.0,Sul,2015,Leitos de Internação,Cirúrgicos,Total,19325.0
+4.0,Sul,2015,Leitos de Internação,Clínicos,Total,28463.0
+4.0,Sul,2015,Leitos de Internação,Hospital/DIA,Total,1446.0
+4.0,Sul,2015,Leitos de Internação,Obstétrico,Total,8301.0
+4.0,Sul,2015,Leitos de Internação,Outras Especialidades,Total,8905.0
+4.0,Sul,2015,Leitos de Internação,Pediátrico,Total,7925.0
+4.0,Sul,2016,Leitos de Internação,Cirúrgicos,Total,19222.0
+4.0,Sul,2016,Leitos de Internação,Clínicos,Total,27985.0
+4.0,Sul,2016,Leitos de Internação,Hospital/DIA,Total,1491.0
+4.0,Sul,2016,Leitos de Internação,Obstétrico,Total,8163.0
+4.0,Sul,2016,Leitos de Internação,Outras Especialidades,Total,9159.0
+4.0,Sul,2016,Leitos de Internação,Pediátrico,Total,7686.0
+4.0,Sul,2017,Leitos de Internação,Cirúrgicos,Total,19229.0
+4.0,Sul,2017,Leitos de Internação,Clínicos,Total,28342.0
+4.0,Sul,2017,Leitos de Internação,Hospital/DIA,Total,1597.0
+4.0,Sul,2017,Leitos de Internação,Obstétrico,Total,7932.0
+4.0,Sul,2017,Leitos de Internação,Outras Especialidades,Total,8861.0
+4.0,Sul,2017,Leitos de Internação,Pediátrico,Total,7456.0
+4.0,Sul,2018,Leitos de Internação,Cirúrgicos,Total,19231.0
+4.0,Sul,2018,Leitos de Internação,Clínicos,Total,28692.0
+4.0,Sul,2018,Leitos de Internação,Hospital/DIA,Total,1608.0
+4.0,Sul,2018,Leitos de Internação,Obstétrico,Total,7783.0
+4.0,Sul,2018,Leitos de Internação,Outras Especialidades,Total,8682.0
+4.0,Sul,2018,Leitos de Internação,Pediátrico,Total,7197.0
+4.0,Sul,2019,Leitos de Internação,Cirúrgicos,Total,19308.0
+4.0,Sul,2019,Leitos de Internação,Clínicos,Total,28435.0
+4.0,Sul,2019,Leitos de Internação,Hospital/DIA,Total,1585.0
+4.0,Sul,2019,Leitos de Internação,Obstétrico,Total,7543.0
+4.0,Sul,2019,Leitos de Internação,Outras Especialidades,Total,9007.0
+4.0,Sul,2019,Leitos de Internação,Pediátrico,Total,6998.0
+4.0,Sul,2020,Leitos de Internação,Cirúrgicos,Total,17595.0
+4.0,Sul,2020,Leitos de Internação,Clínicos,Total,30888.0
+4.0,Sul,2020,Leitos de Internação,Hospital/DIA,Total,1717.0
+4.0,Sul,2020,Leitos de Internação,Obstétrico,Total,7142.0
+4.0,Sul,2020,Leitos de Internação,Outras Especialidades,Total,9238.0
+4.0,Sul,2020,Leitos de Internação,Pediátrico,Total,6617.0
+4.0,Sul,2021,Leitos de Internação,Cirúrgicos,Total,17662.0
+4.0,Sul,2021,Leitos de Internação,Clínicos,Total,30249.0
+4.0,Sul,2021,Leitos de Internação,Hospital/DIA,Total,1536.0
+4.0,Sul,2021,Leitos de Internação,Obstétrico,Total,6943.0
+4.0,Sul,2021,Leitos de Internação,Outras Especialidades,Total,9121.0
+4.0,Sul,2021,Leitos de Internação,Pediátrico,Total,6222.0
+4.0,Sul,2022,Leitos de Internação,Cirúrgicos,Total,18335.0
+4.0,Sul,2022,Leitos de Internação,Clínicos,Total,29829.0
+4.0,Sul,2022,Leitos de Internação,Hospital/DIA,Total,1650.0
+4.0,Sul,2022,Leitos de Internação,Obstétrico,Total,6867.0
+4.0,Sul,2022,Leitos de Internação,Outras Especialidades,Total,9125.0
+4.0,Sul,2022,Leitos de Internação,Pediátrico,Total,6256.0
+4.0,Sul,2023,Leitos de Internação,Cirúrgicos,Total,18983.0
+4.0,Sul,2023,Leitos de Internação,Clínicos,Total,29534.0
+4.0,Sul,2023,Leitos de Internação,Hospital/DIA,Total,1631.0
+4.0,Sul,2023,Leitos de Internação,Obstétrico,Total,6714.0
+4.0,Sul,2023,Leitos de Internação,Outras Especialidades,Total,8691.0
+4.0,Sul,2023,Leitos de Internação,Pediátrico,Total,6121.0
+5.0,Centro-Oeste,2005,Leitos de Internação,Cirúrgicos,Total,8928.0
+5.0,Centro-Oeste,2005,Leitos de Internação,Clínicos,Total,11039.0
+5.0,Centro-Oeste,2005,Leitos de Internação,Hospital/DIA,Total,195.0
+5.0,Centro-Oeste,2005,Leitos de Internação,Obstétrico,Total,5147.0
+5.0,Centro-Oeste,2005,Leitos de Internação,Outras Especialidades,Total,3832.0
+5.0,Centro-Oeste,2005,Leitos de Internação,Pediátrico,Total,5387.0
+5.0,Centro-Oeste,2006,Leitos de Internação,Cirúrgicos,Total,9051.0
+5.0,Centro-Oeste,2006,Leitos de Internação,Clínicos,Total,11097.0
+5.0,Centro-Oeste,2006,Leitos de Internação,Hospital/DIA,Total,433.0
+5.0,Centro-Oeste,2006,Leitos de Internação,Obstétrico,Total,5127.0
+5.0,Centro-Oeste,2006,Leitos de Internação,Outras Especialidades,Total,3791.0
+5.0,Centro-Oeste,2006,Leitos de Internação,Pediátrico,Total,5383.0
+5.0,Centro-Oeste,2007,Leitos de Internação,Cirúrgicos,Total,8930.0
+5.0,Centro-Oeste,2007,Leitos de Internação,Clínicos,Total,10724.0
+5.0,Centro-Oeste,2007,Leitos de Internação,Hospital/DIA,Total,439.0
+5.0,Centro-Oeste,2007,Leitos de Internação,Obstétrico,Total,4909.0
+5.0,Centro-Oeste,2007,Leitos de Internação,Outras Especialidades,Total,3774.0
+5.0,Centro-Oeste,2007,Leitos de Internação,Pediátrico,Total,5190.0
+5.0,Centro-Oeste,2008,Leitos de Internação,Cirúrgicos,Total,8987.0
+5.0,Centro-Oeste,2008,Leitos de Internação,Clínicos,Total,10727.0
+5.0,Centro-Oeste,2008,Leitos de Internação,Hospital/DIA,Total,437.0
+5.0,Centro-Oeste,2008,Leitos de Internação,Obstétrico,Total,4846.0
+5.0,Centro-Oeste,2008,Leitos de Internação,Outras Especialidades,Total,3593.0
+5.0,Centro-Oeste,2008,Leitos de Internação,Pediátrico,Total,5204.0
+5.0,Centro-Oeste,2009,Leitos de Internação,Cirúrgicos,Total,8745.0
+5.0,Centro-Oeste,2009,Leitos de Internação,Clínicos,Total,10622.0
+5.0,Centro-Oeste,2009,Leitos de Internação,Hospital/DIA,Total,425.0
+5.0,Centro-Oeste,2009,Leitos de Internação,Obstétrico,Total,4606.0
+5.0,Centro-Oeste,2009,Leitos de Internação,Outras Especialidades,Total,3645.0
+5.0,Centro-Oeste,2009,Leitos de Internação,Pediátrico,Total,5000.0
+5.0,Centro-Oeste,2010,Leitos de Internação,Cirúrgicos,Total,8897.0
+5.0,Centro-Oeste,2010,Leitos de Internação,Clínicos,Total,10776.0
+5.0,Centro-Oeste,2010,Leitos de Internação,Hospital/DIA,Total,409.0
+5.0,Centro-Oeste,2010,Leitos de Internação,Obstétrico,Total,4478.0
+5.0,Centro-Oeste,2010,Leitos de Internação,Outras Especialidades,Total,3642.0
+5.0,Centro-Oeste,2010,Leitos de Internação,Pediátrico,Total,4898.0
+5.0,Centro-Oeste,2011,Leitos de Internação,Cirúrgicos,Total,9014.0
+5.0,Centro-Oeste,2011,Leitos de Internação,Clínicos,Total,10650.0
+5.0,Centro-Oeste,2011,Leitos de Internação,Hospital/DIA,Total,494.0
+5.0,Centro-Oeste,2011,Leitos de Internação,Obstétrico,Total,4400.0
+5.0,Centro-Oeste,2011,Leitos de Internação,Outras Especialidades,Total,3680.0
+5.0,Centro-Oeste,2011,Leitos de Internação,Pediátrico,Total,4802.0
+5.0,Centro-Oeste,2012,Leitos de Internação,Cirúrgicos,Total,9058.0
+5.0,Centro-Oeste,2012,Leitos de Internação,Clínicos,Total,10576.0
+5.0,Centro-Oeste,2012,Leitos de Internação,Hospital/DIA,Total,503.0
+5.0,Centro-Oeste,2012,Leitos de Internação,Obstétrico,Total,4405.0
+5.0,Centro-Oeste,2012,Leitos de Internação,Outras Especialidades,Total,3616.0
+5.0,Centro-Oeste,2012,Leitos de Internação,Pediátrico,Total,4735.0
+5.0,Centro-Oeste,2013,Leitos de Internação,Cirúrgicos,Total,9159.0
+5.0,Centro-Oeste,2013,Leitos de Internação,Clínicos,Total,10698.0
+5.0,Centro-Oeste,2013,Leitos de Internação,Hospital/DIA,Total,471.0
+5.0,Centro-Oeste,2013,Leitos de Internação,Obstétrico,Total,4356.0
+5.0,Centro-Oeste,2013,Leitos de Internação,Outras Especialidades,Total,3612.0
+5.0,Centro-Oeste,2013,Leitos de Internação,Pediátrico,Total,4612.0
+5.0,Centro-Oeste,2014,Leitos de Internação,Cirúrgicos,Total,9253.0
+5.0,Centro-Oeste,2014,Leitos de Internação,Clínicos,Total,10868.0
+5.0,Centro-Oeste,2014,Leitos de Internação,Hospital/DIA,Total,483.0
+5.0,Centro-Oeste,2014,Leitos de Internação,Obstétrico,Total,4394.0
+5.0,Centro-Oeste,2014,Leitos de Internação,Outras Especialidades,Total,3689.0
+5.0,Centro-Oeste,2014,Leitos de Internação,Pediátrico,Total,4486.0
+5.0,Centro-Oeste,2015,Leitos de Internação,Cirúrgicos,Total,9383.0
+5.0,Centro-Oeste,2015,Leitos de Internação,Clínicos,Total,10877.0
+5.0,Centro-Oeste,2015,Leitos de Internação,Hospital/DIA,Total,494.0
+5.0,Centro-Oeste,2015,Leitos de Internação,Obstétrico,Total,4266.0
+5.0,Centro-Oeste,2015,Leitos de Internação,Outras Especialidades,Total,3630.0
+5.0,Centro-Oeste,2015,Leitos de Internação,Pediátrico,Total,4462.0
+5.0,Centro-Oeste,2016,Leitos de Internação,Cirúrgicos,Total,9295.0
+5.0,Centro-Oeste,2016,Leitos de Internação,Clínicos,Total,11068.0
+5.0,Centro-Oeste,2016,Leitos de Internação,Hospital/DIA,Total,460.0
+5.0,Centro-Oeste,2016,Leitos de Internação,Obstétrico,Total,4159.0
+5.0,Centro-Oeste,2016,Leitos de Internação,Outras Especialidades,Total,3578.0
+5.0,Centro-Oeste,2016,Leitos de Internação,Pediátrico,Total,4384.0
+5.0,Centro-Oeste,2017,Leitos de Internação,Cirúrgicos,Total,10644.0
+5.0,Centro-Oeste,2017,Leitos de Internação,Clínicos,Total,12181.0
+5.0,Centro-Oeste,2017,Leitos de Internação,Hospital/DIA,Total,558.0
+5.0,Centro-Oeste,2017,Leitos de Internação,Obstétrico,Total,4723.0
+5.0,Centro-Oeste,2017,Leitos de Internação,Outras Especialidades,Total,4292.0
+5.0,Centro-Oeste,2017,Leitos de Internação,Pediátrico,Total,4498.0
+5.0,Centro-Oeste,2018,Leitos de Internação,Cirúrgicos,Total,10727.0
+5.0,Centro-Oeste,2018,Leitos de Internação,Clínicos,Total,12234.0
+5.0,Centro-Oeste,2018,Leitos de Internação,Hospital/DIA,Total,692.0
+5.0,Centro-Oeste,2018,Leitos de Internação,Obstétrico,Total,4632.0
+5.0,Centro-Oeste,2018,Leitos de Internação,Outras Especialidades,Total,4415.0
+5.0,Centro-Oeste,2018,Leitos de Internação,Pediátrico,Total,4252.0
+5.0,Centro-Oeste,2019,Leitos de Internação,Cirúrgicos,Total,10801.0
+5.0,Centro-Oeste,2019,Leitos de Internação,Clínicos,Total,12310.0
+5.0,Centro-Oeste,2019,Leitos de Internação,Hospital/DIA,Total,720.0
+5.0,Centro-Oeste,2019,Leitos de Internação,Obstétrico,Total,4639.0
+5.0,Centro-Oeste,2019,Leitos de Internação,Outras Especialidades,Total,4084.0
+5.0,Centro-Oeste,2019,Leitos de Internação,Pediátrico,Total,4273.0
+5.0,Centro-Oeste,2020,Leitos de Internação,Cirúrgicos,Total,10678.0
+5.0,Centro-Oeste,2020,Leitos de Internação,Clínicos,Total,14331.0
+5.0,Centro-Oeste,2020,Leitos de Internação,Hospital/DIA,Total,826.0
+5.0,Centro-Oeste,2020,Leitos de Internação,Obstétrico,Total,4744.0
+5.0,Centro-Oeste,2020,Leitos de Internação,Outras Especialidades,Total,4388.0
+5.0,Centro-Oeste,2020,Leitos de Internação,Pediátrico,Total,4077.0
+5.0,Centro-Oeste,2021,Leitos de Internação,Cirúrgicos,Total,10921.0
+5.0,Centro-Oeste,2021,Leitos de Internação,Clínicos,Total,14922.0
+5.0,Centro-Oeste,2021,Leitos de Internação,Hospital/DIA,Total,903.0
+5.0,Centro-Oeste,2021,Leitos de Internação,Obstétrico,Total,4698.0
+5.0,Centro-Oeste,2021,Leitos de Internação,Outras Especialidades,Total,4601.0
+5.0,Centro-Oeste,2021,Leitos de Internação,Pediátrico,Total,3973.0
+5.0,Centro-Oeste,2022,Leitos de Internação,Cirúrgicos,Total,11381.0
+5.0,Centro-Oeste,2022,Leitos de Internação,Clínicos,Total,14178.0
+5.0,Centro-Oeste,2022,Leitos de Internação,Hospital/DIA,Total,944.0
+5.0,Centro-Oeste,2022,Leitos de Internação,Obstétrico,Total,4694.0
+5.0,Centro-Oeste,2022,Leitos de Internação,Outras Especialidades,Total,4684.0
+5.0,Centro-Oeste,2022,Leitos de Internação,Pediátrico,Total,4215.0
+5.0,Centro-Oeste,2023,Leitos de Internação,Cirúrgicos,Total,11669.0
+5.0,Centro-Oeste,2023,Leitos de Internação,Clínicos,Total,13727.0
+5.0,Centro-Oeste,2023,Leitos de Internação,Hospital/DIA,Total,1180.0
+5.0,Centro-Oeste,2023,Leitos de Internação,Obstétrico,Total,4648.0
+5.0,Centro-Oeste,2023,Leitos de Internação,Outras Especialidades,Total,4563.0
+5.0,Centro-Oeste,2023,Leitos de Internação,Pediátrico,Total,4178.0

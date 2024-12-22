@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Casos de Dengue</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+
+    <header class="bg-green-600 text-white p-6" data-aos="fade-down">
+        <h1 class="text-4xl font-bold text-center">Casos de Dengue</h1>
+    </header>
+
+    <main class="max-w-5xl mx-auto p-6">
+        <section class="mb-8" data-aos="fade-up">
+            <form method="POST" action="/funcionalidade_dengue" class="bg-white p-6 shadow rounded-lg">
+                <label for="regiao" class="block text-gray-700 text-xl font-bold mb-2">Selecione a Região:</label>
+                <select name="regiao" id="regiao" class="block w-full bg-gray-200 border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500 mb-4">
+                    <option value="Todas" {% if regiao_selecionada == "Todas" %}selected{% endif %}>Todas</option>
+                    {% for regiao in regioes %}
+                    <option value="{{ regiao }}" {% if regiao_selecionada == regiao %}selected{% endif %}>{{ regiao }}</option>
+                    {% endfor %}
+                </select>
+
+                <label for="ano" class="block text-gray-700 text-xl font-bold mb-2">Selecione o Ano:</label>
+                <select name="ano" id="ano" class="block w-full bg-gray-200 border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500 mb-4">
+                    <option value="Todos" {% if ano_selecionado == "Todos" %}selected{% endif %}>Todos</option>
+                    {% for ano in anos %}
+                    <option value="{{ ano }}" {% if ano_selecionado == ano %}selected{% endif %}>{{ ano }}</option>
+                    {% endfor %}
+                </select>
+
+                <button type="submit" class="bg-green-600 text-white font-bold py-2 px-4 rounded hover:bg-green-500">Filtrar</button>
+            </form>
+        </section>
+
+        <section class="mb-8" data-aos="fade-up">
+            <h2 class="text-3xl font-bold text-gray-800 mb-4">Evolução de Casos de Dengue</h2>
+            <img src="{{ url_for('static', filename=grafico_evolucao_casos_url) }}" alt="Evolução de Casos de Dengue" class="w-full h-auto rounded-lg shadow">
+        </section>
+
+        <section class="mb-8" data-aos="fade-up">
+            <h2 class="text-3xl font-bold text-gray-800 mb-4">Casos de Dengue por Região</h2>
+            <img src="{{ url_for('static', filename=grafico_comparacao_regional_casos_url) }}" alt="Casos de Dengue por Região" class="w-full h-auto rounded-lg shadow">
+        </section>
+
+        <nav class="mt-10 flex justify-center" data-aos="fade-up" data-aos-delay="100">
+            <a href="/funcionalidade" class="bg-green-600 text-white px-4 py-2 rounded shadow hover:bg-green-500">Voltar para as Funcionalidades</a>
+        </nav>
+    </main>
+
+    <footer class="bg-gray-900 text-white text-center p-4" data-aos="fade-up">
+        <p>Desenvolvido com Flask</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+    <script>
+        AOS.init({
+            duration: 1000,
+            easing: 'ease-in-out', 
+            once: true, 
+        });
+    </script>
+</body>
+</html>

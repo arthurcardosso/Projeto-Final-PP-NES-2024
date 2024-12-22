@@ -1,0 +1,82 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Apresentação</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"> <!-- Font Awesome -->
+</head>
+<body class="bg-gray-100">
+    <header class="bg-gradient-to-r from-green-600 to-blue-600 text-white p-6 shadow-lg" data-aos="fade-down">
+        <h1 class="text-5xl font-bold text-center drop-shadow-lg flex items-center justify-center space-x-4">
+            <i class="fas fa-users text-3xl"></i>
+            <span>Conheça o Time</span>
+        </h1>
+    </header>
+
+    <main class="max-w-5xl mx-auto p-6">
+        <section data-aos="fade-up" data-aos-duration="1000">
+            <h2 class="text-3xl font-bold text-gray-800 mb-6">Membros do Grupo</h2>
+            <div class="space-y-6">
+    
+                <div class="bg-white p-6 shadow-lg rounded-lg flex items-center hover:shadow-2xl transition-all duration-300">
+                    <img src="{{ url_for('static', filename='img/fotorenato.jpeg') }}" alt="Foto do Renato Praxedes" class="w-16 h-16 rounded-full mr-6">
+                    <div>
+                        <h3 class="text-2xl font-semibold text-gray-800">Renato Praxedes</h3>
+                        <p class="text-gray-600">Desenvolveu as páginas HTML e colaborou na criação do design e estilo do site.</p>
+                    </div>
+                </div>
+
+                <div class="bg-white p-6 shadow-lg rounded-lg flex items-center hover:shadow-2xl transition-all duration-300">
+                    <img src="{{ url_for('static', filename='img/fotoarthur.jpeg') }}" alt="Foto do Arthur Cardoso" class="w-16 h-16 rounded-full mr-6">
+                    <div>
+                        <h3 class="text-2xl font-semibold text-gray-800">Arthur Cardoso</h3>
+                        <p class="text-gray-600">Implementou o sistema Flask e garantiu a integração entre backend e frontend.</p>
+                    </div>
+                </div>
+
+                <div class="bg-white p-6 shadow-lg rounded-lg flex items-center hover:shadow-2xl transition-all duration-300">
+                    <img src="{{ url_for('static', filename='img/fotojoao.jpeg') }}" alt="Foto do João Gama" class="w-16 h-16 rounded-full mr-6">
+                    <div>
+                        <h3 class="text-2xl font-semibold text-gray-800">João Gama</h3>
+                        <p class="text-gray-600">Responsável por criar um relatório detalhado explicando cada parte e informação do projeto.</p>
+                    </div>
+                </div>
+
+                <div class="bg-white p-6 shadow-lg rounded-lg flex items-center hover:shadow-2xl transition-all duration-300">
+                    <img src="{{ url_for('static', filename='img/fotorodolfo.jpeg') }}" alt="Foto do Rodolfo Filho" class="w-16 h-16 rounded-full mr-6">
+                    <div>
+                        <h3 class="text-2xl font-semibold text-gray-800">Rodolfo Filho</h3>
+                        <p class="text-gray-600">Organizou, revisou e realizou o envio do trabalho para o repositório final.</p>
+                    </div>
+                </div>
+
+                <div class="bg-white p-6 shadow-lg rounded-lg flex items-center hover:shadow-2xl transition-all duration-300">
+                    <img src="{{ url_for('static', filename='img/fotoalice.jpeg') }}" alt="Foto da Alice Lourencini" class="w-16 h-16 rounded-full mr-6">
+                    <div>
+                        <h3 class="text-2xl font-semibold text-gray-800">Alice Lourencini</h3>
+                        <p class="text-gray-600">Finalizou e revisou o projeto, garantindo sua qualidade e completude.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <nav class="mt-10 flex justify-center space-x-6">
+            <a href="/" class="bg-green-600 text-white px-6 py-3 rounded-lg shadow-md hover:bg-green-500 hover:shadow-xl focus:outline-none focus:ring-4 focus:ring-green-300 transition-all duration-300 transform hover:scale-105">
+                Voltar para a Home
+            </a>
+            <a href="/funcionalidade" class="bg-green-600 text-white px-6 py-3 rounded-lg shadow-md hover:bg-green-500 hover:shadow-xl focus:outline-none focus:ring-4 focus:ring-green-300 transition-all duration-300 transform hover:scale-105">
+                Acesse as Funcionalidades
+            </a>
+        </nav>
+    </main>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+</body>
+</html>

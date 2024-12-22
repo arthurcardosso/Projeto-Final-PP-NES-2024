@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estabelecimentos de Saúde</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+
+    <header class="bg-blue-600 text-white p-6" data-aos="fade-down">
+        <h1 class="text-4xl font-bold text-center">Distribuição de Estabelecimentos de Saúde por Região</h1>
+    </header>
+
+    <main class="max-w-5xl mx-auto p-6">
+        <section class="mb-8" data-aos="fade-up">
+            <h2 class="text-3xl font-bold text-gray-800 mb-4">Gráfico de Distribuição</h2>
+            <img src="{{ url_for('static', filename=grafico_url) }}" alt="Distribuição de Estabelecimentos de Saúde por Região" class="w-full h-auto rounded-lg shadow">
+        </section>
+
+        <nav class="mt-10 flex justify-center" data-aos="fade-up" data-aos-delay="100">
+            <a href="/funcionalidade" class="bg-blue-600 text-white px-4 py-2 rounded shadow hover:bg-blue-500">Voltar para as Funcionalidades</a>
+        </nav>
+    </main>
+
+    <footer class="bg-gray-900 text-white text-center p-4 mt-10">
+        <p>Desenvolvido com Flask</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+    <script>
+        AOS.init({
+            duration: 1000, 
+            easing: 'ease-in-out', 
+            once: true, 
+        });
+    </script>
+</body>
+</html>

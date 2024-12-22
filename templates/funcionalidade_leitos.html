@@ -1,0 +1,82 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leitos por Região</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+
+    <header class="bg-blue-600 text-white p-6" data-aos="fade-down">
+        <h1 class="text-4xl font-bold text-center">Leitos por Região</h1>
+    </header>
+
+    <main class="max-w-5xl mx-auto p-6">
+        <section class="mb-8" data-aos="fade-up">
+            <form method="POST" action="/funcionalidade_leitos" class="bg-white p-6 shadow rounded-lg">
+                <label for="regiao" class="block text-gray-700 text-xl font-bold mb-2">Selecione a Região:</label>
+                <select name="regiao" id="regiao" class="block w-full bg-gray-200 border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500 mb-4">
+                    <option value="Todas" {% if regiao_selecionada == "Todas" %}selected{% endif %}>Todas</option>
+                    {% for regiao in regioes %}
+                    <option value="{{ regiao }}" {% if regiao_selecionada == regiao %}selected{% endif %}>{{ regiao }}</option>
+                    {% endfor %}
+                </select>
+
+                <label for="ano" class="block text-gray-700 text-xl font-bold mb-2">Selecione o Ano:</label>
+                <select name="ano" id="ano" class="block w-full bg-gray-200 border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500 mb-4">
+                    <option value="Todos" {% if ano_selecionado == "Todos" %}selected{% endif %}>Todos</option>
+                    {% for ano in anos %}
+                    <option value="{{ ano }}" {% if ano_selecionado == ano %}selected{% endif %}>{{ ano }}</option>
+                    {% endfor %}
+                </select>
+
+                <label for="categoria" class="block text-gray-700 text-xl font-bold mb-2">Selecione a Categoria:</label>
+                <select name="categoria" id="categoria" class="block w-full bg-gray-200 border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500 mb-4">
+                    <option value="Todas">Todas</option>
+                </select>
+
+                <button type="submit" class="bg-blue-600 text-white font-bold py-2 px-4 rounded hover:bg-blue-500">Filtrar</button>
+            </form>
+        </section>
+
+        <section class="mb-8" data-aos="fade-up" data-aos-delay="100">
+            <h2 class="text-3xl font-bold text-gray-800 mb-4">Distribuição de Leitos por Categoria</h2>
+            <img src="{{ url_for('static', filename=grafico_barras_categorias_url) }}" alt="Distribuição de Leitos por Categoria" class="w-full h-auto rounded-lg shadow">
+        </section>
+
+        <section class="mb-8" data-aos="fade-up" data-aos-delay="200">
+            <h2 class="text-3xl font-bold text-gray-800 mb-4">Evolução Temporal de Leitos por Categoria</h2>
+            <img src="{{ url_for('static', filename=grafico_linhas_leitos_url) }}" alt="Evolução Temporal de Leitos por Categoria" class="w-full h-auto rounded-lg shadow">
+        </section>
+
+        <section class="mb-8" data-aos="fade-up" data-aos-delay="300">
+            <h2 class="text-3xl font-bold text-gray-800 mb-4">Comparação Regional de Leitos</h2>
+            {% if grafico_comparacao_regional_url %}
+            <img src="{{ url_for('static', filename=grafico_comparacao_regional_url) }}" alt="Comparação Regional de Leitos" class="w-full h-auto rounded-lg shadow">
+            {% else %}
+            <p>Gráfico não disponível para o filtro selecionado.</p>
+            {% endif %}
+        </section>
+
+        <nav class="mt-10 flex justify-center" data-aos="fade-up" data-aos-delay="400">
+            <a href="/funcionalidade" class="bg-blue-600 text-white px-4 py-2 rounded shadow hover:bg-blue-500">Voltar para as Funcionalidades</a>
+        </nav>
+    </main>
+
+    <footer class="bg-gray-900 text-white text-center p-4 mt-10">
+        <p>Desenvolvido com Flask</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+    <script>
+        AOS.init({
+            duration: 1000, 
+            easing: 'ease-in-out', 
+            once: true, 
+        });
+    </script>
+</body>
+</html>
